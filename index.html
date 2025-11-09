@@ -157,11 +157,15 @@
             margin-bottom: 10px;
         }
 
+        .game-progress-section {
+            padding: 0 20px 20px 20px;
+        }
+
         .progress-bar {
             width: 100%;
             height: 24px;
             background: rgba(0, 0, 0, 0.5);
-            border-radius: 0;
+            border-radius: 12px;
             overflow: hidden;
             margin: 0;
             position: relative;
@@ -178,6 +182,11 @@
             font-weight: bold;
             color: #fff;
             text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+        }
+
+        .progress-fill.low-percentage {
+            justify-content: flex-start;
+            padding-left: 20px;
         }
 
         .stats {
@@ -248,7 +257,9 @@
         .detail-game-icon {
             width: 100%;
             height: auto;
+            aspect-ratio: 460 / 215;
             display: block;
+            object-fit: cover;
         }
 
         .detail-game-info {
@@ -371,6 +382,7 @@
             border-radius: 50%;
             border: 3px solid #66c0f4;
             transition: transform 0.2s;
+            cursor: pointer;
         }
 
         .profile-icon:hover {
@@ -588,15 +600,15 @@
             summaryDiv.innerHTML = `
                 <div class="summary" id="summary-box">
                     <div class="summary-header">
-<!--                        <a href="https://steamcommunity.com" target="_blank"> -->
+                        <!-- <a href="https://steamcommunity.com" target="_blank"> -->
                             <img src="https://avatars.fastly.steamstatic.com/29283662f3b58488c74ad750539ba5289b53cf6c_full.jpg" 
                                  alt="Steam Profile" 
                                  class="profile-icon">
-                        </a>
+                        <!-- </a> -->
                         <h2 style="color: #66c0f4; margin: 0;">Roschach96's summary</h2>
                     </div>
-                    <div class="progress-bar" style="max-width: 600px; margin: 0 auto; border-radius: 12px;">
-                        <div class="progress-fill" style="width: ${overallPercentage}%">${overallPercentage}%</div>
+                    <div class="progress-bar" style="max-width: 600px; margin: 0 auto;">
+                        <div class="progress-fill ${overallPercentage < 6 ? 'low-percentage' : ''}" style="width: ${overallPercentage}%">${overallPercentage}%</div>
                     </div>
                     <div class="summary-stats">
                         <div class="stat-item">
@@ -645,8 +657,10 @@
                                 </div>
                             </div>
                             
-                            <div class="progress-bar">
-                                <div class="progress-fill" style="width: ${percentage}%">${percentage}%</div>
+                            <div class="game-progress-section">
+                                <div class="progress-bar">
+                                    <div class="progress-fill ${percentage < 6 ? 'low-percentage' : ''}" style="width: ${percentage}%">${percentage}%</div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -678,14 +692,14 @@
                 
                 <div class="detail-header">
                     ${game.icon ? 
-                        `<img src="${game.icon}" alt="${game.name}" class="detail-game-icon" onerror="this.src='https://via.placeholder.com/900x420/3d5a6c/ffffff?text=No+Image'">` : 
-                        '<img src="https://via.placeholder.com/900x420/3d5a6c/ffffff?text=No+Image" class="detail-game-icon">'}
+                        `<img src="${game.icon}" alt="${game.name}" class="detail-game-icon" onerror="this.src='https://via.placeholder.com/460x215/3d5a6c/ffffff?text=No+Image'">` : 
+                        '<img src="https://via.placeholder.com/460x215/3d5a6c/ffffff?text=No+Image" class="detail-game-icon">'}
                     <div class="detail-game-info">
                         <div class="detail-game-title">${game.name}</div>
                         <div class="detail-game-appid">AppID: ${game.appId}</div>
                         
-                        <div class="progress-bar" style="border-radius: 12px;">
-                            <div class="progress-fill" style="width: ${percentage}%">${percentage}%</div>
+                        <div class="progress-bar">
+                            <div class="progress-fill ${percentage < 6 ? 'low-percentage' : ''}" style="width: ${percentage}%">${percentage}%</div>
                         </div>
                         
                         <div class="stats">
