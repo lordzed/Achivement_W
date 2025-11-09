@@ -764,8 +764,8 @@
                                 ${ach.unlocked && ach.unlocktime ? 
                                     `<div class="achievement-unlock-time">Unlocked: ${new Date(ach.unlocktime * 1000).toLocaleDateString()}</div>` : 
                                     ''}
-                                ${isRare ? 
-                                    `<div class="achievement-rarity rarity-rare">${rarityNum.toFixed(1)}% of players have this</div>` : 
+                                ${rarityNum !== null && !isNaN(rarityNum) ? 
+                                    `<div class="achievement-rarity ${isRare ? 'rarity-rare' : ''}">${rarityNum.toFixed(1)}% of players have this</div>` : 
                                     ''}
                             </div>
                         </div>
