@@ -286,6 +286,18 @@
             padding: 0;
         }
 
+        .achievements-section-title {
+            color: #66c0f4;
+            font-size: 1.2em;
+            margin: 20px 0 15px 0;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #3d5a6c;
+        }
+
+        .achievements-section-title.locked-title {
+            color: #8f98a0;
+        }
+
         .achievements-list::-webkit-scrollbar {
             width: 8px;
         }
@@ -380,6 +392,7 @@
             font-size: 0.85em;
             margin-top: 5px;
             font-weight: bold;
+            color: #8f98a0;
         }
 
         .rarity-rare {
@@ -632,11 +645,9 @@
             summaryDiv.innerHTML = `
                 <div class="summary" id="summary-box">
                     <div class="summary-header">
-                        <!-- <a href="https://steamcommunity.com" target="_blank"> -->
-                            <img src="https://avatars.fastly.steamstatic.com/29283662f3b58488c74ad750539ba5289b53cf6c_full.jpg" 
-                                 alt="Steam Profile" 
-                                 class="profile-icon">
-                        <!-- </a> -->
+                        <img src="https://avatars.fastly.steamstatic.com/29283662f3b58488c74ad750539ba5289b53cf6c_full.jpg" 
+                             alt="Steam Profile" 
+                             class="profile-icon">
                         <h2 style="color: #66c0f4; margin: 0;">Roschach96's summary</h2>
                     </div>
                     <div class="progress-bar" style="max-width: 600px; margin: 0 auto;">
@@ -711,6 +722,34 @@
             const total = game.achievements.length;
             const percentage = total > 0 ? Math.round((unlocked / total) * 100) : 0;
 
+            // Separate unlocked and locked achievements
+            const unlockedAchievements = game.achievements.filter(a => a.unlocked);
+            const lockedAchievements = game.achievements.filter(a => !a.unlocked);
+
+            // Function to render achievement HTML
+            function renderAchievement(ach, isUnlocked) {
+                const rarityNum = ach.rarity !== null && ach.rarity !== undefined ? parseFloat(ach.rarity) : null;
+                const isRare = rarityNum !== null && !isNaN(rarityNum) && rarityNum < 10;
+                
+                return `
+                    <div class="achievement ${isUnlocked ? 'unlocked' : 'locked'}">
+                        ${ach.icon || ach.icongray ? 
+                            `<img src="${isUnlocked ? ach.icon : (ach.icongray || ach.icon)}" alt="${ach.name}" class="achievement-icon ${isRare ? 'rare-glow' : ''}" onerror="this.style.display='none'">` : 
+                            `<div class="achievement-icon ${isRare ? 'rare-glow' : ''}"></div>`}
+                        <div class="achievement-info">
+                            <div class="achievement-name">${ach.name}</div>
+                            <div class="achievement-desc">${ach.description}</div>
+                            ${isUnlocked && ach.unlocktime ? 
+                                `<div class="achievement-unlock-time">Unlocked: ${new Date(ach.unlocktime * 1000).toLocaleDateString()}</div>` : 
+                                ''}
+                            ${rarityNum !== null && !isNaN(rarityNum) ? 
+                                `<div class="achievement-rarity ${isRare ? 'rarity-rare' : ''}">${rarityNum.toFixed(1)}% of players have this</div>` : 
+                                ''}
+                        </div>
+                    </div>
+                `;
+            }
+
             // Hide grid and summary
             document.getElementById('games-grid').classList.add('hidden');
             document.getElementById('summary-box').classList.add('hidden');
@@ -748,29 +787,15 @@
                 </div>
                 
                 <div class="achievements-list">
-                    ${game.achievements
-                        .sort((a, b) => b.unlocked - a.unlocked)
-                        .map(ach => {
-                            const rarityNum = ach.rarity !== null ? parseFloat(ach.rarity) : null;
-                            const isRare = rarityNum !== null && !isNaN(rarityNum) && rarityNum < 10;
-                            return `
-                        <div class="achievement ${ach.unlocked ? 'unlocked' : 'locked'}">
-                            ${ach.icon || ach.icongray ? 
-                                `<img src="${ach.unlocked ? ach.icon : (ach.icongray || ach.icon)}" alt="${ach.name}" class="achievement-icon ${isRare ? 'rare-glow' : ''}" onerror="this.style.display='none'">` : 
-                                `<div class="achievement-icon ${isRare ? 'rare-glow' : ''}"></div>`}
-                            <div class="achievement-info">
-                                <div class="achievement-name">${ach.name}</div>
-                                <div class="achievement-desc">${ach.description}</div>
-                                ${ach.unlocked && ach.unlocktime ? 
-                                    `<div class="achievement-unlock-time">Unlocked: ${new Date(ach.unlocktime * 1000).toLocaleDateString()}</div>` : 
-                                    ''}
-                                ${rarityNum !== null && !isNaN(rarityNum) ? 
-                                    `<div class="achievement-rarity ${isRare ? 'rarity-rare' : ''}">${rarityNum.toFixed(1)}% of players have this</div>` : 
-                                    ''}
-                            </div>
-                        </div>
-                    `;
-                        }).join('')}
+                    ${unlockedAchievements.length > 0 ? `
+                        <h3 class="achievements-section-title">Unlocked Achievements</h3>
+                        ${unlockedAchievements.map(ach => renderAchievement(ach, true)).join('')}
+                    ` : ''}
+                    
+                    ${lockedAchievements.length > 0 ? `
+                        <h3 class="achievements-section-title locked-title">Locked Achievements</h3>
+                        ${lockedAchievements.map(ach => renderAchievement(ach, false)).join('')}
+                    ` : ''}
                 </div>
             `;
             
