@@ -735,10 +735,17 @@
             let totalGames = gamesData.size;
             let totalAchievements = 0;
             let totalUnlocked = 0;
+            let perfectGames = 0;
 
             for (let game of gamesData.values()) {
                 totalAchievements += game.achievements.length;
-                totalUnlocked += game.achievements.filter(a => a.unlocked).length;
+                const unlocked = game.achievements.filter(a => a.unlocked).length;
+                totalUnlocked += unlocked;
+                
+                // Count perfect games (100% completion)
+                if (game.achievements.length > 0 && unlocked === game.achievements.length) {
+                    perfectGames++;
+                }
             }
 
             const overallPercentage = totalAchievements > 0 ? Math.round((totalUnlocked / totalAchievements) * 100) : 0;
@@ -761,6 +768,12 @@
                             <div class="stat-value">${totalGames}</div>
                             <div class="stat-label">Games</div>
                         </div>
+                        ${perfectGames > 0 ? `
+                        <div class="stat-item">
+                            <div class="stat-value">${perfectGames}</div>
+                            <div class="stat-label">Perfect Game${perfectGames !== 1 ? 's' : ''}</div>
+                        </div>
+                        ` : ''}
                         <div class="stat-item">
                             <div class="stat-value">${totalUnlocked}/${totalAchievements}</div>
                             <div class="stat-label">Achievements Unlocked</div>
