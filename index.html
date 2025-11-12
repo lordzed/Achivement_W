@@ -342,19 +342,52 @@
             background: rgba(102, 192, 244, 0.1);
             color: #66c0f4;
             border: 1px solid #66c0f4;
-            padding: 8px 16px;
+            padding: 10px 14px;
             border-radius: 4px;
-            font-size: 14px;
+            font-size: 18px;
             font-weight: bold;
             cursor: pointer;
             transition: all 0.3s;
             display: inline-flex;
             align-items: center;
+            justify-content: center;
             gap: 6px;
+            position: relative;
+            min-width: 45px;
         }
 
         .sort-button:hover {
             background: rgba(102, 192, 244, 0.2);
+        }
+
+        .sort-button:hover::after {
+            content: attr(data-tooltip);
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(0, 0, 0, 0.9);
+            color: #fff;
+            padding: 8px 12px;
+            border-radius: 4px;
+            white-space: nowrap;
+            font-size: 12px;
+            margin-bottom: 5px;
+            z-index: 1000;
+            pointer-events: none;
+        }
+
+        .sort-button:hover::before {
+            content: '';
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            border: 5px solid transparent;
+            border-top-color: rgba(0, 0, 0, 0.9);
+            margin-bottom: -5px;
+            z-index: 1000;
+            pointer-events: none;
         }
 
         .sort-button.active {
@@ -906,19 +939,19 @@
                     ${unlockedAchievements.length > 0 ? `
                         <h3 class="achievements-section-title">Unlocked Achievements</h3>
                         <div class="sort-controls">
-                            <button class="sort-button ${sortMode === 'rarity-asc' ? 'active' : ''}" onclick="setSortMode('rarity-asc')">
-                                🏆 Rarest First
+                            <button class="sort-button ${sortMode === 'rarity-asc' ? 'active' : ''}" onclick="setSortMode('rarity-asc')" data-tooltip="Rarest First">
+                                🏆↑
                             </button>
-                            <button class="sort-button ${sortMode === 'rarity-desc' ? 'active' : ''}" onclick="setSortMode('rarity-desc')">
-                                📊 Most Common First
+                            <button class="sort-button ${sortMode === 'rarity-desc' ? 'active' : ''}" onclick="setSortMode('rarity-desc')" data-tooltip="Most Common First">
+                                🏆↓
                             </button>
-                            <button class="sort-button ${sortMode === 'date-newest' ? 'active' : ''}" onclick="setSortMode('date-newest')">
-                                🕐 Newest First
+                            <button class="sort-button ${sortMode === 'date-newest' ? 'active' : ''}" onclick="setSortMode('date-newest')" data-tooltip="Newest First">
+                                🕐↓
                             </button>
-                            <button class="sort-button ${sortMode === 'date-oldest' ? 'active' : ''}" onclick="setSortMode('date-oldest')">
-                                🕙 Oldest First
+                            <button class="sort-button ${sortMode === 'date-oldest' ? 'active' : ''}" onclick="setSortMode('date-oldest')" data-tooltip="Oldest First">
+                                🕐↑
                             </button>
-                            ${sortMode !== 'default' ? `<button class="sort-button" onclick="setSortMode('default')">↺ Reset</button>` : ''}
+                            ${sortMode !== 'default' ? `<button class="sort-button" onclick="setSortMode('default')" data-tooltip="Reset Sorting">↺</button>` : ''}
                         </div>
                         ${unlockedAchievements.map(ach => renderAchievement(ach, true)).join('')}
                     ` : ''}
