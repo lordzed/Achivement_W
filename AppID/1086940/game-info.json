@@ -161,7 +161,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/a00e6ad2d3d84c4649654ce74a82cc2fa96cf3cf.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/0db20ed8095106be54f7ced1c60f3540c77b8941.jpg",
       "hidden": true,
-      "percent": "39.9"
+      "percent": "40.0"
     },
     "BG3_Quest21": {
       "name": "Under Lock and Key",
@@ -185,7 +185,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/cc1a63fce03ab5580530c8efcef4a86a46708a39.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/f3231abe1436a3b8211233dfb2e1e116e8e79fd5.jpg",
       "hidden": true,
-      "percent": "36.8"
+      "percent": "36.9"
     },
     "BG3_Quest24": {
       "name": "Leave No One Behind",
@@ -193,7 +193,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/cca40bc98c6fb9c7a84e10256866157d5157e060.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/5a90e4f09835d714c8da82374a450d116b3d272f.jpg",
       "hidden": true,
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "BG3_Quest25": {
       "name": "Murder in Baldur's Gate",
@@ -201,7 +201,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/f700d8870a67e86b69c9fa66e02b805735e18e36.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/d367f18a90c4ebd5f5ba852042be6a01adab68ab.jpg",
       "hidden": true,
-      "percent": "9.1"
+      "percent": "9.2"
     },
     "BG3_Quest26": {
       "name": "Mind Blown",
@@ -217,7 +217,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/4d651ac095d988353bb73662b37b4c9f049a8ea2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/f0124a5113d5c20c48e80a4deb5994d2be348966.jpg",
       "hidden": false,
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "BG3_Quest28": {
       "name": "Busker",
@@ -257,7 +257,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/f9353502a5d66c5160f1474c50c86c521e0481fa.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/94cf2cb0837eec87af76d5e6a0833f6f6746145a.jpg",
       "hidden": true,
-      "percent": "15.4"
+      "percent": "15.5"
     },
     "BG3_Quest33": {
       "name": "A Grym Fate",
@@ -281,7 +281,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/969cc50dcb65bc3993966fba3b732227db209472.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/486641391fb2de3cdfa41598c1e90fc3bf621200.jpg",
       "hidden": false,
-      "percent": "27.8"
+      "percent": "27.9"
     },
     "BG3_Quest36": {
       "name": "No Free Lunches",
@@ -433,7 +433,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/cfa3488b4ac501d846b14948b801c93c361a98fe.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/0812cb6a6b9da0a844295409c1baaef2e0a69c4d.jpg",
       "hidden": false,
-      "percent": "2.8"
+      "percent": "2.9"
     }
   }
 }

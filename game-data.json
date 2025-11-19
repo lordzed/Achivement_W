@@ -164,7 +164,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/a00e6ad2d3d84c4649654ce74a82cc2fa96cf3cf.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/0db20ed8095106be54f7ced1c60f3540c77b8941.jpg",
           "hidden": true,
-          "percent": "39.9"
+          "percent": "40.0"
         },
         "BG3_Quest21": {
           "name": "Under Lock and Key",
@@ -188,7 +188,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/cc1a63fce03ab5580530c8efcef4a86a46708a39.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/f3231abe1436a3b8211233dfb2e1e116e8e79fd5.jpg",
           "hidden": true,
-          "percent": "36.8"
+          "percent": "36.9"
         },
         "BG3_Quest24": {
           "name": "Leave No One Behind",
@@ -196,7 +196,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/cca40bc98c6fb9c7a84e10256866157d5157e060.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/5a90e4f09835d714c8da82374a450d116b3d272f.jpg",
           "hidden": true,
-          "percent": "5.8"
+          "percent": "5.9"
         },
         "BG3_Quest25": {
           "name": "Murder in Baldur's Gate",
@@ -204,7 +204,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/f700d8870a67e86b69c9fa66e02b805735e18e36.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/d367f18a90c4ebd5f5ba852042be6a01adab68ab.jpg",
           "hidden": true,
-          "percent": "9.1"
+          "percent": "9.2"
         },
         "BG3_Quest26": {
           "name": "Mind Blown",
@@ -220,7 +220,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/4d651ac095d988353bb73662b37b4c9f049a8ea2.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/f0124a5113d5c20c48e80a4deb5994d2be348966.jpg",
           "hidden": false,
-          "percent": "10.9"
+          "percent": "11.0"
         },
         "BG3_Quest28": {
           "name": "Busker",
@@ -260,7 +260,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/f9353502a5d66c5160f1474c50c86c521e0481fa.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/94cf2cb0837eec87af76d5e6a0833f6f6746145a.jpg",
           "hidden": true,
-          "percent": "15.4"
+          "percent": "15.5"
         },
         "BG3_Quest33": {
           "name": "A Grym Fate",
@@ -284,7 +284,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/969cc50dcb65bc3993966fba3b732227db209472.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/486641391fb2de3cdfa41598c1e90fc3bf621200.jpg",
           "hidden": false,
-          "percent": "27.8"
+          "percent": "27.9"
         },
         "BG3_Quest36": {
           "name": "No Free Lunches",
@@ -436,7 +436,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/cfa3488b4ac501d846b14948b801c93c361a98fe.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/0812cb6a6b9da0a844295409c1baaef2e0a69c4d.jpg",
           "hidden": false,
-          "percent": "2.8"
+          "percent": "2.9"
         }
       }
     },
@@ -694,7 +694,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ee7062f32b0615aaf12f5e9a0e51b3b4e6076df7.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a938a6e82ba02e4ab8272e9e6708cd7b5cdd7373.jpg",
           "hidden": false,
-          "percent": "66.9"
+          "percent": "67.0"
         },
         "ACH_CollectScrap100000": {
           "name": "Scrap Lord",
@@ -702,7 +702,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/22e1fa4cc7158380070fd0b066103c738415a8e4.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/b4637714b137b3dbb81e49ec1eb95e0312d08296.jpg",
           "hidden": false,
-          "percent": "53.2"
+          "percent": "53.3"
         },
         "ACH_CollectTech100": {
           "name": "Tech Enthusiast",
@@ -742,7 +742,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/33790fd6f93bcd72b289fa885bd34faac9df00d4.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/3d6fef7c011e6e7c7fd78dd483dbe41ce9a3e1f6.jpg",
           "hidden": false,
-          "percent": "78.3"
+          "percent": "78.4"
         },
         "ACH_KillAndroids1000": {
           "name": "Exterminate!",
@@ -750,7 +750,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/187ef98db9eeff5c3fed7349ad33cdbeb2127a15.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/e14f4f9244ecefc1dd63b5daa6b1db4c6a21aff4.jpg",
           "hidden": false,
-          "percent": "68.1"
+          "percent": "68.2"
         },
         "ACH_KillAndroidsWithBarrel1": {
           "name": "Contents Under Pressure",
@@ -782,7 +782,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a88a344d9542b95f12ccb411731052972141aa24.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/226e8f1250edf2c07eeb7fa2acc68859c06dda76.jpg",
           "hidden": false,
-          "percent": "62.7"
+          "percent": "62.8"
         },
         "ACH_StartMission": {
           "name": "Who the Hell am I?",
@@ -790,7 +790,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/60467a9819690db9fc0e98f78adba2a45266e6a5.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/fd0635bad48fdcc98f419c00e85b276845776dc1.jpg",
           "hidden": false,
-          "percent": "98.7"
+          "percent": "98.8"
         },
         "ACH_CompleteMission": {
           "name": "Welcome to the Deadzone",
@@ -798,7 +798,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/bd08fdcd07553435eaca35cbd5e8fff21ae5f115.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/880f7e513595bc286439617845b0f317a48bb7c4.jpg",
           "hidden": false,
-          "percent": "85.7"
+          "percent": "85.8"
         },
         "ACH_CompleteSpecialty": {
           "name": "Special Ops",
@@ -806,7 +806,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/e03fb79cbada60a67b0a29c150a7081fab138413.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/80f6771e34eeb33cbba4d38e4770a8babfef5caa.jpg",
           "hidden": false,
-          "percent": "68.7"
+          "percent": "68.8"
         },
         "ACH_CompleteStory1": {
           "name": "Brain in a Jar",
@@ -814,7 +814,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/546ce09b8e3b3bc7693bcbb75d8831d0ffc4fb65.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ae8cdad5e46d16e66a325693acc4922fbf1e7e98.jpg",
           "hidden": false,
-          "percent": "84.1"
+          "percent": "84.2"
         },
         "ACH_CompleteZone1": {
           "name": "This Bug Hunt Got Complicated",
@@ -822,7 +822,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/460c996b2731daf2bb4718188edfed6c01f2f44f.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/41594221eb3cb858cb1ff6aa85b325cbf6be6da4.jpg",
           "hidden": false,
-          "percent": "51.2"
+          "percent": "51.3"
         },
         "ACH_CompleteStory2": {
           "name": "Stay Frosty",
@@ -830,7 +830,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/1231abcfe315006e8d62525167726e36ed395659.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9e95e2cf3618fd1ca78e086dedd23cd4795e11bd.jpg",
           "hidden": false,
-          "percent": "58.2"
+          "percent": "58.3"
         },
         "ACH_CompleteZone2": {
           "name": "Executive Dysfunction",
@@ -846,7 +846,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/5a379e5354ecede049bef230bbe79ec4097d5647.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/fcd6b5a5cf239fbb61485eb159b8cd5520cf9ce7.jpg",
           "hidden": false,
-          "percent": "57.7"
+          "percent": "57.8"
         },
         "ACH_CompleteMission_Expert": {
           "name": "Express Elevator to Hell",
@@ -854,7 +854,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/0767eb0e7867e84715780fcd3d822269a59871fd.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/7f760ffd8101c122fbead22e435ec3373e10bccd.jpg",
           "hidden": false,
-          "percent": "29.3"
+          "percent": "29.4"
         },
         "ACH_CompleteMission_Nightmare": {
           "name": "Bad Dreams",
@@ -862,7 +862,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/19059b894148359e05072342af15c81d7a02650b.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/978345de72614124311d149b1c429c72d7467711.jpg",
           "hidden": false,
-          "percent": "13.2"
+          "percent": "13.3"
         },
         "ACH_MadeAFriend": {
           "name": "Made a Friend",
@@ -870,7 +870,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/242626c3503f965417b96ad585a1c2b1354b0664.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a2f900c3cdc09bc9ab113caa39fd7f11e84b0189.jpg",
           "hidden": true,
-          "percent": "73.0"
+          "percent": "73.1"
         },
         "ACH_ReadDataLog1": {
           "name": "Looky Here",
@@ -894,7 +894,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ad666328f4e8fb66ec0c7667c43056063d1aabae.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/242ae0e837e39f954f66ade0588e4e1972cac984.jpg",
           "hidden": false,
-          "percent": "70.4"
+          "percent": "70.5"
         },
         "ACH_TechUpgrades3": {
           "name": "Plot Armor",
@@ -910,7 +910,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/2876e1b6d048f4e45183f7e33fcfaae855d0d76c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/080b9e888647a12f4ca816f358381bf7e88844a3.jpg",
           "hidden": false,
-          "percent": "63.8"
+          "percent": "63.9"
         },
         "ACH_SuperUpgrades2": {
           "name": "This Ain’t Standard Issue",
@@ -918,7 +918,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9c11fc24f1746c5fd8dfe6e6e2fe87252589f90b.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/4a5a6fb046f76b41880d2719359531c1aa8d5387.jpg",
           "hidden": false,
-          "percent": "55.5"
+          "percent": "55.6"
         },
         "ACH_SuperUpgrades3": {
           "name": "Maxed Out",
@@ -926,7 +926,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/35e2b99f41c46a1b10ac7b6c25a959ec04390e43.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/7bb5f25b588792cf501bfb4447b6c0a38dd42b89.jpg",
           "hidden": false,
-          "percent": "32.1"
+          "percent": "32.2"
         },
         "ACH_SpendScrap": {
           "name": "Space Wallet",
@@ -934,7 +934,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/886d1c77f46d46b8367a4a702db28dc8801855c9.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9f08cd191ae4c632f89fbbabf5c78dede0bbc90c.jpg",
           "hidden": false,
-          "percent": "54.9"
+          "percent": "55.0"
         },
         "ACH_CompleteMission_Undamaged": {
           "name": "Invincible",
@@ -958,7 +958,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/374511011a1ae116bb7247e3776aa17e4c227dbd.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/b291e8610645771225cb1cb1b55263628f50284c.jpg",
           "hidden": false,
-          "percent": "59.9"
+          "percent": "60.0"
         },
         "ACH_LoadoutLegendary": {
           "name": "Blinged Out",
@@ -966,7 +966,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/c13e73c20052dbd1b037b10194338b8fa678638c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/23907483911cb4ddcd36d7ff59aa700b0ea52e80.jpg",
           "hidden": false,
-          "percent": "17.1"
+          "percent": "17.2"
         },
         "ACH_JazzHands": {
           "name": "Jazz Hands",
@@ -982,7 +982,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/fe1d8124525fc383bad44712f4b65ae84750f6c9.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/fbe709cd11de227583ff12da69384c5ffa150d63.jpg",
           "hidden": true,
-          "percent": "5.3"
+          "percent": "5.4"
         },
         "ACH_Botanist": {
           "name": "Botanist",
@@ -998,7 +998,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/98d180502bea83d5263f08b160f1ea56ccd2ab8c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a931c44ebdab909ff349b34b8f6c1296b70ecfb9.jpg",
           "hidden": false,
-          "percent": "30.4"
+          "percent": "30.6"
         },
         "ACH_CompleteZone3": {
           "name": "Mental Fortitude",
@@ -1014,7 +1014,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/2387e2fb449c7e1fa4cb53afc2152c5b1e5e69c0.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/362b94d99cf3171fae4977e9a1fcf338e1f291b9.jpg",
           "hidden": false,
-          "percent": "2.3"
+          "percent": "2.4"
         },
         "ACH_CompleteMission_All_Hard": {
           "name": "Hardcore to the Max",
@@ -1062,7 +1062,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/55c76811156992f88e280948488ec75409622dd2.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/61fcdf5648e43b984261d3bcb668341e77c5c94f.jpg",
           "hidden": false,
-          "percent": "34.4"
+          "percent": "34.5"
         },
         "ACH_ActivateSynergy3": {
           "name": "Feeling the Power",
@@ -1070,7 +1070,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/270d01b295df4e8004fb4bd3f070d8f022128e37.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9fa6d69c28df57ef3106de15b360bc56bf2176a3.jpg",
           "hidden": false,
-          "percent": "31.8"
+          "percent": "32.0"
         },
         "ACH_SynergiesActivated": {
           "name": "Promote Synergy",
@@ -1086,7 +1086,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9f7f4d4044045b3bc0e9f48854873de29ac86bc1.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/bb49263bb8d0e41d404f33df0b0261ae78b56e9a.jpg",
           "hidden": false,
-          "percent": "35.4"
+          "percent": "35.5"
         }
       }
     },
@@ -1366,7 +1366,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/8bcde58bb307d5ad8de9329c938691b74cceeac8.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/1b3b469702d1c639fc97df42ff823aba4033bde5.jpg",
           "hidden": false,
-          "percent": "6.5"
+          "percent": "6.6"
         },
         "ACH_GOLDEN_01_F": {
           "name": "Dream's Sweet Deceit",
@@ -1398,7 +1398,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/e84e5ee51a52ed9845351a474658a706b667b9b3.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/ef89b8c67b47e69cd97777f5c860dcf5c733ac6b.jpg",
           "hidden": true,
-          "percent": "18.8"
+          "percent": "18.9"
         },
         "ACH_SILVER_04_F": {
           "name": "Sage",
@@ -1406,7 +1406,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/90f1dbd9c228875d0ee910408c3d31789c12cdf6.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/e72702a5c75f127e717db052b5f69ac2ca6dae70.jpg",
           "hidden": false,
-          "percent": "15.9"
+          "percent": "16.0"
         },
         "ACH_SILVER_05_F": {
           "name": "Legendary Collector",
@@ -1430,7 +1430,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/c75e2ba8ce2342e0e155e272f361270bccb17739.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/f41cfc58e515a71b461a8eb5f21ac3039fda8b2a.jpg",
           "hidden": true,
-          "percent": "51.5"
+          "percent": "51.6"
         },
         "ACH_SILVER_08_F": {
           "name": "Eternal Glory - Zhao Yun's Spirit",
@@ -1486,7 +1486,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/01b8137bc49264376b6595ad187eb7997d023ed7.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/3c94ba421dc78f6a091a8e731282e054845daf52.jpg",
           "hidden": true,
-          "percent": "31.4"
+          "percent": "31.5"
         },
         "ACH_COPPER_01_F": {
           "name": "Overflowing Manna",
@@ -1574,7 +1574,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/1ef3698fefecccc31aa5ea379c180fa58671d618.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/a75896cdd1b2b1da05ec9cd50d945496e6c1c599.jpg",
           "hidden": true,
-          "percent": "45.3"
+          "percent": "45.4"
         },
         "ACH_COPPER_19_F": {
           "name": "Ming General - Liu Cheng'en",
@@ -1598,7 +1598,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/f18cd4059adc60dfe19596223c956701924736cf.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/c78b92c52b37310585735ef52e141f44c5fecd18.jpg",
           "hidden": true,
-          "percent": "38.0"
+          "percent": "38.1"
         },
         "ACH_COPPER_22_F": {
           "name": "Bo Sorcerer",
@@ -1614,7 +1614,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/e6d410ef4b15055cd37247e10dc863509fd6e20c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/f57a81fe2a027f24dd1a918a3875dce6c5ff8ed6.jpg",
           "hidden": true,
-          "percent": "31.3"
+          "percent": "31.4"
         },
         "ACH_COPPER_24_F": {
           "name": "Bo Magus",
@@ -1890,7 +1890,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/8fa1d077fe4702902fe3d350147169f993aea601.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/bb6f4bed2080cf84144451799b410378f61b0245.jpg",
           "hidden": false,
-          "percent": "28.4"
+          "percent": "28.3"
         },
         "ACHIEVEMENT_05": {
           "name": "Cleared the 60th floor of The X!",
@@ -1906,7 +1906,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/686cb078452142af4bb868d0ec4c6e83eddf3c1c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/4ef69fadf0568c09b300237b4e24216d1807208f.jpg",
           "hidden": false,
-          "percent": "34.2"
+          "percent": "34.1"
         },
         "ACHIEVEMENT_07": {
           "name": "Cleared the 40th floor of The X!",
@@ -1914,7 +1914,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b5d6b71dcae35b087de20f54ac7f24509faec83e.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/ff65386d95860fe97a0e89075e528bc60b305781.jpg",
           "hidden": false,
-          "percent": "38.9"
+          "percent": "38.8"
         },
         "ACHIEVEMENT_08": {
           "name": "Cleared the 30th floor of The X!",
@@ -1954,7 +1954,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/c56d0d9d6afa68a5af7561e1180ab9f547c3e680.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/6c706bb1f67652215ab1ffc000a2e623c38186f2.jpg",
           "hidden": false,
-          "percent": "25.4"
+          "percent": "25.5"
         },
         "ACHIEVEMENT_13": {
           "name": "Pro Blader",
@@ -2026,7 +2026,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/4b3990bb81f6f5c8559a4d32614aa32fa1599494.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/a6defebd107f3d75b8349e9f4e1bc20bdf6f3635.jpg",
           "hidden": false,
-          "percent": "31.3"
+          "percent": "31.4"
         },
         "ACHIEVEMENT_22": {
           "name": "Stamina-type Master",
@@ -2066,7 +2066,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/d3019495b9100660af5cc42d8cccf26f97d97fce.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/fba591ac8602488cd62f86967d43cf9e3fc96fda.jpg",
           "hidden": false,
-          "percent": "2.3"
+          "percent": "2.4"
         },
         "ACHIEVEMENT_27": {
           "name": "Bonding with Natsu",
@@ -2106,7 +2106,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/90a54071c19d3c38ae449c7cc911d778d7835140.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/da49ad05ebd6c7eb574362a44bd49db6241dd997.jpg",
           "hidden": false,
-          "percent": "7.1"
+          "percent": "7.2"
         },
         "ACHIEVEMENT_32": {
           "name": "Xtreme Dash Infinite",
@@ -2114,7 +2114,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/495dd0b4a844ef27611cd0cc87f1d9c17ea59b3c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/3bc615c0193d0ae6fc4c3d217b52f90518365edc.jpg",
           "hidden": false,
-          "percent": "4.0"
+          "percent": "4.1"
         },
         "ACHIEVEMENT_33": {
           "name": "Xtreme Dash Buster",
@@ -2178,7 +2178,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b543bcd2814dc1c391c85511e506847946e89134.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/295a1b95fa601e5e226104714d90463088f3f770.jpg",
           "hidden": false,
-          "percent": "6.6"
+          "percent": "6.5"
         },
         "ACHIEVEMENT_41": {
           "name": "The Shadow that Cannot Be Touched",
@@ -2202,7 +2202,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/7a17c83dd47b770535ef6e1413208c660fb8497d.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/5267db597999e22cef8a4dddaa83453d2610a787.jpg",
           "hidden": false,
-          "percent": "5.5"
+          "percent": "5.6"
         },
         "ACHIEVEMENT_44": {
           "name": "Xtreme Dash Strike Hunt",
@@ -2210,7 +2210,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/939d8c4c9ede7a184b7ec9677f526dee98a32502.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/fd0dada3f92ead9e695700f59d22cd50be96655c.jpg",
           "hidden": false,
-          "percent": "7.3"
+          "percent": "7.4"
         },
         "ACHIEVEMENT_45": {
           "name": "Xtreme Dash Crescent Judgment",
@@ -2226,7 +2226,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/64a039d8a2834fe60aa09e76b69423f9e403f6d2.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/ab43563948ec2a3876c9a834f815ead874231f6e.jpg",
           "hidden": false,
-          "percent": "28.6"
+          "percent": "28.5"
         }
       }
     },
@@ -2802,7 +2802,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/847a127d0086978bf008386d7b93ec59b7cd7fe6.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/847a127d0086978bf008386d7b93ec59b7cd7fe6.jpg",
           "hidden": false,
-          "percent": "11.0"
+          "percent": "11.1"
         },
         "0047": {
           "name": "Practice Makes Perfect",
