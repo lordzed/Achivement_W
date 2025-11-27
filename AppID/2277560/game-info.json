@@ -41,7 +41,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/e84e5ee51a52ed9845351a474658a706b667b9b3.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/ef89b8c67b47e69cd97777f5c860dcf5c733ac6b.jpg",
       "hidden": true,
-      "percent": "18.9"
+      "percent": "19.0"
     },
     "ACH_SILVER_04_F": {
       "name": "Sage",
@@ -49,7 +49,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/90f1dbd9c228875d0ee910408c3d31789c12cdf6.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/e72702a5c75f127e717db052b5f69ac2ca6dae70.jpg",
       "hidden": false,
-      "percent": "16.0"
+      "percent": "16.1"
     },
     "ACH_SILVER_05_F": {
       "name": "Legendary Collector",
@@ -65,7 +65,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/b4990dae32b2d34f32a431746e3e1e2b0439bf29.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/5c7811d92b6d5a078e124565654242de33814c05.jpg",
       "hidden": false,
-      "percent": "13.9"
+      "percent": "14.0"
     },
     "ACH_SILVER_07_F": {
       "name": "Commander - Honglan",
@@ -73,7 +73,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/c75e2ba8ce2342e0e155e272f361270bccb17739.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/f41cfc58e515a71b461a8eb5f21ac3039fda8b2a.jpg",
       "hidden": true,
-      "percent": "51.6"
+      "percent": "51.7"
     },
     "ACH_SILVER_08_F": {
       "name": "Eternal Glory - Zhao Yun's Spirit",
@@ -97,7 +97,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/1f7976046b29055850738df7b08d0b63b89fa0e9.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/f8fc8695173ebeb5fd3f8ecfd2d23de3237eb3ba.jpg",
       "hidden": true,
-      "percent": "36.4"
+      "percent": "36.5"
     },
     "ACH_SILVER_11_F": {
       "name": "Dragon Emperor - Zhu Youjian's Obsession",
@@ -105,7 +105,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/710c83a09ba8e5f62361c15b0be3b27ec38b5eb9.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/6afea0ddcb8a623b59cc53653b1592631dd5ce01.jpg",
       "hidden": true,
-      "percent": "33.3"
+      "percent": "33.4"
     },
     "ACH_SILVER_12_F": {
       "name": "Feathery Ambition - Xuanyangzi",
@@ -129,7 +129,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/01b8137bc49264376b6595ad187eb7997d023ed7.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/3c94ba421dc78f6a091a8e731282e054845daf52.jpg",
       "hidden": true,
-      "percent": "31.5"
+      "percent": "31.6"
     },
     "ACH_COPPER_01_F": {
       "name": "Overflowing Manna",
@@ -201,7 +201,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/d800210455203dc5eb85c77feb05134dad673e81.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/30752c5d87337512ddba6e1eb6d9b7191c478bef.jpg",
       "hidden": true,
-      "percent": "54.9"
+      "percent": "55.0"
     },
     "ACH_COPPER_17_F": {
       "name": "Feathered Priest - Lu Bingzhang",
@@ -217,7 +217,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/1ef3698fefecccc31aa5ea379c180fa58671d618.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/a75896cdd1b2b1da05ec9cd50d945496e6c1c599.jpg",
       "hidden": true,
-      "percent": "45.4"
+      "percent": "45.5"
     },
     "ACH_COPPER_19_F": {
       "name": "Ming General - Liu Cheng'en",
@@ -233,7 +233,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/3b152e99b6121c984bb94886435a92dff15572ba.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/720da3903518e7f72e36637635e18748892d4144.jpg",
       "hidden": true,
-      "percent": "42.7"
+      "percent": "42.8"
     },
     "ACH_COPPER_21_F": {
       "name": "South General - Liu Wenxiu",
@@ -289,7 +289,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/24dc58fce7e3dc746daa2ebe627fdecfc700664a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/f335ab6dfebb0f8c2483d45049d9b1d2fdd863c2.jpg",
       "hidden": false,
-      "percent": "19.8"
+      "percent": "19.9"
     },
     "ACH_COPPER_33_F": {
       "name": "Discerning Eye",
@@ -305,7 +305,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/f729c4aa87bc9d66ee957c997c80ac2b4cdf0231.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/b84a5ecc5aaa0d11787fe0622924629cbf0297b1.jpg",
       "hidden": true,
-      "percent": "21.0"
+      "percent": "21.1"
     },
     "ACH_COPPER_35_F": {
       "name": "Shop of Plenty",
@@ -313,7 +313,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/7aa1dd56449eda6681ab354c9478d1829e13566b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/9f3831c26ae102bd62a135b6535195c61ff69ee6.jpg",
       "hidden": false,
-      "percent": "14.2"
+      "percent": "14.3"
     },
     "ACH_COPPER_36_F": {
       "name": "Radiant Faith",
