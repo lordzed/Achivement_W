@@ -522,6 +522,66 @@
             margin-bottom: 20px;
         }
 
+        .grid-sort-controls {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+
+        .grid-sort-button {
+            background: rgba(102, 192, 244, 0.1);
+            color: #66c0f4;
+            border: 1px solid #66c0f4;
+            padding: 12px 20px;
+            border-radius: 6px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s;
+            position: relative;
+        }
+
+        .grid-sort-button:hover {
+            background: rgba(102, 192, 244, 0.2);
+            transform: translateY(-2px);
+        }
+
+        .grid-sort-button.active {
+            background: rgba(102, 192, 244, 0.3);
+            border-color: #56a0d4;
+        }
+
+        .grid-sort-button:hover::after {
+            content: attr(data-tooltip);
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(0, 0, 0, 0.9);
+            color: #fff;
+            padding: 8px 12px;
+            border-radius: 4px;
+            white-space: nowrap;
+            font-size: 13px;
+            margin-bottom: 8px;
+            z-index: 1000;
+            pointer-events: none;
+        }
+
+        .grid-sort-button:hover::before {
+            content: '';
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            border: 6px solid transparent;
+            border-top-color: rgba(0, 0, 0, 0.9);
+            margin-bottom: 2px;
+            z-index: 1000;
+            pointer-events: none;
+        }
+
         .profile-icon {
             width: 64px;
             height: 64px;
@@ -784,19 +844,44 @@
                         </div>
                     </div>
                 </div>
+                
+                <div class="grid-sort-controls">
+                    <button class="grid-sort-button ${window.gridSortMode === 'percentage' ? 'active' : ''}" 
+                            onclick="setGridSortMode('percentage')" 
+                            data-tooltip="Sort by Completion Percentage">
+                        📊 Percentage
+                    </button>
+                    <button class="grid-sort-button ${window.gridSortMode === 'recent' ? 'active' : ''}" 
+                            onclick="setGridSortMode('recent')" 
+                            data-tooltip="Sort by Most Recent Achievement">
+                        🕐 Recent Activity
+                    </button>
+                </div>
             `;
 
             // Display games
             let html = '<div class="games-grid" id="games-grid">';
 
-            // Sort games by completion percentage
-            const sortedGames = Array.from(gamesData.values()).sort((a, b) => {
-                const aPercent = a.achievements.length > 0 ? 
-                    a.achievements.filter(x => x.unlocked).length / a.achievements.length : 0;
-                const bPercent = b.achievements.length > 0 ? 
-                    b.achievements.filter(x => x.unlocked).length / b.achievements.length : 0;
-                return bPercent - aPercent;
-            });
+            // Sort games based on current grid sort mode
+            let sortedGames;
+            if (window.gridSortMode === 'recent') {
+                // Sort by most recent achievement unlock time
+                sortedGames = Array.from(gamesData.values()).sort((a, b) => {
+                    // Get most recent achievement unlock time for each game
+                    const aMaxTime = Math.max(...a.achievements.filter(ach => ach.unlocked).map(ach => ach.unlocktime || 0));
+                    const bMaxTime = Math.max(...b.achievements.filter(ach => ach.unlocked).map(ach => ach.unlocktime || 0));
+                    return bMaxTime - aMaxTime; // Most recent first
+                });
+            } else {
+                // Sort by completion percentage (default)
+                sortedGames = Array.from(gamesData.values()).sort((a, b) => {
+                    const aPercent = a.achievements.length > 0 ? 
+                        a.achievements.filter(x => x.unlocked).length / a.achievements.length : 0;
+                    const bPercent = b.achievements.length > 0 ? 
+                        b.achievements.filter(x => x.unlocked).length / b.achievements.length : 0;
+                    return bPercent - aPercent;
+                });
+            }
 
             for (let game of sortedGames) {
                 const unlocked = game.achievements.filter(a => a.unlocked).length;
@@ -847,6 +932,9 @@
                 percentage: percentage,
                 sortMode: 'default'
             };
+
+            // Store grid sort mode
+            window.gridSortMode = window.gridSortMode || 'percentage';
 
             renderGameDetail();
         }
@@ -990,6 +1078,11 @@
             document.getElementById('games-grid').classList.remove('hidden');
             document.getElementById('summary-box').classList.remove('hidden');
             window.scrollTo(0, 0);
+        }
+
+        function setGridSortMode(mode) {
+            window.gridSortMode = mode;
+            displayGames();
         }
 
         // Start loading on page load
