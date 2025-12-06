@@ -414,7 +414,7 @@
             user-select: none;
             transition: all 0.3s;
             border-radius: 3px;
-            padding: 1px 6px;
+            padding: 2px 6px;
         }
 
         .hidden-spoiler-text:hover {
@@ -661,7 +661,7 @@
             // Get GitHub username from repository URL
             const currentUrl = window.location.href;
             let githubUsername = 'User';
-            let githubAvatarUrl = 'https://i.imgur.com/dbZAogY.jpeg';
+            let githubAvatarUrl = 'https://avatars.fastly.steamstatic.com/29283662f3b58488c74ad750539ba5289b53cf6c_full.jpg';
             
             const repoMatch = currentUrl.match(/github\.io\/([^\/]+)/);
             if (repoMatch) {
@@ -811,23 +811,43 @@
             const achievements = [];
             let achData = achievementsData.achievements || achievementsData;
             
-            for (let key in achData) {
-                const ach = achData[key];
-                
-                // Use game-info data if available, otherwise use achievement data
-                const achInfo = gameInfo?.achievements?.[key] || {};
-                
-                achievements.push({
-                    apiname: key,
-                    name: achInfo.name || ach.name || ach.displayName || key,
-                    description: achInfo.description || ach.description || ach.desc || '',
-                    hidden: achInfo.hidden || ach.hidden || false,
-                    icon: achInfo.icon || ach.icon || '',
-                    icongray: achInfo.icongray || ach.icongray || ach.icon_gray || achInfo.icon || ach.icon || '',
-                    unlocked: ach.earned || ach.unlocked || ach.achieved || false,
-                    unlocktime: ach.earned_time || ach.unlock_time || ach.unlocktime || 0,
-                    rarity: achInfo.percent || ach.percent || null
-                });
+            // If gameInfo exists, use it as the complete list and merge with user's unlock data
+            if (gameInfo && gameInfo.achievements) {
+                // Use game-info as the source of truth for all achievements
+                for (let key in gameInfo.achievements) {
+                    const achInfo = gameInfo.achievements[key];
+                    const userAch = achData[key]; // Check if user has this achievement
+                    
+                    achievements.push({
+                        apiname: key,
+                        name: achInfo.name || key,
+                        description: achInfo.description || '',
+                        hidden: achInfo.hidden || false,
+                        icon: achInfo.icon || '',
+                        icongray: achInfo.icongray || achInfo.icon || '',
+                        // If user has this achievement and it's unlocked, mark as unlocked
+                        unlocked: userAch ? (userAch.earned || userAch.unlocked || userAch.achieved || false) : false,
+                        unlocktime: userAch ? (userAch.earned_time || userAch.unlock_time || userAch.unlocktime || 0) : 0,
+                        rarity: achInfo.percent || null
+                    });
+                }
+            } else {
+                // Fallback: use only what's in achievements.json (old behavior)
+                for (let key in achData) {
+                    const ach = achData[key];
+                    
+                    achievements.push({
+                        apiname: key,
+                        name: ach.name || ach.displayName || key,
+                        description: ach.description || ach.desc || '',
+                        hidden: ach.hidden || false,
+                        icon: ach.icon || '',
+                        icongray: ach.icongray || ach.icon_gray || ach.icon || '',
+                        unlocked: ach.earned || ach.unlocked || ach.achieved || false,
+                        unlocktime: ach.earned_time || ach.unlock_time || ach.unlocktime || 0,
+                        rarity: ach.percent || null
+                    });
+                }
             }
 
             gamesData.set(appId, {
@@ -1041,7 +1061,7 @@
                     // Always show "Hidden achievement" for hidden achievements
                     if (hasDescription) {
                         // If there's a real description, show it as spoiler on new line
-                        descriptionHTML = `<div class="achievement-desc hidden-spoiler">Hidden achievement:<span class="hidden-spoiler-text">${ach.description}</span></div>`;
+                        descriptionHTML = `<div class="achievement-desc hidden-spoiler">Hidden achievement<span class="hidden-spoiler-text">${ach.description}</span></div>`;
                     } else {
                         // No description available
                         descriptionHTML = `<div class="achievement-desc hidden-desc">Hidden achievement</div>`;
