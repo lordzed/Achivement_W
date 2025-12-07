@@ -172,7 +172,7 @@ The workflow runs daily at midnight UTC, or manually:
 ## 🐛 Troubleshooting
 
 **No games showing?**
-- Check that your `AppID/*/achievements.json` files exist
+- Check that your `AppID/*/` folder has any supported format achievement data files as mentioned in the ```Supported Formats``` section.
 - Verify the JSON files are valid (use a JSON validator)
 - Check browser console for errors (F12)
 
