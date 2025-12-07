@@ -803,5 +803,6 @@
       "hidden": true,
       "percent": "12.7"
     }
-  }
+  },
+  "uses_db": false
 }

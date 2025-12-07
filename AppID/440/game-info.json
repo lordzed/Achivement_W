@@ -1385,7 +1385,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7a961791c66160bc0ede7f2854ad25fa9f37ba74.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1d8a49fadb2e336a9eac511c329b68e7c27f6d52.jpg",
       "hidden": false,
-      "percent": "24.1"
+      "percent": "24.2"
     },
     "TF_SNIPER_CAPTURE_FLAG": {
       "name": "Have a Plan",
@@ -3057,7 +3057,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b7277ea1b2b2a69e00eed27fdb568fad1c3b5840.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/19186cf9e0a868dc980508c8172d82f8b868a9bc.jpg",
       "hidden": false,
-      "percent": "14.3"
+      "percent": "14.2"
     },
     "TF_MAPS_FOUNDRY_KILL_CAPPING_ENEMY": {
       "name": "Cap Trap",
@@ -3473,7 +3473,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_kill_medics_charged.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_kill_medics_charged_bw.jpg",
       "hidden": false,
-      "percent": "6.4"
+      "percent": "6.5"
     },
     "TF_MVM_KILL_ROBOT_GRIND": {
       "name": "Silicon Slaughter",
@@ -4163,5 +4163,6 @@
       "hidden": false,
       "percent": "3.1"
     }
-  }
+  },
+  "uses_db": true
 }

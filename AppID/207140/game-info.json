@@ -235,5 +235,6 @@
       "hidden": false,
       "percent": "2.3"
     }
-  }
+  },
+  "uses_db": true
 }

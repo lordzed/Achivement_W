@@ -553,7 +553,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1448440/11f4a56cd04494564b02fda74af88c58ab070399.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
       "hidden": true,
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "TROPHY_DLC2_06": {
       "name": "Inheritor of the Tiger's Blood",
@@ -697,7 +697,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1448440/d1d18f43448ed81501863c8e6e7604f6c9ea5b87.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
       "hidden": false,
-      "percent": "3.6"
+      "percent": "3.7"
     },
     "TROPHY_DLC3_11": {
       "name": "Maniac of Shitieshou",
@@ -713,7 +713,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1448440/5665ec03d2ddb92e0bef80fd4d641c9de3545b2c.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
       "hidden": true,
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "TROPHY_DLC3_13": {
       "name": "The Dark Clouds Part",
@@ -723,5 +723,6 @@
       "hidden": true,
       "percent": "8.3"
     }
-  }
+  },
+  "uses_db": false
 }
