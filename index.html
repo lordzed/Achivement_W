@@ -793,6 +793,7 @@
                 const gameData = gameDataList[i];
                 // Ensure appid is a string
                 const appId = String(gameData.appid);
+                    console.log(`Processing game ${i}: AppID=${appId}, Name=${gameData.info?.name}`);
                 loadingDiv.innerHTML = `
                     <div class="loading-spinner"></div>
                     <div>Loading game ${i + 1} of ${gameDataList.length}...</div>
