@@ -8,8 +8,6 @@ on:
     paths:
       - 'AppID/**/achievements.json'
       - 'AppID/**/*.db'
-    paths-ignore:
-      - '**/.gitkeep'
 
 permissions:
   contents: write
@@ -25,17 +23,17 @@ jobs:
       - name: Check for deleted files only
         id: check_changes
         run: |
-          # Get all changed files
+          # Get all changed files with their status
           CHANGED_FILES=$(git diff --name-status HEAD~1 HEAD)
           
-          # Check if there are any added (A) or modified (M) files
-          ADDED_OR_MODIFIED=$(echo "$CHANGED_FILES" | grep -E "^[AM]" | grep -E "achievements\.(json|db)|\.db$" || true)
+          # Check if there are any added (A) or modified (M) achievement files
+          ADDED_OR_MODIFIED=$(echo "$CHANGED_FILES" | grep -E "^[AM]" | grep -E "AppID/.*/achievements\.json|AppID/.*\.db" || true)
           
           if [ -z "$ADDED_OR_MODIFIED" ]; then
-            echo "Only deletions detected, skipping workflow"
+            echo "Only deletions or non-achievement changes detected, skipping workflow"
             echo "skip=true" >> $GITHUB_OUTPUT
           else
-            echo "Added or modified files detected, continuing"
+            echo "Added or modified achievement files detected, continuing"
             echo "skip=false" >> $GITHUB_OUTPUT
           fi
 
