@@ -29,6 +29,64 @@ jobs:
         run: |
           pip install requests beautifulsoup4 lxml
 
+      - name: Update TOP_OWNER_IDS (scheduled only)
+        if: github.event_name == 'schedule'
+        run: |
+          python - <<'EOF'
+          import requests
+          from bs4 import BeautifulSoup
+          import re
+          
+          print("Updating TOP_OWNER_IDS from steamladder.com...")
+          
+          try:
+              URL = "https://steamladder.com/ladder/games/"
+              response = requests.get(URL, timeout=15)
+              response.raise_for_status()
+              
+              soup = BeautifulSoup(response.text, "html.parser")
+              
+              steam_ids = []
+              for a in soup.select('a[href^="/profile/"]'):
+                  m = re.search(r"/profile/(\d{17})", a.get("href", ""))
+                  if m:
+                      steam_id = int(m.group(1))
+                      if steam_id not in steam_ids:
+                          steam_ids.append(steam_id)
+              
+              steam_ids = steam_ids[:32]  # Top 32 users
+              
+              if len(steam_ids) >= 10:
+                  # Read the workflow file
+                  with open('.github/workflows/fetch-game-data.yml', 'r', encoding='utf-8') as f:
+                      content = f.read()
+                  
+                  # Format the new IDs
+                  chunks = [steam_ids[i:i+4] for i in range(0, len(steam_ids), 4)]
+                  id_lines = []
+                  for chunk in chunks:
+                      id_lines.append("              " + ", ".join(str(x) for x in chunk) + ",")
+                  new_ids = "\n".join(id_lines)
+                  
+                  # Replace the TOP_OWNER_IDS section
+                  pattern = r'(TOP_OWNER_IDS = \[)\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n          \]'
+                  replacement = f'TOP_OWNER_IDS = [\n{new_ids}\n          ]'
+                  
+                  content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+                  
+                  # Write back
+                  with open('.github/workflows/fetch-game-data.yml', 'w', encoding='utf-8') as f:
+                      f.write(content)
+                  
+                  print(f"✓ Updated TOP_OWNER_IDS with {len(steam_ids)} Steam IDs")
+              else:
+                  print(f"✗ Not enough Steam IDs found ({len(steam_ids)}), keeping old list")
+          
+          except Exception as e:
+              print(f"✗ Error updating TOP_OWNER_IDS: {e}")
+              print("Keeping old list")
+          EOF
+
       - name: Fetch game data
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
@@ -50,8 +108,14 @@ jobs:
 
           # Top owner Steam IDs
           TOP_OWNER_IDS = [
-              76561198028121353, 76561198017975643, 76561197979911851, 76561198355953202, 76561197993544755,
-              76561198001237877, 76561198355625888, 76561198152618007, 76561198217186687, 76561198237402290,
+              76561198028121353, 76561197979911851, 76561198017975643, 76561197993544755,
+              76561198355953202, 76561198001237877, 76561198237402290, 76561198152618007,
+              76561198355625888, 76561198213148949, 76561197969050296, 76561198217186687,
+              76561198037867621, 76561198094227663, 76561198019712127, 76561197963550511,
+              76561198134044398, 76561198001678750, 76561197973009892, 76561198044596404,
+              76561197976597747, 76561197969810632, 76561198095049646, 76561198085065107,
+              76561198864213876, 76561197962473290, 76561198388522904, 76561198033715344,
+              76561197995070100, 76561198313790296, 76561198063574735, 76561197996432822,
           ]
 
           def get_changed_appids():
@@ -331,7 +395,7 @@ jobs:
                               profiles_tried = 0
                               descriptions_found = 0
                               
-                              for steam_id in TOP_OWNER_IDS[:10]:
+                              for steam_id in TOP_OWNER_IDS[:20]:
                                   profiles_tried += 1
                                   scraped = scrape_hidden_achievements(appid, steam_id, achievement_names_map)
                                   
@@ -464,7 +528,12 @@ jobs:
           # Pull latest changes first
           git pull --rebase origin main || true
           
-          # Add and commit changes
+          # Add workflow if it was updated (scheduled run)
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            git add .github/workflows/fetch-game-data.yml
+          fi
+          
+          # Add game data
           git add AppID/*/game-info.json game-data.json
           
           # Only commit if there are changes
