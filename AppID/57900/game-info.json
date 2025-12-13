@@ -421,7 +421,7 @@
     },
     "ACH_PassiveAggressive": {
       "name": "Passive Aggressive",
-      "description": "",
+      "description": "Let 20 enemies die by someone else's hand",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57900/4103cbdd0935805fe421babbda44047342cc906e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57900/7b47328b947c56b7d199b62dc47d2b2ab28764e9.jpg",
       "hidden": true,
@@ -453,7 +453,7 @@
     },
     "ACH_EasyCompletedDLC03": {
       "name": "Another Piece of Cake",
-      "description": "",
+      "description": "Beat the DLC campaign on Easy Difficulty",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57900/757427f8a820336036590ee15f1066f297f75e3e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57900/fa95b4855a3c0fd896a8dd866759801b0df434c0.jpg",
       "hidden": true,
@@ -461,7 +461,7 @@
     },
     "ACH_NormalCompletedDLC03": {
       "name": "Let's Rock Out",
-      "description": "",
+      "description": "Beat the DLC campaign on Normal Difficulty",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57900/334e7cae15a5702f9ebed07aee1338c6550f98ce.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57900/fa95b4855a3c0fd896a8dd866759801b0df434c0.jpg",
       "hidden": true,
@@ -469,7 +469,7 @@
     },
     "ACH_HardCompletedDLC03": {
       "name": "Come Get a Little More",
-      "description": "",
+      "description": "Beat the DLC campaign on Hard Difficulty",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57900/becdc8523df947c546defe2af35227c804cd1dce.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57900/fa95b4855a3c0fd896a8dd866759801b0df434c0.jpg",
       "hidden": true,
@@ -477,7 +477,7 @@
     },
     "ACH_ExpertCompletedDLC03": {
       "name": "Damn, I'm REALLY Good",
-      "description": "",
+      "description": "Beat the DLC campaign on Expert Difficulty",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57900/de8c54773d80ee801b970bf35302e511caabb4ce.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57900/336e11440b36a9f1b4dab96cef647545d294f6ba.jpg",
       "hidden": true,
@@ -493,7 +493,7 @@
     },
     "ACH_Chauvinist": {
       "name": "Hedonist, not Misogynist",
-      "description": "",
+      "description": "Discover and reject the video game that lets you slap women",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57900/611925951361c4870f7c43615c12e10aeece9a80.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57900/5917d8d8b1f63ec594632651e5c36adf880631eb.jpg",
       "hidden": true,

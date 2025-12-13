@@ -9,7 +9,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265300/dbd7aee45f8f0da73c990cc7742ef2a4f1592171.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265300/33efa340efb3293cdc07f5450e0cab78cb09f218.jpg",
       "hidden": false,
-      "percent": "7.2"
+      "percent": "7.1"
     },
     "ID_ACHIEV_02": {
       "name": "My private stash",
@@ -145,7 +145,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265300/66cda2d7e7e860afe9bb2b4590c2f5df4d95063c.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265300/f1af7cbfca3ad5ac85622863812b352b300dba50.jpg",
       "hidden": false,
-      "percent": "14.7"
+      "percent": "14.6"
     },
     "ID_ACHIEV_21": {
       "name": "He speaks in riddles",
@@ -153,7 +153,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265300/f2844520097974e0f7c58be1f0a4a8821c748ec5.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265300/af261381e10fca020df5c1c9b3c65f7df2a4499c.jpg",
       "hidden": false,
-      "percent": "30.8"
+      "percent": "30.7"
     },
     "ID_ACHIEV_22": {
       "name": "Treasure left alone",
@@ -297,7 +297,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265300/9a0e275bd13ffd5690e751cc1fce29580786ab71.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265300/8cf521054beec89394946585b3b8728cea53c1d7.jpg",
       "hidden": true,
-      "percent": "59.0"
+      "percent": "58.9"
     },
     "ID_ACHIEV_40": {
       "name": "I feel lucky",
@@ -313,7 +313,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265300/fd289bbc2dce4ef02760fd16cd5c2e3590cff98b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265300/d7cec811eadd78a2893f713bca23dd084361342c.jpg",
       "hidden": true,
-      "percent": "12.9"
+      "percent": "12.8"
     },
     "ID_ACHIEV_42": {
       "name": "Take my hand",
@@ -321,7 +321,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265300/4c03d6e5731c4ba3a6152345ef4cf58cfa8f4901.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265300/204291963df28d83478db32954e59ab1b11a6bb4.jpg",
       "hidden": true,
-      "percent": "61.2"
+      "percent": "61.1"
     },
     "ID_ACHIEV_43": {
       "name": "I saw everything",
