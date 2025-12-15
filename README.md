@@ -18,37 +18,22 @@ These contain the unlocked achievement data to show on the page. This has to be 
 
 Your site will be available at: `https://YOUR-USERNAME.github.io/REPO-NAME/`
 
-### 4. Get Your Steam API Key (Optional but Recommended)
+### 4. Get Your Steam API Key
 1. Go to https://steamcommunity.com/dev/apikey
 2. Enter any domain name (e.g., `localhost`)
 3. Agree to terms and copy your API key
 
-### 5. Add GitHub Secret (Optional but Recommended)
+### 5. Add GitHub Secret
 1. In your repository, go to **Settings** → **Secrets and variables** → **Actions**
 2. Click **New repository secret**
 3. Add: `STEAM_API_KEY` with your Steam API key as the value
 
-**Note:** The API key is only needed if you want the workflow to automatically fetch game data. If you're manually uploading achievement files, you can skip this step.
-
-### 6. Add Your Achievement Files
-
-#### Option A: Manual Upload (No API Key Needed)
-1. Create folder structure: `AppID/[game-app-id]/achievements.json`
-2. Example: `AppID/730/achievements.json` for Counter-Strike 2
-3. Upload your achievement JSON files from your Steam emulator
+### 6. Upload your achievement file
+1. Create folder structure: `AppID/[game-app-id]/`
+2. Example: `AppID/730/` for Counter-Strike 2
+3. Upload your supported achievement files (see [Point 7.](https://github.com/Roschach96/achievement-viewer?tab=readme-ov-file#7-supported-formats-only-one-is-needed-per-game) for supported formats.)
 4. Commit and push to your repository
 5. Your site will update automatically!
-
-#### Option B: Automatic Fetch (Requires API Key)
-1. Add `STEAM_API_KEY` to repository secrets (see step 4)
-2. The GitHub Actions workflow will automatically run daily
-3. Or manually trigger it: **Actions** tab → **Fetch Steam Game Data** → **Run workflow**
-4. The workflow will:
-   - Fetch game information from Steam
-   - Download achievement data and icons
-   - Scrape hidden achievement descriptions from public profiles
-   - Generate `game-info.json` for each game
-   - Create `game-data.json` with all data
 
 ### 7. Supported Formats (only one is needed per game)
 
@@ -202,4 +187,6 @@ Free to use and modify!
 
 ---
 
-Made for GBE fork users with Claude AI and tried to use alex47exe's gse_fork_tools logic for Hidden achievement retrieval.
+Made for GBE fork users with Claude AI.
+Implemented and automatized the refreshing of the logic behind **alex47exe**'s gse_fork_tools for hidden achievement retrieval.
+Credit goes to **darktakayanagi** for the Hub.
