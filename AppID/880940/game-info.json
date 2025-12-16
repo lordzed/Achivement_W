@@ -252,5 +252,7 @@
       "percent": "6.2"
     }
   },
-  "uses_db": false
+  "uses_db": false,
+  "platform": null,
+  "blacklist": []
 }

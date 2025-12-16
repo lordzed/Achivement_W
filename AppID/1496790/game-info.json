@@ -73,7 +73,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1496790/e6e19804bee416624ed9152706eff5e961f0fae3.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1496790/d14831161b02285223fbaa0ea63bcc09ec0460ca.jpg",
       "hidden": true,
-      "percent": "31.8"
+      "percent": "31.7"
     },
     "FREEZE_3": {
       "name": "Cooldown",
@@ -137,7 +137,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1496790/007fc9deb820842e8d8bb3900dffff863282328e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1496790/a39b8faaa4254b90cde1ba8e45898a538ae8b68c.jpg",
       "hidden": true,
-      "percent": "34.4"
+      "percent": "34.3"
     },
     "ALL_VILLAIN": {
       "name": "End of an Era",
@@ -492,5 +492,7 @@
       "percent": "1.5"
     }
   },
-  "uses_db": true
+  "uses_db": true,
+  "platform": null,
+  "blacklist": []
 }

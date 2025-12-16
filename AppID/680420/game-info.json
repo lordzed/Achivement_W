@@ -17,7 +17,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/c1b355f18a97447a9429b932618ba63681bc3661.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/1d18879af94b4f4c61391c8648052d9b7802cc63.jpg",
       "hidden": true,
-      "percent": "89.3"
+      "percent": "89.4"
     },
     "ach_story_3": {
       "name": "Wavelengths and Wishes",
@@ -420,5 +420,7 @@
       "percent": "3.1"
     }
   },
-  "uses_db": false
+  "uses_db": false,
+  "platform": null,
+  "blacklist": []
 }

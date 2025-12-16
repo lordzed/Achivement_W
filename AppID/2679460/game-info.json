@@ -57,7 +57,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/2c35c4ca2ee6688220228b353b1f91d63f90f587.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": true,
-      "percent": "55.0"
+      "percent": "55.1"
     },
     "ACHIEVEMENT_8": {
       "name": "History Untold",
@@ -81,7 +81,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/c8d5b8455047c28b0b96aa1cafbbb67c95c6bbec.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": true,
-      "percent": "38.6"
+      "percent": "38.7"
     },
     "ACHIEVEMENT_11": {
       "name": "Closing the Book",
@@ -281,7 +281,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/8dbc9889d987cccba8c39ad4f88d348d77893ca6.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": false,
-      "percent": "40.5"
+      "percent": "40.6"
     },
     "ACHIEVEMENT_36": {
       "name": "Worldly Wisdom",
@@ -356,5 +356,7 @@
       "percent": "15.0"
     }
   },
-  "uses_db": false
+  "uses_db": false,
+  "platform": null,
+  "blacklist": []
 }

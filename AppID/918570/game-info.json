@@ -233,7 +233,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/918570/8e7f1d0c46d9b51e58287fe40c7005ae082cb133.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/918570/8e7f1d0c46d9b51e58287fe40c7005ae082cb133.jpg",
       "hidden": false,
-      "percent": "3.0"
+      "percent": "3.1"
     },
     "Win5Carnage": {
       "name": "For Blood",
@@ -268,5 +268,7 @@
       "percent": "35.2"
     }
   },
-  "uses_db": true
+  "uses_db": true,
+  "platform": null,
+  "blacklist": []
 }

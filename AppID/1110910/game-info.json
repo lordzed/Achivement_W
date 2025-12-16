@@ -45,7 +45,7 @@
     },
     "LifeIsSuffering": {
       "name": "Life is Suffering",
-      "description": "Beat the game in obsidian dark form",
+      "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/826107f51c6ffad2a212a201d3c7aee33b23f905.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/072e219a371a2c0b8d296d24621af3ed9b794238.jpg",
       "hidden": true,
@@ -81,7 +81,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/1edff376dbffe811b11b589db8b5e3341b8e1f5e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/79d9c4b7d4d7cac1e77ffd3a888b59b451468a9a.jpg",
       "hidden": false,
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "BringTheGlandsBacktoMe": {
       "name": "Bring the Glands Back to Me",
@@ -93,11 +93,11 @@
     },
     "TheGoodTimesareKillingMe": {
       "name": "The Good Time are Killing Me",
-      "description": "Jam with a brigand",
+      "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/7b10007a7636b05cdfc4b1eba50d83652349e30c.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/d18e026ce25b3a1790099402c90c8932560da8e6.jpg",
       "hidden": true,
-      "percent": "10.8"
+      "percent": "10.9"
     },
     "SugarBaby": {
       "name": "Sugar Baby",
@@ -181,7 +181,7 @@
     },
     "ItsAMe": {
       "name": "It's a me",
-      "description": "Kill an enemy with a hardened plunge",
+      "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/b74efcbe9021745143d05c35e00aa5d76cd84253.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/5fabdd5da31e9a048ca753af9d649393c69d5068.jpg",
       "hidden": true,
@@ -189,7 +189,7 @@
     },
     "TheNihilist": {
       "name": "The Nihilist",
-      "description": "Renounce humankind",
+      "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/4f43746fcb38d859667d47b8222a8c2f1643646f.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/97ababdf407de81dceb0f6db962740a7d038d398.jpg",
       "hidden": true,
@@ -221,7 +221,7 @@
     },
     "TrueNektar": {
       "name": "True Nektar",
-      "description": "Return all seeds to Twin Sister and break the Virtuous Cycle",
+      "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/e31f98cf81740a54f2f5d8c659cba9350aaa2ca0.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/be4715ba3599d40f63fcc2889d7ad8e5e998f536.jpg",
       "hidden": true,
@@ -241,7 +241,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/f3146fe2d81ae98230acf6ff49d802f0945cdb17.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/ebe710594e856f70959f8582e32cc01e1821518b.jpg",
       "hidden": false,
-      "percent": "3.3"
+      "percent": "3.4"
     },
     "OPAF": {
       "name": "OP AF",
@@ -257,7 +257,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/80d5869dd12b4b7b629f8a46f1573320584d18c0.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/c8a6c3b0c2e5bc56396ed7b03b961d1fffa8115d.jpg",
       "hidden": false,
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "MasterOfNone": {
       "name": "Master of None",
@@ -265,7 +265,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/f83a705d6b49d37a4f268ed4abb8902c5e9f725b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/7dec40037f2a59fdc832a5cdff828ea7cd37446a.jpg",
       "hidden": false,
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "NoLifer": {
       "name": "No Lifer",
@@ -300,5 +300,7 @@
       "percent": "9.5"
     }
   },
-  "uses_db": false
+  "uses_db": false,
+  "platform": null,
+  "blacklist": []
 }

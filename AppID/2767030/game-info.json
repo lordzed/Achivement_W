@@ -1,7 +1,7 @@
 {
   "appid": "2767030",
   "name": "Marvel Rivals",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/5565a23d15c87e4dc921affd50dde4d86554c413/header.jpg?t=1765534062",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/25684627f97a89843845f1bc1c511fc02be724da/header_alt_assets_2.jpg?t=1765778992",
   "achievements": {
     "10000004": {
       "name": "Thumbs Up",
@@ -17,7 +17,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2767030/4a40a315c2d790520d92ab189eec55b7e603429b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2767030/ad478bc32d7d0695a34aec38ee5f1c5853bb73d6.jpg",
       "hidden": false,
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "8": {
       "name": "You Do You",
@@ -73,7 +73,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2767030/a7fc58799df36d3173da9b9a8c4efcde1bcf4547.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2767030/c2a05a2dfa06116f33ecd8430556b5a954e0fcff.jpg",
       "hidden": false,
-      "percent": "17.9"
+      "percent": "18.0"
     },
     "10000010": {
       "name": "Assemble!",
@@ -337,7 +337,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2767030/96923f25371d94a71a8b3fd34170f3ccccd9fa84.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2767030/62195af7230c123e4b911ec96de73d24b204a777.jpg",
       "hidden": false,
-      "percent": "7.3"
+      "percent": "7.4"
     },
     "20000067": {
       "name": "Hot & Trending",
@@ -396,5 +396,7 @@
       "percent": "2.5"
     }
   },
-  "uses_db": true
+  "uses_db": true,
+  "platform": null,
+  "blacklist": []
 }

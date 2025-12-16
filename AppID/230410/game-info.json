@@ -889,7 +889,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/62e1c8b2999b7b920e7130084d9e6eafd642e469.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/baaa51451373feb053f5b017a94c3b2785123504.jpg",
       "hidden": false,
-      "percent": "23.1"
+      "percent": "23.2"
     },
     "ACHIEVEMENT_112": {
       "name": "Sentinel Proficiency II",
@@ -1353,7 +1353,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/54e861a4070350c8e7d938b477a3e0907025d595.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/2a4c760c5a117a345f78c43b865dbea1096933e7.jpg",
       "hidden": false,
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "ACHIEVEMENT_170": {
       "name": "Pest Control",
@@ -1548,5 +1548,7 @@
       "percent": "5.5"
     }
   },
-  "uses_db": true
+  "uses_db": true,
+  "platform": null,
+  "blacklist": []
 }

@@ -97,7 +97,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/21100/8263df42afc5158fd897d6068e02150224c5eb24.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/21100/f8d226df77c484170fc71d3527b23b00dcfca106.jpg",
       "hidden": false,
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "Collect_Alma_Dolls": {
       "name": "Doll Collector",
@@ -404,5 +404,7 @@
       "percent": "2.5"
     }
   },
-  "uses_db": false
+  "uses_db": false,
+  "platform": null,
+  "blacklist": []
 }

@@ -1,7 +1,7 @@
 {
   "appid": "3159330",
   "name": "Assassin’s Creed Shadows",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/0eb067f51621d195ff76b77b71a210d06f3355b6/header_alt_assets_1.jpg?t=1765448238",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/0eb067f51621d195ff76b77b71a210d06f3355b6/header_alt_assets_1.jpg?t=1765845611",
   "achievements": {
     "ACShadows_Ach_1": {
       "name": "Prologue",
@@ -25,7 +25,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/70a5dc96d70061e192256c03fe67ba4cee88b8fe.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/2e689359eabdf85d1bd1ee56cb10a684349d3b32.jpg",
       "hidden": true,
-      "percent": "22.6"
+      "percent": "22.5"
     },
     "ACShadows_Ach_4": {
       "name": "Fall of the Shinbakufu",
@@ -65,7 +65,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/50c065cd604948ab54e973a339923f566922609d.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/88be17e2275198e4c70fa00d2b0d99d365a1abb7.jpg",
       "hidden": true,
-      "percent": "23.1"
+      "percent": "23.0"
     },
     "ACShadows_Ach_9": {
       "name": "The Eager Assassin",
@@ -97,7 +97,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/8918273a9b271b9bd88a4dbc5bd205577f5a28f1.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/94b51794e71fe05fb5a38406ed797d0d2cec3d2d.jpg",
       "hidden": true,
-      "percent": "35.4"
+      "percent": "35.3"
     },
     "ACShadows_Ach_13": {
       "name": "Build Your League",
@@ -137,7 +137,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/27a36ae5a327754c825eb4fa0af13e6ce0375f8f.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/880362474b552ebfd4e1c19d7a52279a7cc458cd.jpg",
       "hidden": false,
-      "percent": "45.6"
+      "percent": "45.5"
     },
     "ACShadows_Ach_18": {
       "name": "Better than a Bucket",
@@ -201,7 +201,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/1dbfa00d76c14a21876e1d649c7b85a2ee44d53e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/52fae25a27fdcbe1ed9b816b49ebc681ba21d020.jpg",
       "hidden": false,
-      "percent": "62.2"
+      "percent": "62.1"
     },
     "ACShadows_Ach_26": {
       "name": "Acrobatics",
@@ -233,7 +233,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/7bfe07ce62a17f1c5bcb252f2201073b5ae57f2a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/f346d3ed56017ce0233a293f632d6796a3f5d64e.jpg",
       "hidden": false,
-      "percent": "52.2"
+      "percent": "52.1"
     },
     "ACShadows_Ach_30": {
       "name": "Unseen",
@@ -313,7 +313,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/c5114dc50561513a731484c4165be5a6387e0dc6.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/f95f30bfaa4ce8ac4d665e8c526ce165bcb86928.jpg",
       "hidden": true,
-      "percent": "55.8"
+      "percent": "55.7"
     },
     "ACShadows_Ach_40": {
       "name": "Test Your Might",
@@ -337,7 +337,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/70bccd0f47901f747f90b94b624a0ca761955554.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/afadb373ee90df85d4cb24d0682282f46984aa98.jpg",
       "hidden": false,
-      "percent": "44.4"
+      "percent": "44.3"
     },
     "ACShadows_Ach_43": {
       "name": "Zen Master",
@@ -385,7 +385,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/a0fb072c716804c174972db98b1229060f7bbb3b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/3dfcccb1debb1440bbee9a5b68f0ad7b3789a262.jpg",
       "hidden": false,
-      "percent": "48.5"
+      "percent": "48.4"
     },
     "ACShadows_Ach_49": {
       "name": "Everybody Benefits!",
@@ -417,7 +417,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/bbb5ce412d9d6182d31d756f3e2b68a30da5b4b8.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/1cec462e8742d563a826b8655cbf71b8480758ac.jpg",
       "hidden": false,
-      "percent": "74.0"
+      "percent": "73.9"
     },
     "ACShadows_Ach_53": {
       "name": "Would You Kindly?",
@@ -577,8 +577,10 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/0c7406fc0ebad79c042cd50dd8df50b6a622e4dc.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/dbd7b6a1fb3091c7ed256252899ffdf6bdfd7f5c.jpg",
       "hidden": false,
-      "percent": "1.4"
+      "percent": "1.5"
     }
   },
-  "uses_db": false
+  "uses_db": false,
+  "platform": null,
+  "blacklist": []
 }

@@ -225,7 +225,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/579840/c04be97ce6c62aa20164e4ad835443fdc5d0afd6.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/579840/1a43b7ccd74f05cb5889141e8385681e31fae5d9.jpg",
       "hidden": false,
-      "percent": "25.4"
+      "percent": "25.5"
     },
     "complete_no_death_ten": {
       "name": "All 9 left",
@@ -252,5 +252,7 @@
       "percent": "8.6"
     }
   },
-  "uses_db": false
+  "uses_db": false,
+  "platform": null,
+  "blacklist": []
 }

@@ -201,7 +201,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/457f8cdaaafff9820a12d8509882b9c7a0f24463.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/e31d5069b2f3a7a416e71e9a717831952cdfb48e.jpg",
       "hidden": false,
-      "percent": "40.6"
+      "percent": "40.7"
     },
     "ACH_SURVIVE_ROAD": {
       "name": "MIDNIGHT RIDER",
@@ -585,7 +585,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/cf0e7aa9cd11b30c63cf2e77bd3c333b6ad57af3.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/cafabf6f24c0d0ea4c4e11cb3104384f1dbf9c1d.jpg",
       "hidden": false,
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "ACH_SURVIVE_LIGHTHOUSE": {
       "name": "STILL STANDING",
@@ -812,5 +812,7 @@
       "percent": "67.4"
     }
   },
-  "uses_db": true
+  "uses_db": true,
+  "platform": null,
+  "blacklist": []
 }

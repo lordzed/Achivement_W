@@ -241,7 +241,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9c11fc24f1746c5fd8dfe6e6e2fe87252589f90b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/4a5a6fb046f76b41880d2719359531c1aa8d5387.jpg",
       "hidden": false,
-      "percent": "56.3"
+      "percent": "56.2"
     },
     "ACH_SuperUpgrades3": {
       "name": "Maxed Out",
@@ -249,7 +249,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/35e2b99f41c46a1b10ac7b6c25a959ec04390e43.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/7bb5f25b588792cf501bfb4447b6c0a38dd42b89.jpg",
       "hidden": false,
-      "percent": "32.9"
+      "percent": "32.8"
     },
     "ACH_SpendScrap": {
       "name": "Space Wallet",
@@ -321,7 +321,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/98d180502bea83d5263f08b160f1ea56ccd2ab8c.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a931c44ebdab909ff349b34b8f6c1296b70ecfb9.jpg",
       "hidden": false,
-      "percent": "31.5"
+      "percent": "31.4"
     },
     "ACH_CompleteZone3": {
       "name": "Mental Fortitude",
@@ -361,7 +361,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/8e54482297420cb87d83ada3ee0dcd024cd48366.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ebec3b9beb5f72d711c3a7c773848c464733da7a.jpg",
       "hidden": false,
-      "percent": "0.4"
+      "percent": "0.3"
     },
     "ACH_ReadAllDataLogs": {
       "name": "Too Long, Didn't Read",
@@ -385,7 +385,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/55c76811156992f88e280948488ec75409622dd2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/61fcdf5648e43b984261d3bcb668341e77c5c94f.jpg",
       "hidden": false,
-      "percent": "35.5"
+      "percent": "35.4"
     },
     "ACH_ActivateSynergy3": {
       "name": "Feeling the Power",
@@ -393,7 +393,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/270d01b295df4e8004fb4bd3f070d8f022128e37.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9fa6d69c28df57ef3106de15b360bc56bf2176a3.jpg",
       "hidden": false,
-      "percent": "32.9"
+      "percent": "32.8"
     },
     "ACH_SynergiesActivated": {
       "name": "Promote Synergy",
@@ -409,8 +409,10 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9f7f4d4044045b3bc0e9f48854873de29ac86bc1.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/bb49263bb8d0e41d404f33df0b0261ae78b56e9a.jpg",
       "hidden": false,
-      "percent": "36.3"
+      "percent": "36.2"
     }
   },
-  "uses_db": false
+  "uses_db": false,
+  "platform": null,
+  "blacklist": []
 }

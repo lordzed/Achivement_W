@@ -369,7 +369,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1293830/60db3a7af9c5a3da821e56069f8ef64a76c3e29a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1293830/ebf706eb3ada7a48e16eb8248ecb09c2f3df968c.jpg",
       "hidden": false,
-      "percent": "49.0"
+      "percent": "48.9"
     },
     "Horizon Superstar": {
       "name": "Horizon Superstar",
@@ -1001,7 +1001,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1293830/dd96091d6a96e8e665ac4666331d7dfcb0aedcb6.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1293830/9811c1ccf17cf7b28d6e6c74169c50992e5c312d.jpg",
       "hidden": false,
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "WildStyle": {
       "name": "Wyldstyle",
@@ -1428,5 +1428,7 @@
       "percent": "7.1"
     }
   },
-  "uses_db": false
+  "uses_db": false,
+  "platform": null,
+  "blacklist": []
 }

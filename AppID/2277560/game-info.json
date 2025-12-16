@@ -177,7 +177,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/80d8c730419ae83a64692d530dd755ccb0f7f75e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/ec8655c6a06c65b85105d24dc29e26bb30bf6832.jpg",
       "hidden": true,
-      "percent": "71.7"
+      "percent": "71.8"
     },
     "ACH_COPPER_14_F": {
       "name": "Blightweaver - Great Centipede",
@@ -241,7 +241,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/f18cd4059adc60dfe19596223c956701924736cf.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/c78b92c52b37310585735ef52e141f44c5fecd18.jpg",
       "hidden": true,
-      "percent": "38.5"
+      "percent": "38.6"
     },
     "ACH_COPPER_22_F": {
       "name": "Bo Sorcerer",
@@ -313,7 +313,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/7aa1dd56449eda6681ab354c9478d1829e13566b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/9f3831c26ae102bd62a135b6535195c61ff69ee6.jpg",
       "hidden": false,
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "ACH_COPPER_36_F": {
       "name": "Radiant Faith",
@@ -324,5 +324,7 @@
       "percent": "13.1"
     }
   },
-  "uses_db": false
+  "uses_db": false,
+  "platform": null,
+  "blacklist": []
 }

@@ -73,7 +73,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/8980/47fedfe2422c0b69158ad428b99894956b9b3c35.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/8980/c589da00429110a58b1ad2c445df2d124ced54e3.jpg",
       "hidden": true,
-      "percent": "29.1"
+      "percent": "29.0"
     },
     "Achievement_10": {
       "name": "Destroyed the Hive",
@@ -644,5 +644,7 @@
       "percent": "2.1"
     }
   },
-  "uses_db": false
+  "uses_db": false,
+  "platform": null,
+  "blacklist": []
 }

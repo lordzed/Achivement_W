@@ -177,7 +177,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/b16d04a5616aba318bded767e060a50827c314c0.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
-      "percent": "9.8"
+      "percent": "9.7"
     },
     "trophy_23_armor_upgrade_max": {
       "name": "Geared Up",
@@ -193,7 +193,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/312eda829fa90f2981e1f606b53f4467386a692d.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
-      "percent": "6.6"
+      "percent": "6.5"
     },
     "trophy_25_armor_dye": {
       "name": "Fashion Victim",
@@ -233,7 +233,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/31561d5e1452a8ec2c55f016012385ce9b8e1165.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
-      "percent": "3.4"
+      "percent": "3.3"
     },
     "trophy_30_upgrade_stone_max": {
       "name": "Alchemist",
@@ -305,8 +305,10 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/0ef664971b2830689553628cecbfb046a7b26bd5.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
-      "percent": "7.5"
+      "percent": "7.4"
     }
   },
-  "uses_db": false
+  "uses_db": false,
+  "platform": null,
+  "blacklist": []
 }
