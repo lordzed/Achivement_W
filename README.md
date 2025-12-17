@@ -86,6 +86,9 @@ Visit your GitHub Pages URL and you should see your achievement viewer!
 
 ## 📁 Folder Structure
 
+The only important thing here is the AppID folder, inside that the game's AppID folder, inside that "Your achievement data".
+All other files are **optional** and/or auto-generated.
+
 ```
 your-repo/ (main branch)
 ├── index.html                         # Main viewer page
