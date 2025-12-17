@@ -1,13 +1,7 @@
 name: Fetch Steam Game Data
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-  push:
-    paths:
-      - 'AppID/**/achievements.json'
-      - 'AppID/**/*.db'
+  workflow_call: {}  # reusable
 
 permissions:
   contents: write
@@ -16,7 +10,6 @@ jobs:
   fetch-data:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
       - name: Checkout main branch
         uses: actions/checkout@v3
         with:
@@ -44,7 +37,7 @@ jobs:
           pip install requests beautifulsoup4 lxml
 
       - name: Update TOP_OWNER_IDS (scheduled only)
-        if: github.event_name == 'schedule'
+        if: ${{ github.event_name == 'schedule' }}
         run: python /tmp/scripts/update_top_owners.py
 
       - name: Fetch game data
