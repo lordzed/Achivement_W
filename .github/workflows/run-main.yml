@@ -10,3 +10,4 @@ jobs:
     permissions:
       contents: write
     uses: ./.github/workflows/fetch-game-data.yml
+    secrets: inherit
