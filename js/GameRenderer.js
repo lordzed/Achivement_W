@@ -379,3 +379,12 @@ export function setGridSortMode(mode) {
     window.gridSortMode = mode;
     displayGames();
 }
+
+export function handleDeepLink() {
+    const params = new URLSearchParams(window.location.search);
+    const appId = params.get('game');
+    if (appId && gamesData.has(appId)) {
+        // Meghívjuk a részleteket, de false paraméterrel, hogy ne írja felül az URL-t megint
+        showGameDetail(appId, false);
+    }
+}
