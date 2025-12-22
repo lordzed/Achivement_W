@@ -41,35 +41,31 @@
             handleDeepLink 
         } from './js/GameRenderer.js';
         
-        // Expose functions to window for onclick handlers
         window.showGameDetail = showGameDetail;
         window.hideGameDetail = hideGameDetail;
         window.setSortMode = setSortMode;
         window.setGridSortMode = setGridSortMode;
         
-        // Initialize on page load
         init().then(() => {
             displayGames();
-            handleDeepLink(); // Ellenőrzi az URL-t betöltéskor
+            handleDeepLink();
         });
 
-        // Böngésző vissza/előre gombjainak kezelése
         window.addEventListener('popstate', () => {
             const params = new URLSearchParams(window.location.search);
             const appId = params.get('game');
             if (appId) {
                 showGameDetail(appId, false);
             } else {
-                // Visszatérés a kezdőoldalra (grid nézet)
-                const detailView = document.getElementById('detail-view');
-                const gamesGrid = document.getElementById('games-grid');
-                const summaryBox = document.getElementById('summary-box');
-                const gridSort = document.getElementById('grid-sort-controls');
+                const dv = document.getElementById('detail-view');
+                const gg = document.getElementById('games-grid');
+                const sb = document.getElementById('summary-box');
+                const gc = document.getElementById('grid-sort-controls');
 
-                if (detailView) detailView.classList.remove('active');
-                if (gamesGrid) gamesGrid.classList.remove('hidden');
-                if (summaryBox) summaryBox.classList.remove('hidden');
-                if (gridSort) gridSort.classList.remove('hidden');
+                if (dv) dv.classList.remove('active');
+                if (gg) gg.classList.remove('hidden');
+                if (sb) sb.classList.remove('hidden');
+                if (gc) gc.classList.remove('hidden');
             }
         });
     </script>
