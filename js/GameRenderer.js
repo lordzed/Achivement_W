@@ -189,9 +189,16 @@ function renderGameCard(game, percentage) {
 }
 
 // Detail view
-export function showGameDetail(appId) {
+export function showGameDetail(appId, updateUrl = true) {
     const game = gamesData.get(appId);
     if (!game) return;
+
+    // Update URL parameter so the link is shareable
+    if (updateUrl) {
+        const newUrl = new URL(window.location.href);
+        newUrl.searchParams.set('game', appId);
+        window.history.pushState({ appId }, '', newUrl);
+    }
 
     const unlocked = game.achievements.filter(a => a.unlocked).length;
     const total = game.achievements.length;
@@ -347,6 +354,11 @@ function renderAchievement(ach, isUnlocked) {
 }
 
 export function hideGameDetail() {
+    // Remove the game parameter from URL
+    const newUrl = new URL(window.location.href);
+    newUrl.searchParams.delete('game');
+    window.history.pushState({}, '', newUrl);
+
     document.getElementById('detail-view').classList.remove('active');
     document.getElementById('games-grid').classList.remove('hidden');
     document.getElementById('summary-box').classList.remove('hidden');
@@ -354,9 +366,13 @@ export function hideGameDetail() {
     window.scrollTo(0, 0);
 }
 
-export function setSortMode(mode) {
-    window.currentGameData.sortMode = mode;
-    renderGameDetail();
+// New function to handle deep-linking on load
+export function handleDeepLink() {
+    const params = new URLSearchParams(window.location.search);
+    const appId = params.get('game');
+    if (appId && gamesData.has(appId)) {
+        showGameDetail(appId, false); // false to avoid redundant pushState
+    }
 }
 
 export function setGridSortMode(mode) {
