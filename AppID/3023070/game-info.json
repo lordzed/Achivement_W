@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/583365b06d43a5bdcf4706d2bcd5c973bb15e489.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/185c730d3beda4d1c58e707b3ca0201733c208f4.jpg",
       "hidden": false,
-      "percent": "75.3"
+      "percent": "75.2"
     },
     "ACHIEVEMENT_17": {
       "name": "Attack Master",
@@ -17,7 +17,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/46c76c6aca93f9b899b70ad1880d346fe3f6d311.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/6f652fc34529680aa33e9ebd176907dca41f978d.jpg",
       "hidden": false,
-      "percent": "59.9"
+      "percent": "59.8"
     },
     "ACHIEVEMENT_21": {
       "name": "Attack-type Master",
@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/a09d2f92de4ba6cb281afba2a1d85a4d092bdb9a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/6ee3f8739a50a364b321272e89a2ca7e5fa3f1aa.jpg",
       "hidden": false,
-      "percent": "14.1"
+      "percent": "14.0"
     },
     "ACHIEVEMENT_15": {
       "name": "Bey Collector",
@@ -121,7 +121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/44b28cdd00557a9421057fd9d3293b56bc59a952.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/12e27effcdb23807ac5a59347e601c5732362a1b.jpg",
       "hidden": false,
-      "percent": "47.9"
+      "percent": "47.8"
     },
     "ACHIEVEMENT_07": {
       "name": "Cleared the 40th floor of The X!",
