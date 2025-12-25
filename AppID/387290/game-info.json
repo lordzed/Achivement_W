@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/9981ce77263e940adc6ce7d9c155bbe616e353b7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/666e9d24370a7893b8b47c6ffd6a78e4e92e75b3.jpg",
       "hidden": false,
-      "percent": "59.4"
+      "percent": "59.5"
     },
     "doubleJumpConsecutively": {
       "name": "Airborne",
@@ -17,7 +17,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/7971558da340c480f7ff1ee42a5aaaa27ed30cb6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/0c483b38fcac28e6e8a31a9fd87a83f32fabc849.jpg",
       "hidden": false,
-      "percent": "30.4"
+      "percent": "30.5"
     },
     "bashEnemyALotInARow": {
       "name": "Bash Master",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/5aa217085a5710bcbe15f407b1b44921e49d7cb3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/2f5d97fed0da8c5fca6f05bcf2d3a59e606d8f10.jpg",
       "hidden": false,
-      "percent": "86.1"
+      "percent": "86.2"
     },
     "escapeGinsoTree": {
       "name": "Close Call",
@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/c45b2db48d11c5588927cc96d1cc063b6217577d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/5a1c98fcb2cbc97d3eea841ae865b36cf9fd4f0c.jpg",
       "hidden": false,
-      "percent": "49.1"
+      "percent": "49.2"
     },
     "collectBranchThreeSkills": {
       "name": "Combat Master",
@@ -121,7 +121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/a55dd8be490da31ef106021dd513f4e95be84a9c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/52ba54f787f1c98cf9ca5b3b1ba83b1c4cae7572.jpg",
       "hidden": false,
-      "percent": "38.5"
+      "percent": "38.6"
     },
     "killFiveHundredEnemiesWithSpiritFlame": {
       "name": "Flame Master",
@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/277a00cb5de386c8876b20eb5bf7329371ec8a32.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/efbc5605e904e5fcea5cfdeaa28ba9c90ef6803e.jpg",
       "hidden": false,
-      "percent": "30.7"
+      "percent": "30.8"
     },
     "killEnemiesWithoutTouchingGround": {
       "name": "Flying Fury",
@@ -201,7 +201,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/40fe8b285b5a29fd14004a02239e9f7c4cbd30d1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/65266b65ae3df4373862c07b4785f6574191514b.jpg",
       "hidden": false,
-      "percent": "53.7"
+      "percent": "53.8"
     },
     "createLotsOfSoulLinks": {
       "name": "Life Saver",
@@ -241,7 +241,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/4bbf264374afc58e9198cb8a2f82ab3e908acb37.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/f7b397a6e8ca35b1b94922ab03382e7f054d3f61.jpg",
       "hidden": false,
-      "percent": "76.2"
+      "percent": "76.3"
     },
     "collectAllHealthCells": {
       "name": "Master Guardian",
@@ -257,7 +257,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/7c4840f16420280a5678ebc99ca4669fb7974579.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/e9026a07b1fe7b00a20e30b4e119c1deb493b0ff.jpg",
       "hidden": false,
-      "percent": "11.7"
+      "percent": "11.8"
     },
     "findAllSecrets": {
       "name": "No Stone Unturned",

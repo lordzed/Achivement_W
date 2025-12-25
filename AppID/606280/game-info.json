@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/fdfab1fa16e4fd5cc4871e8ff230b8e342e83868.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/9635942bc6bd85dca43be9e8e4165d2957e6e52f.jpg",
       "hidden": true,
-      "percent": "10.1"
+      "percent": "10.2"
     },
     "Spend_AttributePoint_50": {
       "name": "Big Spender",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/e44d65493fa7d6cf5951a4cc49ec4023c0a1e91f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/7fcf9533f6fbf7cb291b8eb252142316e2e416c1.jpg",
       "hidden": true,
-      "percent": "35.6"
+      "percent": "35.7"
     },
     "Craft_Enhancement_First": {
       "name": "Enhance!",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/1265bd547215465dc920c7223509964191cdea68.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/44a3f2f9e90a7de7c8818b2f7c28a96b93689915.jpg",
       "hidden": true,
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "Collect_HealthStone_CapacityUpgrade_1": {
       "name": "Increased Capacity",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/bd5d5ffbab41d4c7d3e52a36c2826a89e19bdc14.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/e03901bdc2df940a45082f3bcaae03fc15912e57.jpg",
       "hidden": true,
-      "percent": "62.0"
+      "percent": "62.1"
     },
     "Collect_HealthStone_HealUpgrade_1": {
       "name": "Increased Vigor",
@@ -361,7 +361,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/2eb2c472ef9b535c0f445b694bb51322117893cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/8b6d50273b264e7a1930aa1aaf0450ef593ca94c.jpg",
       "hidden": true,
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "Collect_HealthStone_CapacityUpgrade_4": {
       "name": "Maximum Capacity",
@@ -457,7 +457,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/e0761809f21212a8672b8cfeb9d7a48a0dad588e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/34289e507f6cc03a114d28b8cd90ca2042e6d6bf.jpg",
       "hidden": true,
-      "percent": "36.5"
+      "percent": "36.6"
     },
     "Collect_Lurchers_100000": {
       "name": "Soul Harvester",
@@ -505,7 +505,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/48ea176f6369edd2c7264acbebff284121ea3c5d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/687b9673821a8998b4d68d8f8efa58f9df69f6b8.jpg",
       "hidden": true,
-      "percent": "45.3"
+      "percent": "45.4"
     },
     "Collect_AdamantineMedium_30": {
       "name": "Unyielding Strength",

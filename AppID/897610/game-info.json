@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/897610/b8b9240cba06bafd23c5ef76e3adffec4c5fd342.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/897610/0274a7aadd829c599efa700013eb21ffd240c640.jpg",
       "hidden": true,
-      "percent": "29.6"
+      "percent": "29.7"
     },
     "10": {
       "name": "Luck or skill? ",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/897610/538463872c9864e39da99de1677ba905aff4002d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/897610/f0af2413403818df89da94675c88a8472e9c9ed3.jpg",
       "hidden": false,
-      "percent": "17.1"
+      "percent": "17.2"
     },
     "1": {
       "name": "New here, huh?",
@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/897610/582b5c6f4d6139170ddafea1e14de9bcd973a3bd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/897610/ebbc37319e94d59f1a3b15ecd7e11bbb85a69de7.jpg",
       "hidden": true,
-      "percent": "37.6"
+      "percent": "37.7"
     },
     "8": {
       "name": "That's cute ",
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/897610/fb7159fb7d634e6fba37ba148949e049e3dd58df.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/897610/f411f65d34e5f59dbd5f9ffb240150a405f1d94b.jpg",
       "hidden": false,
-      "percent": "13.4"
+      "percent": "13.5"
     },
     "7": {
       "name": "The end? ",
@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/897610/3fcadc6236914837453af88b9ce4b79b4394b9f3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/897610/41ea1b9ca2253914f7270ad4e41400fa7b3f8271.jpg",
       "hidden": false,
-      "percent": "22.8"
+      "percent": "22.9"
     },
     "12": {
       "name": "What privacy?",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/897610/fb08fc1d6d3190a7e2855937d04881b8d86e3d1d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/897610/41aed12d8bddb0991ec15f0ecb617d6ab78d5700.jpg",
       "hidden": false,
-      "percent": "5.1"
+      "percent": "5.2"
     }
   },
   "uses_db": false,

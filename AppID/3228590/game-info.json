@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/270d01b295df4e8004fb4bd3f070d8f022128e37.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/9fa6d69c28df57ef3106de15b360bc56bf2176a3.jpg",
       "hidden": false,
-      "percent": "33.3"
+      "percent": "33.2"
     },
     "ACH_ReadZone4Logs": {
       "name": "Forbidden Texts",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/34902bf45344076296781546fd412aa979b508ce.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/ecd5641a60c333a13f9ef00d2b5cefd929894282.jpg",
       "hidden": false,
-      "percent": "94.5"
+      "percent": "94.4"
     },
     "ACH_SuperUpgrades1": {
       "name": "Getting an Upgrade",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/7b2ea25809e94659365077b5443bbf33c3cd47d4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/40879a04bd024a822aaa35355a54b4576f0c1fa7.jpg",
       "hidden": false,
-      "percent": "7.3"
+      "percent": "7.2"
     },
     "ACH_Sanctify4": {
       "name": "Hallowed Forgemaster",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/242626c3503f965417b96ad585a1c2b1354b0664.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/a2f900c3cdc09bc9ab113caa39fd7f11e84b0189.jpg",
       "hidden": true,
-      "percent": "74.8"
+      "percent": "74.7"
     },
     "ACH_SuperUpgrades3": {
       "name": "Maxed Out",
@@ -369,7 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/c022373fe66b27b56dc6a564f127450fa5fc7241.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/7492b9bab5c6a18e606cfabc2d54083155a64d83.jpg",
       "hidden": false,
-      "percent": "97.2"
+      "percent": "97.1"
     },
     "ACH_SpendScrap": {
       "name": "Space Wallet",

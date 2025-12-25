@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/ad61faccb45d839ea815397a6e48fc08638ae323.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/47b08f2dca5f9a9ba4b4b32e37c915be945d8bec.jpg",
       "hidden": false,
-      "percent": "49.2"
+      "percent": "49.3"
     },
     "DAMAGE_DEALT_SILVER": {
       "name": "Damage Dealer (Silver)",
@@ -161,7 +161,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/98ca33747cfdb2e42c97f043c2745042c4d892f5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/bb14c9c1c4e04b1c08d3a17eb5ff308c3698daff.jpg",
       "hidden": false,
-      "percent": "46.3"
+      "percent": "46.4"
     },
     "MAGUS_UNLOCK": {
       "name": "Elementalist",
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/9b91e1733580d7f25efffbb643cf2ec8543d3dab.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/dbc092c2402813c76b1378c7beba13b19284b79f.jpg",
       "hidden": false,
-      "percent": "17.4"
+      "percent": "17.5"
     },
     "BROBOT_REBOOTED": {
       "name": "Field Mechanic",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/3d8aed8f99774d599022e502cd21ad73dd4dbafd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/a13dc22e33929f8169f4f224fab7af44e5f5dc2b.jpg",
       "hidden": false,
-      "percent": "62.7"
+      "percent": "62.8"
     },
     "GADGET_UNLOCK_GOLD": {
       "name": "Inspector Gadget (Gold)",
@@ -369,7 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/d85bfcbf08f304e3a9a9a29c5b61fe7456b4b4b5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/7e08def21a2f3b15b431cbb91efd86d630877780.jpg",
       "hidden": false,
-      "percent": "39.1"
+      "percent": "39.2"
     },
     "HEADBONK_STRAIGHT": {
       "name": "Mamma Mia",
@@ -401,7 +401,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/50de24534b4d5335252c9a53d7200696ad649813.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/880213ef3c80ca92584b557106bab50929fdcb06.jpg",
       "hidden": true,
-      "percent": "46.9"
+      "percent": "47.0"
     },
     "MAX_LEVEL_REACHED": {
       "name": "Muscle +4000",
@@ -521,7 +521,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/bbce99a61295146588e75f3917e14e703bd0566a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/db2cd288b28687dfeba62c06f4361e31961f1e92.jpg",
       "hidden": false,
-      "percent": "53.9"
+      "percent": "54.0"
     },
     "SUPERBOT_FINISH_GAME": {
       "name": "Revenge",
@@ -553,7 +553,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/1c5e49aee954bfe3f0e3dbf56b83e620b1c0455e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/8fb896a1b3321841120125eaba215e89603e4c0d.jpg",
       "hidden": false,
-      "percent": "43.8"
+      "percent": "43.9"
     },
     "ENGINEER_FINISH_GAME": {
       "name": "Science Above All!",
@@ -609,7 +609,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/0c2ca9e8ef30b424d2c110e086aaab3970df6910.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/4f2726106bfc6e3422bcd7ccad8429a6e687785e.jpg",
       "hidden": true,
-      "percent": "54.6"
+      "percent": "54.7"
     },
     "GUARDIAN_FINISH_GAME": {
       "name": "The Last Bastion",

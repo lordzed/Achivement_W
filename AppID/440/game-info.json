@@ -345,7 +345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/688c1e424f2af801ba005f23b12b366b4dc92813.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/47f1938053cd1f8c9d907fc2b8a7bbbb083e239f.jpg",
       "hidden": false,
-      "percent": "14.2"
+      "percent": "14.1"
     },
     "TF_SCOUT_BLOCK_CAPS": {
       "name": "Block the Plate",
@@ -457,7 +457,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/f1e1bdb93fc806170ea25afbccde490937f061ce.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/ad242458993ded10c642a39f80b5de0b0fda8f84.jpg",
       "hidden": false,
-      "percent": "7.1"
+      "percent": "7.0"
     },
     "TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG": {
       "name": "Building Block",
@@ -497,7 +497,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/92333bfecfe73865cc9725df29ea8a0753c9b71a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/5a26af89a8d51b22f1d7665e5fc4163fc23f8904.jpg",
       "hidden": false,
-      "percent": "26.3"
+      "percent": "26.2"
     },
     "TF_PYRO_CAMP_POSITION": {
       "name": "Camp Fire",
@@ -697,7 +697,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/50841104aec7fea780ac6aca4def38606db1acae.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/954fd99a184f083df200f1d32796ee4f0599b0b4.jpg",
       "hidden": false,
-      "percent": "17.9"
+      "percent": "17.8"
     },
     "TF_HEAVY_KILL_CRIT_PUNCH": {
       "name": "Communist Mani-Fisto",
@@ -1497,7 +1497,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/09d911c162a5da5e94778be0db51c3d106d70027.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/cd0617091511b5726b18f422b7cb0355a0f6b37c.jpg",
       "hidden": false,
-      "percent": "12.2"
+      "percent": "12.1"
     },
     "TF_MVM_MAPS_MANNHATTAN_NO_GATES": {
       "name": "Get Off My Lawn",
@@ -1537,7 +1537,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/a211b21f62275959a791ee7e3ab42393ec07baf4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/1ddd249e6ce9192f7b2a4122246442b245983ea4.jpg",
       "hidden": false,
-      "percent": "10.8"
+      "percent": "10.7"
     },
     "TF_SOLDIER_FREEZECAM_GIBS": {
       "name": "Gore-a! Gore-a! Gore-a!",
@@ -2369,7 +2369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/dbdab6cc2f3f8bc723dc4c74a4725ccc11f461ac.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/52beb2b5872b8bcaa03ec2ae404feb9214ed04fd.jpg",
       "hidden": false,
-      "percent": "28.3"
+      "percent": "28.2"
     },
     "TF_ENGINEER_SENTRY_KILL_CAPS": {
       "name": "No Man's Land",
@@ -2417,7 +2417,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/bca47ecbfadcd1fa3fcce89757750d3841c4d266.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/23d17699c35a31563ce1be6f0ad821e0f8c7eb21.jpg",
       "hidden": false,
-      "percent": "9.0"
+      "percent": "8.9"
     },
     "TF_PYRO_KILL_TAUNT": {
       "name": "OMGWTFBBQ",
@@ -2505,7 +2505,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/e974bb13f2da40948651cc09896dad2c0a300ce9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/31f33ee67948a6be8fc6b20e521e48bea24af82c.jpg",
       "hidden": false,
-      "percent": "7.9"
+      "percent": "7.8"
     },
     "TF_ENGINEER_KILL_SENTRY_WITH_SENTRY": {
       "name": "Patent Protection",
@@ -2521,7 +2521,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_bonesaw_medics.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_bonesaw_medics_bw.jpg",
       "hidden": false,
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "TF_HEAVY_KILL_WHILE_SPUNUP": {
       "name": "Permanent Revolution",
@@ -3017,7 +3017,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/addebf7f0b18dd74a1625d173f73d49cba8d31a3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/33a3da576e0f1e08ca72fa07a21f4af32a56fe99.jpg",
       "hidden": false,
-      "percent": "12.1"
+      "percent": "12.0"
     },
     "TF_DEMOMAN_KILL_X_CAPPING_ONEDET": {
       "name": "Scotch Guard",
@@ -3321,7 +3321,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/e120e921417f883537298d4e2eeaf2f70966ce3c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/7b164c64b67d20dfdb4b5d5046956dbdc31c6a3e.jpg",
       "hidden": false,
-      "percent": "24.5"
+      "percent": "24.4"
     },
     "TF_MVM_MAPS_MANNHATTAN_STUN_RADIOWAVE": {
       "name": "Software Downgrade",
@@ -3497,7 +3497,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/c1e82fe850b067c3a24f9e7d07ed25150d206e5e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/8be766a033a60bbdc7d0ded6045c4816e1e36143.jpg",
       "hidden": false,
-      "percent": "5.3"
+      "percent": "5.2"
     },
     "TF_REPLAY_EDIT_TIME": {
       "name": "Star of My Own Show",
@@ -3577,7 +3577,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/f038cbb9a810a437855bb62904bbca1625339121.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/c50ec034b57bfdde469f945ca431f95ab8965f9b.jpg",
       "hidden": false,
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "TF_DEMOMAN_DAMAGE_GRIND": {
       "name": "Tartan Spartan",
@@ -3769,7 +3769,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/692c1e2a2091ee0c755db8a28fef2615b194bcdc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/720ad447a439aa9d42d54c821f3a8a38d327f240.jpg",
       "hidden": false,
-      "percent": "6.4"
+      "percent": "6.3"
     },
     "TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET": {
       "name": "The Stickening",
@@ -3809,7 +3809,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/7908a13a8843b51395b0ddd5832283c7e5cc876c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/108ac5f76eea8ef8b12a7679b9de4a7f1ef36661.jpg",
       "hidden": false,
-      "percent": "9.1"
+      "percent": "9.0"
     },
     "TF_REPLAY_BROWSE_REPLAYS": {
       "name": "Time For Your Close-Up, Mr. Hale",

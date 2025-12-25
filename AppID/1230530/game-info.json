@@ -73,7 +73,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/7214d460bb22769180ff479084820520ec081c44.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
-      "percent": "77.1"
+      "percent": "77.0"
     },
     "trophy_04_level4_complete": {
       "name": "Calm before the Storm",
@@ -161,7 +161,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/35668bdb2ad4bf9bb026729891ebacbe0553ac7f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
-      "percent": "36.7"
+      "percent": "36.6"
     },
     "trophy_06_level6_complete": {
       "name": "Godslayer",
@@ -201,7 +201,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/90706fb7980f887e895d1f465134e0d6e3ef8481.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
-      "percent": "29.5"
+      "percent": "29.4"
     },
     "trophy_26_lore_items": {
       "name": "Scholar",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/101daa3a26f8153de81b19f8d14c0b008e1aca33.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
-      "percent": "33.9"
+      "percent": "33.8"
     },
     "trophy_38_summiter": {
       "name": "Summiter",
@@ -265,7 +265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/a8c209fcacbb1e5ebdc85d48ce8f930452c15573.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
-      "percent": "36.5"
+      "percent": "36.4"
     },
     "trophy_40_dlc_thelos_questline": {
       "name": "The Forgotten Realm",
@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/0aa6ddd7996739253cf0dce0dbbb7bb4886129b2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
-      "percent": "16.1"
+      "percent": "16.0"
     },
     "trophy_15_currency": {
       "name": "Tributes of Caladrias",
@@ -305,7 +305,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/7a43f771586842d8f3bf25f76eb87e8bf0e794a2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
-      "percent": "42.2"
+      "percent": "42.1"
     }
   },
   "uses_db": false,
