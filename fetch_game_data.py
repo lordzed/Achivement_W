@@ -359,6 +359,23 @@ for appid in appids:
     print(f"\nProcessing AppID {appid}...")
     base_path = appid_dir / appid
 
+    skip_file = base_path / "skip"
+    if skip_file.exists():
+        print(f"  ! 'skip' file found, skipping data fetch for {appid}")
+        existing_info = load_json_file(base_path / "game-info.json")
+        achievements_data, file_type = load_achievements_file(base_path)
+        
+        if existing_info and achievements_data:
+            existing_game_data[str(appid)] = {
+                "appid": str(appid),
+                "info": existing_info,
+                "achievements": achievements_data,
+            }
+            print(f"  ✓ Existing data loaded into memory for central rebuild")
+        else:
+            print(f"  ✗ Could not load existing info/achievements for skipped game {appid}")
+        continue
+    
     # Load previous game-info for memory
     existing_info = load_json_file(base_path / "game-info.json") or {}
 
