@@ -4819,8 +4819,8 @@
         "earned_time": 1766525773
       },
       "TFD_ACHIEVEMENT_2": {
-        "earned": false,
-        "earned_time": 0
+        "earned": true,
+        "earned_time": 1766775498
       },
       "TFD_ACHIEVEMENT_3": {
         "earned": false,
@@ -4887,8 +4887,8 @@
         "earned_time": 0
       },
       "TFD_ACHIEVEMENT_19": {
-        "earned": false,
-        "earned_time": 0
+        "earned": true,
+        "earned_time": 1766775995
       },
       "TFD_ACHIEVEMENT_20": {
         "earned": false,
