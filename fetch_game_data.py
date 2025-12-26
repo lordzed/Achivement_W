@@ -361,7 +361,7 @@ for appid in appids:
 
     # Detect platform file
     platform_files = list(base_path.glob("*.platform"))
-    game_info["platform"] = platform_files[0].stem if platform_files else None
+    current_platform = platform_files[0].stem if platform_files else None
 
     # Load blacklist
     blacklist_file = base_path / "blacklist"
@@ -375,6 +375,7 @@ for appid in appids:
         else []
     )
 
+    # Manage Skip file
     skip_file = base_path / "skip"
     if skip_file.exists():
         print(f"  ! 'skip' file found, skipping data fetch for {appid}")
@@ -382,12 +383,15 @@ for appid in appids:
         achievements_data, file_type = load_achievements_file(base_path)
         
         if existing_info and achievements_data:
+            existing_info["platform"] = current_platform
+            existing_info["blacklist"] = current_blacklist
+            
             existing_game_data[str(appid)] = {
                 "appid": str(appid),
                 "info": existing_info,
                 "achievements": achievements_data,
             }
-            print(f"  ✓ Existing data loaded into memory for central rebuild")
+            print(f"  ✓ Existing data preserved with platform: {current_platform}")
         else:
             print(f"  ✗ Could not load existing info/achievements for skipped game {appid}")
         continue
@@ -401,13 +405,16 @@ for appid in appids:
         "name": f"Game {appid}",
         "icon": "",
         "achievements": {},
+        "platform": current_platform,
+        "blacklist": current_blacklist,
+        "uses_db": (base_path / f"{appid}.db").exists()
     }
-    game_info["uses_db"] = (base_path / f"{appid}.db").exists()
 
     # --- Fetch data --- #
     # Steam Store Info
     store_info = fetch_steam_store_info(appid)
     game_info.update(store_info)
+    game_info["platform"] = current_platform
     time.sleep(1.5)
 
     # Community XML Achievements
