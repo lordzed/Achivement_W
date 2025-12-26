@@ -73,7 +73,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/488cde502674e735235a8512c2f72383fe837210.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f70adcbaf015b618cbe2b5dcfdc3a505f50b6178.jpg",
       "hidden": false,
-      "percent": "5.4"
+      "percent": "5.5"
     },
     "green_3": {
       "name": "1337",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/e266a3228ee7842e8274d38a3275b87e1bdb1dba.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/38a61ff575c3feb8ca863800cd2c5a701c2701b0.jpg",
       "hidden": false,
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "gage_2": {
       "name": "3000 Miles to the Safe House",
@@ -153,7 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/fadb0565b0c50449215c53533869347f2de97cd6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/7b933ea0113a12f2651d2852f7876bddfc59a038.jpg",
       "hidden": false,
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "glace_4": {
       "name": "A Bridge Too Far!",
@@ -201,7 +201,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/5d9c77d9c9654d3e892753bb146969efcc4692bb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/c1100fae1af2b9e306cf0bef3913020ec31e7016.jpg",
       "hidden": false,
-      "percent": "19.5"
+      "percent": "19.6"
     },
     "skm_19": {
       "name": "A Different Kind of Exchange in the Docks",
@@ -233,7 +233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/58a203bebd26be1cb135bfe98d9d22ad7b80ecad.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/ed1e16de5247470e07067df02005b52937a07e6c.jpg",
       "hidden": false,
-      "percent": "7.4"
+      "percent": "7.5"
     },
     "mex2_3": {
       "name": "A Dish Best Served Hot",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/3b23c397183ef627f886dbd882fc85b127a6b1e4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/182f00d1fa25a85a9bf8e1209bc888dd3bbd05d1.jpg",
       "hidden": false,
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "axe_666": {
       "name": "A Horrible Seventh Nightmare",
@@ -465,7 +465,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/2479a8026d56195caa54abcbdc1821c4dc585216.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/8acc6b040933b7a8ad2c4c642c236cb0c784153c.jpg",
       "hidden": false,
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "trk_wd_2": {
       "name": "A Truckload of Kicking Ass and Taking Names",
@@ -569,7 +569,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/fad721db8d401d8fcb687be81f071448453b6385.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/de29c335cb0c128d2ddc8f3cbeb829445f7f3cf1.jpg",
       "hidden": false,
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "trk_js_2": {
       "name": "All That Glimmer isn't Gold",
@@ -577,7 +577,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/7cb6ea7e336c81b0c377e99ddcef2e73678b62a2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/12172695266e83fa3f5ea973ccd2870249a398bb.jpg",
       "hidden": false,
-      "percent": "19.0"
+      "percent": "19.1"
     },
     "brb_8": {
       "name": "All the Gold in Brooklyn",
@@ -665,7 +665,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/3a5ee75d204d387df0500ef9174240090cbe86a6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/420cd0c82625f6034ab454b34588cb22243d7db1.jpg",
       "hidden": false,
-      "percent": "3.6"
+      "percent": "3.7"
     },
     "trk_ev_6": {
       "name": "And Now for Something Completely Different",
@@ -713,7 +713,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/0e499ba4d9d1dd8c216656f8bbf5eab0fb85bf10.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/128d58c2ea9adf6d7bf582e1dcbfab45829e9e40.jpg",
       "hidden": false,
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "trk_lr_3": {
       "name": "Arachnophobia",
@@ -753,7 +753,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/33e428df27b6267474aac7deb20c25e37770f6e3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/176d7813400bec5e5d8d1b0bed0fa00029f5b2ec.jpg",
       "hidden": false,
-      "percent": "34.7"
+      "percent": "34.8"
     },
     "would_you_like_your_receipt": {
       "name": "Armed to the Teeth",
@@ -777,7 +777,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/b849699fbb42e342478a85b7daccb219ed9b88c2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/5a1a5c34e2e3dbafdaa42656f3378e813be46846.jpg",
       "hidden": false,
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "trk_ag_2": {
       "name": "Art Lovers",
@@ -785,7 +785,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/20f5883242f71b13e810aa86dfcb432d38edea2e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/325c987941bc827af375f6efad932851a6d92687.jpg",
       "hidden": false,
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "gage5_5": {
       "name": "Artillery Barrage",
@@ -817,7 +817,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/c07590393dc90648df4e277515a145583bfda4ef.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/bdff6e76da6cc71047ce38b8a7909113a5945f60.jpg",
       "hidden": false,
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "trk_c_0": {
       "name": "At Your Service",
@@ -865,7 +865,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/c6ce9a098efd476bbd5a4bef7babb8d1a17620de.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/6fbc5b02f4d0acb0994dbd068188206d0e05b384.jpg",
       "hidden": false,
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "peta_4": {
       "name": "BAAaa...*BANG*...aaAAH",
@@ -977,7 +977,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/ac068d730bb044d234a76d8a9e7b6354a182eb40.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/57b79d7620b42fb839f13649e6f139b10618f02f.jpg",
       "hidden": false,
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "gage4_10": {
       "name": "Bang for the Buck",
@@ -1025,7 +1025,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/db7ae9afa1941906d545f6a74a0e04a3668af3c6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/9c4e513e44dd72c70f565a4b49bd088d3c46d037.jpg",
       "hidden": false,
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "glace_7": {
       "name": "Beat the Shield",
@@ -1033,7 +1033,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/9e91bb9ff2124250a9e436ee697a38873643ee04.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/85e4199e1f6e4bcd55110a4b3cee204407e03bb8.jpg",
       "hidden": false,
-      "percent": "3.9"
+      "percent": "4.0"
     },
     "cow_3": {
       "name": "Beaver Team",
@@ -1281,7 +1281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/711515763fd8975331f0e31fbae2efb74d922b3e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/99ba40fa72772a083dd47fcab643f1d2a5212cde.jpg",
       "hidden": false,
-      "percent": "8.9"
+      "percent": "9.0"
     },
     "ignominy_6": {
       "name": "Becoming Villainous",
@@ -1313,7 +1313,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/a95e71325034de2ec0cda062695a1816b8166464.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/78cbd3fd306969e547448d2b4cbf56ae81651e0c.jpg",
       "hidden": false,
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "gage5_2": {
       "name": "Big Bada Boom",
@@ -1473,7 +1473,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f5d2e888eeb82ba7e7370b27f9f9e1c1c54c8fcd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/a55781483dd8f013c28aa1330eb9a8548820836c.jpg",
       "hidden": false,
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "death_4": {
       "name": "Blood on the Dance Floor",
@@ -1481,7 +1481,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/d1148c16001dc66786c108d375787d28c107eb61.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/91b5452bd5e2a8582da181d2d2ca58bcb68e3e70.jpg",
       "hidden": false,
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "mex_3": {
       "name": "Blood on the Sand",
@@ -1585,7 +1585,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f839cb489373d3cd21859bfd6bd992b02e98ce6a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/eef124a7cb26dd6d019f7971b0f82388978cd68a.jpg",
       "hidden": false,
-      "percent": "7.4"
+      "percent": "7.5"
     },
     "cow_9": {
       "name": "Breaking Dead",
@@ -1617,7 +1617,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/1235b0d00013a300b33866c130267c109dba2450.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/be8468da35b2c19385feaa9a4f47138b6c0b9fee.jpg",
       "hidden": false,
-      "percent": "5.6"
+      "percent": "5.7"
     },
     "trk_af_3": {
       "name": "Bring it Back Safe",
@@ -1641,7 +1641,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/ee8783c2dc5fecb02ed463c81af4e55f10db70ca.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/73290fcdf5aa6ed808e6f79ace36749386065308.jpg",
       "hidden": false,
-      "percent": "15.4"
+      "percent": "15.5"
     },
     "trk_bb_0": {
       "name": "Broke the Piggy Bank",
@@ -1649,7 +1649,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/d567bd8d8341377b7d7e7afa92915270d04ee005.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/c71b7de64d630ee33f5c7044afce209e1b7ba06a.jpg",
       "hidden": false,
-      "percent": "11.7"
+      "percent": "11.8"
     },
     "brb_7": {
       "name": "Brooklyn Battle",
@@ -1689,7 +1689,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/818f3ccdfb135b8ce0b8d37dd4c9bfebb5c58eb1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/2b163b3f8e495ff28def3e404bc72cde43823d8f.jpg",
       "hidden": false,
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "ggez_23": {
       "name": "Bunker Buddies",
@@ -1737,7 +1737,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/bc30c61200b307a5d4fa482b913ecc78a9047848.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/2a63026dd0599ce0c3e49f23db23e25787d82e29.jpg",
       "hidden": false,
-      "percent": "14.8"
+      "percent": "14.9"
     },
     "sawp_1": {
       "name": "Buzzbomb",
@@ -1793,7 +1793,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/198f6b50ab24d335e437c79d9e08fea8bbd620c7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/565ca428fabba584575d4ac5f9304727e71d7442.jpg",
       "hidden": false,
-      "percent": "17.5"
+      "percent": "17.6"
     },
     "death_2": {
       "name": "Came in Like a Wrecking Ball",
@@ -1801,7 +1801,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/1f79934878f843cbbb64bb54b7926f50a68030ea.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/ed1d77d23f4d6a8a55b16349274f439ec73d11ab.jpg",
       "hidden": false,
-      "percent": "8.9"
+      "percent": "9.0"
     },
     "pick_45": {
       "name": "Can You See The Light?",
@@ -1833,7 +1833,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f6483168f9290d1ee2402a54556fbf502be2dd41.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/93e3215b2ada7ddf0f9782704dea6de83f536e49.jpg",
       "hidden": false,
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "pick_7": {
       "name": "Captain Cook",
@@ -1913,7 +1913,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/0e99e85ecc0bf8afb6df76ae7a22bce32b33b22e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/ed20c4768609a3b11b0ccd0bca239f456292f059.jpg",
       "hidden": false,
-      "percent": "13.9"
+      "percent": "14.0"
     },
     "deep_11": {
       "name": "Cash Liquidation",
@@ -1961,7 +1961,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/5d3fe14ce560659e500af3ef64814667bc602e92.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/bf6e8d8736e738964b1c377bf044b4851e9bd15f.jpg",
       "hidden": false,
-      "percent": "5.6"
+      "percent": "5.7"
     },
     "glace_9": {
       "name": "Caution! Wet Floors",
@@ -2017,7 +2017,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/9b1b681d2fb0e69581afe7686eee5c554eac8864.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/2e828f5497b9285c189cc5daafbea52dc67196d7.jpg",
       "hidden": false,
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "wwh_2": {
       "name": "Chilly Deception",
@@ -2073,7 +2073,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/802bb571eb404ba11b47990c57ae21ac65d64605.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/e1755f7765c01c6c321c6da3182b1c3fed51650a.jpg",
       "hidden": false,
-      "percent": "7.1"
+      "percent": "7.2"
     },
     "deer_4": {
       "name": "Claustrophobia",
@@ -2089,7 +2089,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f148137ffd5331d20c9974846a6d871e84ab2361.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/38e83b7843d3afac930fe4ddc0a197e80f811f21.jpg",
       "hidden": false,
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "berry_2": {
       "name": "Clean House",
@@ -2185,7 +2185,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/6d639f2e37db574fc45160595b91bdefce8def44.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/e7048dd7961b3e170b74bdf5ef443eb552a84d58.jpg",
       "hidden": false,
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "hot_wheels": {
       "name": "Coming in Hot",
@@ -2305,7 +2305,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/8d65ddb9f30113d27c942ceba45c3ec643157ddb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/54470bb1a86c39b98aa9d46a0789861838d5d42a.jpg",
       "hidden": false,
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "corp_8": {
       "name": "Corporate Espionage",
@@ -2441,7 +2441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/8f1b72c1f2a5c309f3793460f6b3f2dcf75c73d2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/846e54976cd03eb4cc44ccba0bd369a717c13430.jpg",
       "hidden": false,
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "sand_2": {
       "name": "Cupcake Rescuer",
@@ -2473,7 +2473,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/9824949a45ebb12f6a5a541a0313ff4da32f924f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f0d9333814754b4eb5bf7eafb3be7c66c1b8da38.jpg",
       "hidden": false,
-      "percent": "11.0"
+      "percent": "11.1"
     },
     "pick_5": {
       "name": "Dallas Security Firm",
@@ -2529,7 +2529,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f14cc5f4949547522f5175097df9c42a5274fd88.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/9e93cb21d6fa42607d3c804e84fc44afece8d6bc.jpg",
       "hidden": false,
-      "percent": "6.3"
+      "percent": "6.4"
     },
     "charliesierra_8": {
       "name": "Dead Presents",
@@ -2537,7 +2537,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/0a6416b1946c8372a772842f0cbf9645a58da73a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/8d75d1c0745e1a0962a3f3e89a1b028387947427.jpg",
       "hidden": false,
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "ckr_1": {
       "name": "Dead, Wrapped in Plastic",
@@ -2545,7 +2545,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/7e8f2101d4fd145a14677acceac23eccd8aa1e75.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/2bd1fef0258fff790d036860572efe5706105481.jpg",
       "hidden": false,
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "axe_52": {
       "name": "Death and Taxes",
@@ -2665,7 +2665,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/db2a45baf8c393ec1877c07e449b73196d57fc06.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/acb67f111252b29d533c4775b6925c0f587e6dd0.jpg",
       "hidden": false,
-      "percent": "14.8"
+      "percent": "14.9"
     },
     "diamonds_are_forever": {
       "name": "Diamonds Are Forever",
@@ -2673,7 +2673,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/e54a9fd99000afe0abfd18b47c33ffba25b4f9f0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/3f486200444f8facb77e7fbd77299c7dc77cbee4.jpg",
       "hidden": false,
-      "percent": "29.7"
+      "percent": "29.8"
     },
     "bat_6": {
       "name": "Diamonds in the Rough",
@@ -2753,7 +2753,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/2ef55f0783c2deff7e5a56d53e04e1778e3520d1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/d1f2826772ca91772aa35889720c21f23e19c651.jpg",
       "hidden": false,
-      "percent": "22.7"
+      "percent": "22.8"
     },
     "ggez_56": {
       "name": "DIY EMP",
@@ -2769,7 +2769,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/af96e661df8f3eb43f83ea4ad96fe8189881ccf8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f8bc69d40e28bc574b57fc5c3a93e17542a295f6.jpg",
       "hidden": false,
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "axe_1": {
       "name": "Dmitri, Dearest of All My Friends!",
@@ -2793,7 +2793,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/8d021c0d6ee8347a4d6ec9345fc5904a325056c2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/20d6c99feb2a343508609c73fc0ef8c863e95a24.jpg",
       "hidden": false,
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "pig_3": {
       "name": "Do You Like Hurting Other People?",
@@ -2825,7 +2825,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/7d957a4c88abb95bc90d622e80553cabe47494c4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/c41fb0b7e2ee733e67f123a9badcf6111ac425d3.jpg",
       "hidden": false,
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "trk_d_4": {
       "name": "Doctor of Crime",
@@ -2905,7 +2905,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/11baf46117ee8312775d8a72e4ff347c990b2fd4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/adb5d57ad43c64195b927fcb3e6942b0da1eaeaf.jpg",
       "hidden": false,
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "gage2_7": {
       "name": "Don't Push It",
@@ -3097,7 +3097,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/9a13f9f974d37fe1022a5a422a0082299bfbfa85.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f76ac7d201e3c4258e4f0087b275ecfb85b977c1.jpg",
       "hidden": false,
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "charliesierra_7": {
       "name": "Eco Round",
@@ -3105,7 +3105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/56c8d0608cd066ff276ad2e7b7a092f96121c096.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/8b332e7546064773da20f385b2adb18ce4a5dbff.jpg",
       "hidden": false,
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "trk_ms_0": {
       "name": "EMP, Easy as 1-2-3",
@@ -3113,7 +3113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/7deb6cdb7ee209b305320588153a6a1b312d6e3b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/c9bc16604ac2df2075cb559085e2693b174f8054.jpg",
       "hidden": false,
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "axe_53": {
       "name": "EMPathy",
@@ -3121,7 +3121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/1d8842722a80906266b009c14ec0af68c8a5fa8d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/b1619c77eb6891845baa6f7d3633273e06970859.jpg",
       "hidden": false,
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "trk_bs_1": {
       "name": "Enjoy Your Flight",
@@ -3169,7 +3169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/66729b080944e2c367381ab99148d64676aa8d50.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/7fbf5d8486189e16b7f43656d78afa8dd179e15b.jpg",
       "hidden": false,
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "gage4_7": {
       "name": "Every day I'm Shovelin'",
@@ -3425,7 +3425,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/dc9ed2cd38481f1d6cd921ca6678ec66b5783f91.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/28dbf77da96f5d208bc11739808f99066402c614.jpg",
       "hidden": false,
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "skm_16": {
       "name": "Finely Tuned Heister",
@@ -3505,7 +3505,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/19fd9f952f27bad6bc909721a69c6374cfa5e31b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/6f6357e4e4106e7b120c2ef6814061e1c6e989ec.jpg",
       "hidden": false,
-      "percent": "17.1"
+      "percent": "17.2"
     },
     "cow_7": {
       "name": "Fisherman's Fiend",
@@ -3521,7 +3521,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/e3466ea291ce728d50e66a70fca1696078b90976.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/085e103095df916f7eab16bc47318b6239bb36c6.jpg",
       "hidden": false,
-      "percent": "13.2"
+      "percent": "13.3"
     },
     "trk_fir_2": {
       "name": "Flame War",
@@ -3577,7 +3577,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/de9e3b3d894573a5cade9a815d0a12fb8d527a54.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/e0d9ee14a8ffd489090dd9daf62d893928218e78.jpg",
       "hidden": false,
-      "percent": "0.9"
+      "percent": "0.8"
     },
     "gsu_01": {
       "name": "For all you legends",
@@ -3641,7 +3641,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/c1137e5db0eb3db61bfb57b2035c00379247304a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/ba7d2fa9077c0ebdc417aed4af7c8764a99dc892.jpg",
       "hidden": false,
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "gage4_12": {
       "name": "Four Monkeys",
@@ -3713,7 +3713,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/5eaec109cdc1200928406029111cf039d9385106.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/1ce9dec927d2fabf2e2a8c16d384d015ec65a375.jpg",
       "hidden": false,
-      "percent": "11.7"
+      "percent": "11.8"
     },
     "halloween_10": {
       "name": "From Russia With Love",
@@ -3753,7 +3753,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/1999c4afd858cdf56b13e9ccd1720227d94b6d7a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/4717989e68e2e06c7d201fc8604461db578e39ce.jpg",
       "hidden": false,
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "born_5": {
       "name": "Full Throttle",
@@ -3769,7 +3769,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/d02e26f05dce116f3ce68f573ddb447596f12e2e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/383eba90f2e0218c757567325ef3d4c2dd22104c.jpg",
       "hidden": false,
-      "percent": "30.0"
+      "percent": "30.1"
     },
     "bigbank_10": {
       "name": "Funding Father",
@@ -3777,7 +3777,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/5634d48a3239bca085393b7a8eb6ed0951b8f02b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/58dde7a9f9f459deda77698a4f58e8d5d1e4af55.jpg",
       "hidden": false,
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "trk_mc_1": {
       "name": "Fury Day",
@@ -3785,7 +3785,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/e1ff16f3cfcd314b3fe764424097fc3b8f582c2a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/608d982e6c2295c58d675dcb6a1c9cc45487b263.jpg",
       "hidden": false,
-      "percent": "16.7"
+      "percent": "16.8"
     },
     "tag_8": {
       "name": "Garrett's Foil",
@@ -3881,7 +3881,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/4fe1767711f28e3f945e8929a2cc0f6dadad8ce3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/578eba83fa3ab8f1030edfc237897a0992de94ee.jpg",
       "hidden": false,
-      "percent": "6.4"
+      "percent": "6.5"
     },
     "cac_27": {
       "name": "Global Warming",
@@ -3961,7 +3961,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/d51c5810ad6cdb75845bcb05984d76fde0696549.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/9de1318239d1f4d637a90b3a811f9aa511498ffa.jpg",
       "hidden": false,
-      "percent": "19.4"
+      "percent": "19.5"
     },
     "trk_gs_3": {
       "name": "Golf Oscar Alpha Tango Sierra",
@@ -3977,7 +3977,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/bfa71a572c0efba950f5a337f02f75e9cdb37600.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/484fdb701138fe50b31604d2f6c139e4182202ab.jpg",
       "hidden": false,
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "axe_9": {
       "name": "Got Money to Burn",
@@ -4025,7 +4025,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/49c24ad95c80d02e444b0b6764ee996c37332f58.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/8f271f3b0201411f14155d2033af811c6909b983.jpg",
       "hidden": false,
-      "percent": "11.6"
+      "percent": "11.7"
     },
     "trk_bt_3": {
       "name": "Guardian Angels",
@@ -4049,7 +4049,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/deb36f863f1f7493ee01ef78053cad842fd83b28.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/e7bbcd7519826d04b5a78b5ad5601670b63f481a.jpg",
       "hidden": false,
-      "percent": "67.4"
+      "percent": "67.5"
     },
     "bex_4": {
       "name": "Guitars And ARs",
@@ -4113,7 +4113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/e12d276e926cc45125f858abe2a1fd5c8cf8aca1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/c5f33f7c44f5cf047584c508673e5041eb6c2fd9.jpg",
       "hidden": false,
-      "percent": "5.7"
+      "percent": "5.8"
     },
     "skm_12": {
       "name": "Halfoffius, God of the Mall",
@@ -4145,7 +4145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f92acb6b9bc4af28668ea8cf99a2bc642b5e9f68.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/cbc89accb949465e2d8674b9918449dea3f992bb.jpg",
       "hidden": false,
-      "percent": "5.6"
+      "percent": "5.7"
     },
     "pick_23": {
       "name": "Harboring Criminals",
@@ -4281,7 +4281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/ecacf1c3dba227c7d8cb3edc7da11ff02c0ae504.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/6d87f79da8d5ba158b4a5e96a510a9d587f37aae.jpg",
       "hidden": false,
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "trk_fir_0": {
       "name": "Hector's Heroes",
@@ -4585,7 +4585,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/e2820129c5c5dd450e853309253487102b691447.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/d586af7de4fe69a62bd774c4b94d2c77d4ec7581.jpg",
       "hidden": false,
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "trk_td_2": {
       "name": "Hit 'em Hard",
@@ -4625,7 +4625,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/1c44fddb6a289b229f56f5cfce416fa70942c63c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/0a3ebc4106e7064004fff422319e32788e4b6f24.jpg",
       "hidden": false,
-      "percent": "43.1"
+      "percent": "43.2"
     },
     "trk_sa_3": {
       "name": "Home Invasion",
@@ -4689,7 +4689,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/63311cd4fc55cfbe35913aa325400bd01d884412.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/a3d9f1e397ffd3d0dd1826441e696b85bfbfe266.jpg",
       "hidden": false,
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "how_do_you_like_me_now": {
       "name": "How Do You Like Me Now?",
@@ -4697,7 +4697,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/3859e55f2038366c5901447682a6703c42dbc752.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/9a03e96b13695a3449262d9534bbf5046bb049b8.jpg",
       "hidden": false,
-      "percent": "66.8"
+      "percent": "66.9"
     },
     "skm_18": {
       "name": "How Many Life Preservers",
@@ -4793,7 +4793,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/acda7ac453050557e58e852b0db96b0f61e69c15.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/916bef0fa1879651a969f266fefc0bae73fee851.jpg",
       "hidden": false,
-      "percent": "6.0"
+      "percent": "6.1"
     },
     "pick_60": {
       "name": "I Cut Down Trees, I Skip and Jump",
@@ -4801,7 +4801,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/1e10c43fefcae409df6ac9c02f5b9ff3745e3f91.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/07e37bb2486d8b2e8ff7e5b1f4043d3ce96267e9.jpg",
       "hidden": false,
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "armored_8": {
       "name": "I Did Not Have Sexual Relations With That Bulldozer",
@@ -4857,7 +4857,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f18310f393daa51e26a3430b3d751a16b682dc1d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/1023bcc5de0f430c14aba1476a0c7c4223642c58.jpg",
       "hidden": false,
-      "percent": "11.8"
+      "percent": "11.9"
     },
     "pick_33": {
       "name": "I Know What I Like",
@@ -4889,7 +4889,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/dc57dd1448c5e73022e54a79b95838d5c0aae42e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/9b0a26f379a672f04b8e2d96fa62b76faf008a8e.jpg",
       "hidden": false,
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "brooklyn_3": {
       "name": "I Never Asked for This",
@@ -4897,7 +4897,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/3d98e7f8a81ed56eebff062949f3cbb1360e43c5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/bcd9533a1f9895637fa2f0d47fb254d07ed5e952.jpg",
       "hidden": false,
-      "percent": "33.9"
+      "percent": "34.0"
     },
     "pick_43": {
       "name": "I Put It on Repeat",
@@ -4905,7 +4905,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/ab5a9d0ec598eb2d44b46f84123978f1c5c619fd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/ad05b68dbf0cb760f082f03765aba959d3958b0b.jpg",
       "hidden": false,
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "axe_46": {
       "name": "I Survived Lab Rats with One Down And All I Got Was This Achievement",
@@ -4929,7 +4929,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/9dca254b452c8bc477c5bfacb10e17845449989e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/5bcd8ca6da56d0263eb9d5b3bb353ae7182e8841.jpg",
       "hidden": false,
-      "percent": "78.5"
+      "percent": "78.4"
     },
     "trk_ms_3": {
       "name": "I Washed My Hands in Murky Water",
@@ -4993,7 +4993,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/fefb017e876f68631befe1b6924bceff0e0ff069.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f25ac134daca5681031ddec22399b83fc42097c3.jpg",
       "hidden": false,
-      "percent": "14.0"
+      "percent": "14.1"
     },
     "pick_16": {
       "name": "I Would Like to Move My Money to a Bank That Doesn't Get Robbed",
@@ -5057,7 +5057,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/cedbe562cd65a0f8e693504293558fdda8c8416f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/e77a0af2b2db0944927f6637169036f5335b2420.jpg",
       "hidden": false,
-      "percent": "8.8"
+      "percent": "8.9"
     },
     "axe_2": {
       "name": "I'll Break Your Malls",
@@ -5105,7 +5105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/933513d08988998f4fca812788bb4c47c3be3f22.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/4a2e3342e7f716f7ea482f810106815817880e07.jpg",
       "hidden": false,
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "armored_7": {
       "name": "I'm Not a Crook!",
@@ -5145,7 +5145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/0b701ff8c9d1f022acb6d80fbfce2567e6a628f2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/6b24c799435e499c5a4b891e315db5aefc06075c.jpg",
       "hidden": false,
-      "percent": "5.7"
+      "percent": "5.8"
     },
     "axe_40": {
       "name": "In the Name of Heisenberg",
@@ -5185,7 +5185,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f2223ef14d4779b4e1988520977c74f25953a178.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/e8ab699336b90d4f2c7d75606d9e2e0c4d69ee9b.jpg",
       "hidden": false,
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "trk_cou_0": {
       "name": "Ink, Paper, Roll Out the Dough",
@@ -5193,7 +5193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/8e82b531f7f8067e2f18c3b7dbb2b48ed9af1dbc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/e806515559fccd5afb7ec7ec6a8b5fd6b28138ff.jpg",
       "hidden": false,
-      "percent": "9.1"
+      "percent": "9.2"
     },
     "nmh_2": {
       "name": "Interns on the Floor",
@@ -5209,7 +5209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/10db6862afa64f9167c8a4052b16a2d26886141f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/5b15594ff60bdc3bf6a8c6c3f28be5431cdeba40.jpg",
       "hidden": false,
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "bex_2": {
       "name": "Is That a Gun or a Guitar?",
@@ -5249,7 +5249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/876783f37de51a5950166a4ea3de7af89287d7a4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/57a71573da065f99182349c1376f9c4ceb49c11e.jpg",
       "hidden": false,
-      "percent": "14.0"
+      "percent": "14.1"
     },
     "halloween_5": {
       "name": "It's Alive! IT'S ALIVE!",
@@ -5265,7 +5265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/0e5e86c0e0df1343d6d96633708032f66e454056.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/8010a53bf82c5d48d348c094e6912f8165c2e762.jpg",
       "hidden": false,
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "slakt_5": {
       "name": "It's Getting Hot in Here",
@@ -5273,7 +5273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/9e85ef84f9297d1ddd73a1e0dd277899734b26c0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/a06ea230e7678862ddac006ca48ac91f19534728.jpg",
       "hidden": false,
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "pick_53": {
       "name": "It's Just Drones On And On",
@@ -5353,7 +5353,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/584f504e195d7ad64f09a20ecac8c5fd32d4e216.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/fa976effb021f5ae44497531573b6e604b44857b.jpg",
       "hidden": false,
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "berry_4": {
       "name": "Juggernauts",
@@ -5385,7 +5385,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/0b12de0a1828bb35a6c869bbbc16f2c5ae7006e9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/988a478aa30d229b1e11cce7696ffc47381a1b88.jpg",
       "hidden": false,
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "trk_bb_2": {
       "name": "Just Like in the Movies",
@@ -5585,7 +5585,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/c4930b9f7b6c1428be52473caf5e40eb627b598c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/a056c1cb81b8881583602b3ee804c5b7641d15f4.jpg",
       "hidden": false,
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "gorilla_1": {
       "name": "Knockout!",
@@ -5641,7 +5641,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/4481ca5cb3a89cb0235335f97ffd0c98055be505.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/39edf4c5f1785f45a1e5e0b2795fec77e99f61f8.jpg",
       "hidden": false,
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "brb_6": {
       "name": "Layers of Iron",
@@ -5649,7 +5649,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/c1744320c07f0bb428b346771780e66daaadbb45.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/5d692e0354983d1321c68869925f71e2312e1941.jpg",
       "hidden": false,
-      "percent": "3.9"
+      "percent": "4.0"
     },
     "ggez_32": {
       "name": "Layers of Steel",
@@ -5689,7 +5689,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/3ad2fd3d04911408c1cde9ca57e972b9322c4420.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/097c5c428d219cd2cee1e165212e0f2901319f92.jpg",
       "hidden": false,
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "uno_6": {
       "name": "Let them Boogie",
@@ -5713,7 +5713,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/8fcbf609e71ad9b1f5dc6275c4b2b69232959f0e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/b663d0895f2144143e078c745cde17863aadf4ce.jpg",
       "hidden": false,
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "lets_do_this": {
       "name": "Let's Do Th...",
@@ -5793,7 +5793,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/b232f8236da789c71b824bc9e67cf9bb53052207.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/a2d4a15ae57cb30104dc1e5565a3e561873d3657.jpg",
       "hidden": false,
-      "percent": "11.4"
+      "percent": "11.5"
     },
     "like_an_angry_bear": {
       "name": "Like an Angry Bear!",
@@ -5801,7 +5801,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/32f2c0df88273d268c859b3cd6f483e2ed33c2eb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/ca97f6fae225071f7811f368acfa03e120c2f9a3.jpg",
       "hidden": false,
-      "percent": "12.1"
+      "percent": "12.2"
     },
     "axe_29": {
       "name": "Like Taking Candy From a Heavily Armed Military Force",
@@ -5881,7 +5881,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/34a6afda977a366e27a33e7a42ef53c2f7c74d06.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/d116f04e67667b1e8a902c5afd7e35b25a02e57a.jpg",
       "hidden": false,
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "death_26": {
       "name": "Long-Term Relationship",
@@ -6001,7 +6001,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/009d57856bdded330951c3e28f8ce1bcf65a61ee.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/89b67178c5407634017280daf323c182972d7c7b.jpg",
       "hidden": false,
-      "percent": "12.7"
+      "percent": "12.8"
     },
     "farm_3": {
       "name": "Making a Statement",
@@ -6041,7 +6041,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/6b2e26eeff11019bb14656b79f1329a9dbce1bfb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/6e5dd53e0e0c8d7f045481fd12dd69daeb96da0b.jpg",
       "hidden": false,
-      "percent": "5.6"
+      "percent": "5.7"
     },
     "iron_man": {
       "name": "Man of Iron",
@@ -6145,7 +6145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/dcb0937feca714fa56ee193fdb7da45f44b38b8f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/14cfbd3e55f6f66ab74159a28834a905d14bb834.jpg",
       "hidden": false,
-      "percent": "17.2"
+      "percent": "17.3"
     },
     "cac_19": {
       "name": "Masterpiece",
@@ -6281,7 +6281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/2e9249bdd5e95e5207baa4697656f1a49fe1bb15.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/fc7e045c14903790ee24bbfe686c32c2278949b3.jpg",
       "hidden": false,
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "pick_25": {
       "name": "Mistified",
@@ -6297,7 +6297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/bc8f43a93fc7205fe3fafb059524a6c74503107c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/98b52c05029f90ec3e86ba3997f4193be8abff93.jpg",
       "hidden": false,
-      "percent": "14.8"
+      "percent": "14.9"
     },
     "trk_tt_1": {
       "name": "Modern Train Robbers",
@@ -6313,7 +6313,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/08360a115c480171bd1bdb38f213ea254c71614f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/0be3ad78c2e13738ee9694f76774d12f954853b1.jpg",
       "hidden": false,
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "skm_28": {
       "name": "Money on the Asphalt",
@@ -6337,7 +6337,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/6c61cbd3c0b78986fd305a0d91998c4795c5a1b4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/48f1a2a3cb7a5481b9a46bd648dd7af2d1b3cb79.jpg",
       "hidden": false,
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "most_wanted": {
       "name": "Most Wanted",
@@ -6345,7 +6345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/fa65a0d179c040b6f413cd67103c7150f3a94001.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/df5ba0dd4d2976dbcadc8d4a4178cc0912fad9e9.jpg",
       "hidden": false,
-      "percent": "15.3"
+      "percent": "15.4"
     },
     "trk_bm_0": {
       "name": "Mountain Climbers",
@@ -6369,7 +6369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/5df88f65e92d725991a257349376648bdadc186d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/038f81ba7595546ae26be91243f214939ecd030a.jpg",
       "hidden": false,
-      "percent": "12.7"
+      "percent": "12.8"
     },
     "des_2": {
       "name": "Murkywater's Lost and Found Department",
@@ -6409,7 +6409,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/1b85eacdecf87c7f7051fc71e729dc44d97dd052.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/b640a975de1ae794fd3db7c31742fb18c9f08eb5.jpg",
       "hidden": false,
-      "percent": "13.9"
+      "percent": "14.0"
     },
     "trk_ff_1": {
       "name": "Name & Shame",
@@ -6425,7 +6425,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f5c23cb6d9c25b2d7fb3a6ef82caa15cbfb9caaf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/2f4b7ad4a41915b2dd899362213e259a5951d385.jpg",
       "hidden": false,
-      "percent": "5.7"
+      "percent": "5.8"
     },
     "sah_7": {
       "name": "Never Say Die",
@@ -6433,7 +6433,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f01c9de84205b8c5adee87ef673c882494fdc870.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f06ac236d6af4f7bcd1a68ec28c4b5a911802523.jpg",
       "hidden": false,
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "orange_1": {
       "name": "Nightmare Machine",
@@ -6545,7 +6545,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/c3c63df985bc341f1f7d551831b39f6b775a68e4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/2435a6b15094145b299b41059605bc3bcf69867f.jpg",
       "hidden": false,
-      "percent": "20.3"
+      "percent": "20.4"
     },
     "berry_5": {
       "name": "No Scope",
@@ -6657,7 +6657,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f3e7ace1fa68453d86a39c3ec920a4c9a7025b27.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f1a8057d56833552666324cc8520468451ba0489.jpg",
       "hidden": false,
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "axe_4": {
       "name": "Not on the Guest List",
@@ -6721,7 +6721,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/59dcfa845fe6258a678f33f367e05cdbb8bb2f2e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/be4527c6785194bb0bd22addebb8dbab7a38994c.jpg",
       "hidden": false,
-      "percent": "4.2"
+      "percent": "4.3"
     },
     "bex_9": {
       "name": "Now Hit Me With The Music",
@@ -6761,7 +6761,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/24248442ef62b1cb48342bc852725d147b0d0407.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f72ae4623ec418608abfbb06ed690e828c3b270f.jpg",
       "hidden": false,
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "des_4": {
       "name": "Oasis of Bullets",
@@ -6969,7 +6969,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/c5dc9c2924ce68beece50507f47097fcc1d68fcd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/62fa9632704eb7ba365c34b33e30f19887000a79.jpg",
       "hidden": false,
-      "percent": "6.2"
+      "percent": "6.3"
     },
     "pig_4": {
       "name": "Overdose",
@@ -7033,7 +7033,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/9f141b7b05aa2bc1be2d8a94e4308055dd594683.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/1fc7ed2aa72853d6c905b99929373dce503292c0.jpg",
       "hidden": false,
-      "percent": "3.3"
+      "percent": "3.4"
     },
     "axe_33": {
       "name": "Painting with Blood",
@@ -7065,7 +7065,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/629312e85cf395845dbaa42413988d367d1f6768.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/9661605c76a536afcdd979439fa9f401a19918ab.jpg",
       "hidden": false,
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "pick_24": {
       "name": "Park Clean Up",
@@ -7121,7 +7121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/d39c71ba7f8fd100011cd00665accd09e58db9f8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/8f5501a34ae4ccf96c42606d4d6164a6d09e8d38.jpg",
       "hidden": false,
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "trk_cc_3": {
       "name": "PAYDAY: The Heist",
@@ -7209,7 +7209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/3b5937b299f260bf27d315179acd801767f7a66b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/4e6eb9d1520e8320c8276d3c1cafb0bfc8064311.jpg",
       "hidden": false,
-      "percent": "38.3"
+      "percent": "38.4"
     },
     "rvd_10": {
       "name": "Pinky Swear",
@@ -7233,7 +7233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/b0f0c15813ac34c2327aa81d2c1165e8504904e2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/a83a0a158ffa50b7fc63d9528269f49c205d122b.jpg",
       "hidden": false,
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "pxp1_1": {
       "name": "Plague Doctor",
@@ -7265,7 +7265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/10fb74b723f437a620ce46391b3fccac61965de4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/7ca2dfa5ba3cd72f11f0a85cfb18bb39b5ae1e02.jpg",
       "hidden": false,
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "skm_13": {
       "name": "Play It Again, Hox",
@@ -7281,7 +7281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/7a1131231edb6b1663b2ff77c7de517aa214bc98.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/02ff8eff272c29d47e48f3a10a6027c5a1009acb.jpg",
       "hidden": false,
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "trk_sf_1": {
       "name": "Playing Rough",
@@ -7345,7 +7345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/67e465a9e5c0d8f08a02e456b1ace6b4910a038a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/c821397a8305a9753df6c31c36ae019540be9b4a.jpg",
       "hidden": false,
-      "percent": "9.2"
+      "percent": "9.3"
     },
     "des_5": {
       "name": "Prairie Heister",
@@ -7361,7 +7361,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/75d35c82e23d44220db3cb31d3d68ab6ad94aa6e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/1153409e8189a48bf467a4283f989b5d6950ab2f.jpg",
       "hidden": false,
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "gmod_1": {
       "name": "Praying Mantis",
@@ -7561,7 +7561,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/126b0a4203a6355cb5eaefb21128637ce14f9684.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/ba9bc02c38620df0b9ad73f47d377c4f7baeb7e3.jpg",
       "hidden": false,
-      "percent": "6.0"
+      "percent": "6.1"
     },
     "glace_3": {
       "name": "Rabbit Ride",
@@ -7577,7 +7577,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/3039e1cd1415a02a5f5095cd141e146fb123e477.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/7616e60d8e93a8901557600673bda2d1197f27b2.jpg",
       "hidden": false,
-      "percent": "15.8"
+      "percent": "15.9"
     },
     "pick_46": {
       "name": "Rats and Meatballs",
@@ -7585,7 +7585,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/52166f668bfc1ffb1a4b551ffc94bf0f38cd7a07.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/7ae7d9ea5f624e4372aa3a16397eca84ef3dc0a4.jpg",
       "hidden": false,
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "scorpion_1": {
       "name": "Recycling",
@@ -7625,7 +7625,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/5e0dfabdf395e7d128c6fc6653f69afe30a40c77.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/753e2884f7257f84042f3841fafcab34d26ca103.jpg",
       "hidden": false,
-      "percent": "3.6"
+      "percent": "3.7"
     },
     "trk_j_2": {
       "name": "Remote Controlled Contractor",
@@ -7657,7 +7657,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/125da06a57f4e06b0564be0f120b1dddc1023ebd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/bc9036cc4c5f1663bc50b7fe2bfa7406a59717d2.jpg",
       "hidden": false,
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "gage3_14": {
       "name": "Return to Sender",
@@ -7809,7 +7809,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/8b19ad3ce1ca08c84d6b02ca39f432205acf3311.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/72e2d932b9daf40596522d4e098b12115300e321.jpg",
       "hidden": false,
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "mex_6": {
       "name": "Satan's Lapdog",
@@ -7833,7 +7833,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/b8e85712bdbab54edef6c8aff721801a6db4e2ef.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/ab43d9ade3336d02d95f870c72d3935866224ff3.jpg",
       "hidden": false,
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "friend_4": {
       "name": "Say Hello to My Big Friend",
@@ -7865,7 +7865,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/d3108ab681ad2624a67f2d5fab4da7ab29eb72a5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/d2b69e7a297c4c42b163561de8b3053607b1c27e.jpg",
       "hidden": false,
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "skm_34": {
       "name": "Scorpions and Negotiators",
@@ -7889,7 +7889,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/b1c2b9554b8e997056d3358b5b529e5dfdb06772.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f2ee5b2304a7424de75fbe1e3cde17d3079ba66f.jpg",
       "hidden": false,
-      "percent": "6.2"
+      "percent": "6.3"
     },
     "chca_8": {
       "name": "Second Star to the Right, then Straight On 'Til Morning",
@@ -8089,7 +8089,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/6ab8b7b4ba9ca50ef5ad1d45b2728b5582b07d38.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/6ed8c197e1996e39395bc323507592ddb30c4fd9.jpg",
       "hidden": false,
-      "percent": "17.2"
+      "percent": "17.3"
     },
     "short_fuse": {
       "name": "Short Fuse",
@@ -8113,7 +8113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/8e8a408b71c459ed689a6d72e3cda22a2fc25284.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/655950697c41a11ce121a73856a030046c214572.jpg",
       "hidden": false,
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "pick_17": {
       "name": "Show me the Money",
@@ -8145,7 +8145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/90e8c8947fb284ea268ef69aff7e09ac4ddb8fbb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/dc40eb046c5b4cca0c3e10972b0eb760af724b5c.jpg",
       "hidden": false,
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "payback_2": {
       "name": "Silent But Deadly",
@@ -8185,7 +8185,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/9048cf42b37910198bdea1063c11969f826d724b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/dba51557cc689dc4a628ece356a6b8b7e1eb0499.jpg",
       "hidden": false,
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "pick_54": {
       "name": "SIX DOZERS CHARGING",
@@ -8233,7 +8233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/d537b712eb1d5a5c45dd357f8b1f1ec83260c17a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/9237782a8e5469b52f89e5b6cc0509047ecd9d55.jpg",
       "hidden": false,
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "ggez_25": {
       "name": "Slick Heisting",
@@ -8249,7 +8249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/6bd0a16b2f5b6f4813d18265b9b1d8180fe149f5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/63e1cf6b7eb94a4d3171fe9f4d7f21959578391e.jpg",
       "hidden": false,
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "bat_4": {
       "name": "Smoke and Mirrors",
@@ -8265,7 +8265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/ec3d5c539f54d73a92003251d51ee82a4f443cb6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/8faf613a048ca649431eddb2fb7b861e60c3f9c9.jpg",
       "hidden": false,
-      "percent": "53.8"
+      "percent": "53.9"
     },
     "trk_bod_3": {
       "name": "Smooth Sailing",
@@ -8297,7 +8297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/dd6c8eac47b3500b688afdda84e578772991fe82.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/75a1c186f99184fbe4e5943f9f6bc593a4b30f2a.jpg",
       "hidden": false,
-      "percent": "6.2"
+      "percent": "6.3"
     },
     "grv_4": {
       "name": "Sneaky Beaky Like",
@@ -8305,7 +8305,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/4917c3417b5fed79154ed0f790d1cf08a2025f90.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/6a1dd8ebca9cb1271c50f8bb689e4343c462d206.jpg",
       "hidden": false,
-      "percent": "3.9"
+      "percent": "4.0"
     },
     "cac_29": {
       "name": "Snipe This!",
@@ -8433,7 +8433,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/bae94952d84a35707525e648490aa115bc61ef1a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/4f15c6572497a61119e7699a613d3331b3b87284.jpg",
       "hidden": false,
-      "percent": "5.6"
+      "percent": "5.7"
     },
     "trk_dm_0": {
       "name": "Sparkle Sparkle",
@@ -8441,7 +8441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/1ee7bdf30203ae7237908bafd25c032ab3fbce53.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/37e2c6293216b3221f86c738e78ef26d4ac33037.jpg",
       "hidden": false,
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "death_34": {
       "name": "Special Delivery",
@@ -8481,7 +8481,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/13933ede8631db6836a95d02ea0c97d38126fc3f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/330dfe4eb89530222724f8c86d7db752051f4108.jpg",
       "hidden": false,
-      "percent": "43.6"
+      "percent": "43.7"
     },
     "grv_2": {
       "name": "Spray Control",
@@ -8609,7 +8609,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/e5961baaffa0565ff2df1b6f67d849d2695ad008.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/84f0baf191ba2b8222f23d2edc6feb11681dd700.jpg",
       "hidden": false,
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "trk_fs_3": {
       "name": "Stomping Grounds",
@@ -8801,7 +8801,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/927b54e80ec9036decced9a1eb16dd7d166bf58a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/a236a2522c34d61c2948c77cd730bc827301c005.jpg",
       "hidden": false,
-      "percent": "26.7"
+      "percent": "26.8"
     },
     "glace_1": {
       "name": "Taking the High Road",
@@ -8929,7 +8929,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/d6256c701a95e26ff0060adca733a4c217f39161.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/0842fa3f07812ddb58c6243d9304d9434d56da21.jpg",
       "hidden": false,
-      "percent": "17.0"
+      "percent": "17.1"
     },
     "sah_9": {
       "name": "The Auction Cry",
@@ -8977,7 +8977,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/271e99f8e65495856ba6b5ada28779a3679f7a13.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/d0de50ca6fbda07876b7a8c0a81f3f1d47421650.jpg",
       "hidden": false,
-      "percent": "7.3"
+      "percent": "7.4"
     },
     "axe_55": {
       "name": "The Definition of Safe House is Changing",
@@ -9209,7 +9209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/be0da9abd5d2a84409846bf52a8555111bb2b8ae.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/872d98410a79fba21d877214b1bb99be26ed0022.jpg",
       "hidden": false,
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "eng_4": {
       "name": "The one who declared himself the hero",
@@ -9377,7 +9377,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/e76c939e4c5e4bc6a1870b93b67f25d7e1f77a19.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/48ea34cf231283f93cd1ac62ed7818419e637b2b.jpg",
       "hidden": false,
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "trk_sf_3": {
       "name": "The World is Yours",
@@ -9505,7 +9505,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/afb176524a58fea9e1ef9ff693b9feebc7a171ee.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/252bbd2b90bba2bd2165042b478100cc964edd68.jpg",
       "hidden": false,
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "sand_11": {
       "name": "This Calls for a Round of Sputniks!",
@@ -9609,7 +9609,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/d5b309eae225fa9b6da6f828f51df924d8c303eb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/a1b7a6e73ad89ef2a79b3edafcd247ff6abca642.jpg",
       "hidden": false,
-      "percent": "48.3"
+      "percent": "48.4"
     },
     "trk_sa_0": {
       "name": "Too Close to Home",
@@ -9617,7 +9617,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/1b76817c4492906c2463c5b08ae4164a49aded1b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/94622f105973a579236e028c1bc1cc71c780a437.jpg",
       "hidden": false,
-      "percent": "17.8"
+      "percent": "17.9"
     },
     "bph_5": {
       "name": "Too Many License Plates",
@@ -9625,7 +9625,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/50c450a6eb272f01a79da0850e36966787d699d9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/4dbcde7ade61dbae0bb62e42e294fbf9ffbe7542.jpg",
       "hidden": false,
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "death_27": {
       "name": "Tough Act to Follow",
@@ -9697,7 +9697,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/3e2c59a8f65077e82139c0cce9debf5a42c9384d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/cafe0939f2f2260a2f702266921c63b15065ca52.jpg",
       "hidden": false,
-      "percent": "12.1"
+      "percent": "12.2"
     },
     "fex_4": {
       "name": "Tropic Thunder",
@@ -9793,7 +9793,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/0bd7d51f9651fe8234bc84c9ea072f15c1a4c785.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/2edcb6646ba920fefa760a554a62451621490527.jpg",
       "hidden": false,
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "deep_3": {
       "name": "Up In Flames",
@@ -9817,7 +9817,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/1b4609840151be8877e99893c632d6a8de6d12e7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/7df49f4ccef109d2f57853ce6798610e2359f010.jpg",
       "hidden": false,
-      "percent": "11.6"
+      "percent": "11.7"
     },
     "pick_62": {
       "name": "Upstanding Citizen",
@@ -9841,7 +9841,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/1804d0e06cd0b04838da533a768d8699378e2440.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/5e65561ccf5c4cb0214eb37b625e897f276baa79.jpg",
       "hidden": false,
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "dah_1": {
       "name": "Valuable Ornaments",
@@ -9873,7 +9873,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/ded6360900bc6152cf0827728d937402a7692ab7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/ba5a39c50deab2f77c13320bf847b9869cd998f5.jpg",
       "hidden": false,
-      "percent": "11.6"
+      "percent": "11.7"
     },
     "ggez_8": {
       "name": "Vernon's Shenanigans",
@@ -9913,7 +9913,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/afc234a5eb143bbd9b0e0ec3157517c7622e03a4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f456f732b406b5cf76f9b87e2a334f22649a72bd.jpg",
       "hidden": false,
-      "percent": "3.0"
+      "percent": "3.1"
     },
     "ggez_15": {
       "name": "Vlad's First Response Team",
@@ -9969,7 +9969,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/32477ea3535953143f51270eb1a29cba33befa20.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/fb40a09dff5acd1bb42e753e1e78e5ad4e548cc7.jpg",
       "hidden": false,
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "rvd_1": {
       "name": "Walking the Dogs",
@@ -9985,7 +9985,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/a70c9cf7cf321e02123d1d050bf87599f5aed97d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/e505eb0abfca53c5d6d0f382afac32eef706f09c.jpg",
       "hidden": false,
-      "percent": "7.3"
+      "percent": "7.4"
     },
     "pick_39": {
       "name": "Wankers Get Shanked",
@@ -10001,7 +10001,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/3113b4314055a0181cc13e9fcd22a27c7fcd6e31.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/3609903b8033f35fd8b0c465c36b2738692112fd.jpg",
       "hidden": false,
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "trk_md_1": {
       "name": "Warehouse Workers",
@@ -10009,7 +10009,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/3a0f05b689cc6ccff60122eeada4b2a49de18913.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/c3fece9b5948106cf278a426b99026d733d98f50.jpg",
       "hidden": false,
-      "percent": "11.3"
+      "percent": "11.4"
     },
     "run_3": {
       "name": "Washington City Marathon",
@@ -10089,7 +10089,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/9f5cbf54dc5128e2807cd743030d0124953713cb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/ee3ddd5f7f4fb400dae404d14beaed6dd37194ce.jpg",
       "hidden": false,
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "ggez_44": {
       "name": "We Can Be Trusteed",
@@ -10121,7 +10121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/ed39aed8a3dad3eae2519ce1265a0a0dd0c8f30e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/b38a6cd0aa4fea16191744b2ca1627ac9d0b8ef6.jpg",
       "hidden": false,
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "fex_9": {
       "name": "We Expect You to Die, Mr Buluc",
@@ -10145,7 +10145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/0ae90aad38e82b4923bd13fe5c767518c92dfec6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/56e26f877611b03e6794667c90f2a040d981b9f6.jpg",
       "hidden": false,
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "pex_7": {
       "name": "We Ride at Dawn",
@@ -10169,7 +10169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/ec68824f3dba420a441a7e09251ccd37d98c2777.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/3f68714a15d9003ee773f6445d16d3b851b1639d.jpg",
       "hidden": false,
-      "percent": "16.5"
+      "percent": "16.6"
     },
     "death_1": {
       "name": "Wedding Crashers",
@@ -10177,7 +10177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/b77f14f641bdd869c191bf3ccd6ce0b8d126fc40.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/68b83f0df55d63699e152496b6527b4e0b77c644.jpg",
       "hidden": false,
-      "percent": "14.3"
+      "percent": "14.4"
     },
     "ranc_1": {
       "name": "Welcome to Texas",
@@ -10265,7 +10265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/bbeb20a03deea54eefe029d28f216e0c2c3daa25.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/71e5cb7d0de09f3b289968e4156f4a0aafc56a85.jpg",
       "hidden": false,
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "uno_9": {
       "name": "What's in the Box?",
@@ -10297,7 +10297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/00a42066d9b75ee70bbbc068803df0dc63f7af08.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f0f549b4d3d8fb0b3a50a4a6f48b6f3042639396.jpg",
       "hidden": false,
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "trk_j_5": {
       "name": "White Death",
@@ -10433,7 +10433,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/eea968dcb82735c7d0931d9a81409bfd36cf8b5f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/2222f93d817fe9d9db5028ba07cf1577810cbf61.jpg",
       "hidden": false,
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "trk_pn_1": {
       "name": "WULULULU",
@@ -10457,7 +10457,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/085f060c6ccb1dde110df62deea9eaf1a29f6d3c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/03024589931f3081bc6917751501e80b9aba87e3.jpg",
       "hidden": false,
-      "percent": "22.8"
+      "percent": "22.9"
     },
     "death_19": {
       "name": "Yes Hello, I'd Like to Make a De-paws-it",
@@ -10481,7 +10481,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/fff7b625006cd16e63bf3c1cdec11be1e70fdf9a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/cc9fd2bca1a98d92259ca85ddab9ac0e8aaf319b.jpg",
       "hidden": false,
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "fex_3": {
       "name": "You Ate the Worm",
@@ -10497,7 +10497,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/70288d0e262aa82a5fbb048adbde4c59d29e0af4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/18b55dc69ab069b19d5829cff4317032c3a9a16e.jpg",
       "hidden": false,
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "bah_1": {
       "name": "You Can Run, but Not Hide",
@@ -10545,7 +10545,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/f89ad2ccc495e1be496805b567aca4aad885b994.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/8ee81f12418f4dcd5fefa73664be2297aaf98343.jpg",
       "hidden": false,
-      "percent": "4.2"
+      "percent": "4.3"
     },
     "born_1": {
       "name": "You Got Your Patch!",

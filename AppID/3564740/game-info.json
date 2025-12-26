@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/7021e6122bfab171c7ffd3b91f88bf868ba879ec.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
       "hidden": false,
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "301007": {
       "name": "First Resonance",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/0f7e5f65a70913a48e3bfa077b15e0883678d4d6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/21c74c116cf1159613f25514fd54f5770b5b762a.jpg",
       "hidden": false,
-      "percent": "46.4"
+      "percent": "46.3"
     },
     "1204016": {
       "name": "Goose Slayer",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
-      "percent": "6.0"
+      "percent": "6.1"
     },
     "1201020": {
       "name": "Life Goes to Dogs",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/240a76376991910755e4de9c42156d2b73336377.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
       "hidden": false,
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "1204001": {
       "name": "Paws on Point - Qinghe",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/2e0b801347ea1815986c339365f7e65758f96630.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/dbd810b5793b6e14c3d372c74213201ba3d9ea28.jpg",
       "hidden": false,
-      "percent": "13.6"
+      "percent": "13.7"
     },
     "301011": {
       "name": "Power of Four",
@@ -153,7 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/2a0341fd800a20c92358be45fdc3f248ee583772.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/74ff4a4fee81a2aaa1351f8b28b5e82b480bd801.jpg",
       "hidden": false,
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "1403007": {
       "name": "Quick on the Uptake - Kaifeng",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "1201005": {
       "name": "Quirks of Fate - Qinghe",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "301001": {
       "name": "Skill at Hand",
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/d38bd60270f14450f68ba6c763c2b01103ace67d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/0fca2521ea38abfd809a97b8205bbd8892a1669d.jpg",
       "hidden": false,
-      "percent": "0.6"
+      "percent": "0.7"
     },
     "101022": {
       "name": "The First Finding",
@@ -241,7 +241,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/06470c474deb8d3b2771876f5ac14ec1ecfc645c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/4096b3ff4df654b303700ab03a0d0a0e7253d37d.jpg",
       "hidden": false,
-      "percent": "13.9"
+      "percent": "14.0"
     },
     "all_achievement": {
       "name": "The Hero is the Voice of the World",
@@ -265,7 +265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/714177b96f24c10d360ae5a5913ef7221b1fb6c6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/8f5a8589f664af2303af3889c35d15b1fc0425e7.jpg",
       "hidden": false,
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "1401009": {
       "name": "Voice of the Valiant",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": true,
-      "percent": "8.2"
+      "percent": "8.3"
     }
   },
   "platform": null,
