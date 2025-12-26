@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/dad457a73d6612846c24053b76d41a2415ace552.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/6d16598ac798eef2f915b7a9a2619be365c768b5.jpg",
       "hidden": false,
-      "percent": "49.2"
+      "percent": "49.3"
     },
     "COLOSSEUM_2": {
       "name": "Conqueror",
@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/ef1f6b825646067c63f5703d1c7ba38b52d94259.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/e92b8a9b1382393740a658d9ece0bcad21d0bb03.jpg",
       "hidden": false,
-      "percent": "71.7"
+      "percent": "71.8"
     },
     "PANTHEON3": {
       "name": "Focus",
@@ -353,7 +353,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/e8a35f548dcdeb1753fdc880a2df6de8fe245c8e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/00938958cda9497220f141c415a7ca7bdcdd27e7.jpg",
       "hidden": true,
-      "percent": "28.7"
+      "percent": "28.8"
     },
     "ENDING_B": {
       "name": "Sealed Siblings",
@@ -441,7 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/f35cd67af303aa5d609cd1183e9eb29295b302b7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/5a85ae25f9102058a0ac5bf541d08a510b466764.jpg",
       "hidden": false,
-      "percent": "37.5"
+      "percent": "37.6"
     },
     "HORNET_1": {
       "name": "Test of Resolve",
@@ -508,7 +508,7 @@
       "percent": "25.1"
     }
   },
-  "uses_db": false,
   "platform": null,
-  "blacklist": []
+  "blacklist": [],
+  "uses_db": false
 }

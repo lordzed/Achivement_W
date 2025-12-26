@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/71d57af903cc56329b0cfc19fb17689c9785f56e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
-      "percent": "53.8"
+      "percent": "53.9"
     },
     "Mission_10": {
       "name": "Awakened Ghost",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/0a4a91722d8a416e20e840e04932172230f9be48.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
-      "percent": "62.4"
+      "percent": "62.5"
     },
     "Boss_12": {
       "name": "Bloodthirsty Fiend",
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/cdcb9cf049a02e57715ea21b93e67b6c90e7ba3e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "55.5"
+      "percent": "55.6"
     },
     "Sub_10": {
       "name": "Countless Tales",
@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/6be3ca13d7a582d46aa40650314f19f2676c99fd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
-      "percent": "65.6"
+      "percent": "65.7"
     },
     "Sub_04": {
       "name": "Desperate Escape ",
@@ -217,7 +217,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/24ff2281798d683d68155c96ef56da6e7ebd4fae.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "51.1"
+      "percent": "51.2"
     },
     "Boss_05": {
       "name": "Origin of the Mutation",
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/903a1a4de40b82a69be2187bbf16aa82855bec57.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "65.2"
+      "percent": "65.3"
     },
     "Complete_04": {
       "name": "Ozma's Past",
@@ -257,7 +257,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/da96a6d94a7aecabb173dda9e62f81d6e94c044c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "29.7"
+      "percent": "29.8"
     },
     "Mission_05": {
       "name": "Remnants of the Soul",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/393472acbf93ceb0c45911330488d716c4944b1e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
-      "percent": "62.0"
+      "percent": "62.1"
     },
     "Boss_10": {
       "name": "Return of the Witch",
@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/653af8ab9ee57dd9c85411391f3705e2c9f507b3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "89.8"
+      "percent": "89.9"
     },
     "Mission_02": {
       "name": "Skilled Blacksmith",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/09c097efeb0b8225ee490d5d6d3ecbc6b2a5d0d4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
-      "percent": "51.4"
+      "percent": "51.5"
     },
     "Mission_13": {
       "name": "Skilled Combatant",
@@ -305,7 +305,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/432ff5020676f43fe9c5270a99becf8ff5e73c91.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
-      "percent": "90.3"
+      "percent": "90.4"
     },
     "Boss_06": {
       "name": "Slayer in the Citadel",
@@ -321,7 +321,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/b772151285f92f42bf6f573c715fdb8d3e6f5358.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
-      "percent": "81.4"
+      "percent": "81.5"
     },
     "Mission_15": {
       "name": "Special Scroll",
@@ -353,7 +353,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/9abc501ea487873022103b673669cc692f968d16.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "26.4"
+      "percent": "26.5"
     },
     "Ending_01": {
       "name": "The Challenger's Journey",
@@ -417,7 +417,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/ac23f51fbbdc15717d4068d78b5bbd0be28e1ff4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "32.1"
+      "percent": "32.2"
     },
     "Boss_13": {
       "name": "Tragedy of Pell Los",
@@ -433,7 +433,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/56e5ed78b37b964b29165fe6e771d7af15bfbaa9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "36.1"
+      "percent": "36.2"
     },
     "Sub_09": {
       "name": "Undying Loyalty",
@@ -441,7 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/ffb429b1eb74e4921c675375971e298f20bcd25a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "32.3"
+      "percent": "32.4"
     },
     "Mission_06": {
       "name": "Upgrade Stats",
@@ -460,7 +460,7 @@
       "percent": "74.9"
     }
   },
-  "uses_db": false,
   "platform": null,
-  "blacklist": []
+  "blacklist": [],
+  "uses_db": false
 }

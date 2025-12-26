@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/f3f22f9ab0ec3e7b484e545502e4a57cf8af404c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/d17c0249c4ab8b0b336b2a4ace3a10d71ab0462e.jpg",
       "hidden": true,
-      "percent": "4.8"
+      "percent": "4.7"
     },
     "BFA": {
       "name": "BFA",
@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/cc4281b72e5a560759df60ff13dd78f04e146368.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/6dcc02a0230af3072600eff925cfda1d17a9f7b5.jpg",
       "hidden": false,
-      "percent": "3.3"
+      "percent": "3.2"
     },
     "BRAVO_OLD_CHAP": {
       "name": "Bravo Old Chap",
@@ -241,7 +241,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/e6c6056aac92365ae2f525d2b4e92f878b9dc2b7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/6a1d7874c39b8aa5d87e12d12c17978531fd6ea2.jpg",
       "hidden": true,
-      "percent": "18.7"
+      "percent": "18.6"
     },
     "MASS_RUCKUS": {
       "name": "Mass Ruckus",
@@ -257,7 +257,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/02e3fb592252fabfe8ea9c0510c01f1c73f8e974.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/4fa1bbe668ebbb820ffdc974557d6eb808f5a779.jpg",
       "hidden": true,
-      "percent": "50.5"
+      "percent": "50.4"
     },
     "RESPEC_YOURSELF": {
       "name": "Respec Yourself",
@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/6089f189786557457329109a16dd8a77142137e1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/f6246a22027ebeabc7694883e0e0667d7b3d9585.jpg",
       "hidden": true,
-      "percent": "19.5"
+      "percent": "19.4"
     },
     "TEARS_OF_THE_MOUNTAIN": {
       "name": "Tears of the Mountain",
@@ -337,7 +337,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/973da986033f95697f9f47bf697eb7b6d7d03d19.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/18723fba7d5c84f987dc79de965145c886bf3d0d.jpg",
       "hidden": true,
-      "percent": "19.5"
+      "percent": "19.4"
     },
     "THE_ROD_OF_ARAFEL": {
       "name": "The Rod of Arafel",
@@ -345,7 +345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/e65d05f8b28382ea9286ead97bdbc7d72c0a8c16.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/f1391e0affbebfa63fdc6ee9f8dc244894e5e2f7.jpg",
       "hidden": true,
-      "percent": "21.0"
+      "percent": "20.9"
     },
     "THE_ROOT_OF_CORRUPTION": {
       "name": "The Root Of Corruption",
@@ -369,7 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/fc1d947a77d4b8cd0f7e02e7c0d077057d1964bc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/294dd2baeebee1263b4da60d3495395194e89f08.jpg",
       "hidden": true,
-      "percent": "36.1"
+      "percent": "36.0"
     },
     "THE_TOLL_OF_KINGS": {
       "name": "The Toll of Kings",
@@ -401,10 +401,10 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/0c8dad20c1f1b4394f7eb86945fb8006761964a7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/7b760b6edb7ce5d39c1354bbb2f8d3ee38dacbe8.jpg",
       "hidden": true,
-      "percent": "33.0"
+      "percent": "32.9"
     }
   },
-  "uses_db": true,
   "platform": null,
-  "blacklist": []
+  "blacklist": [],
+  "uses_db": true
 }

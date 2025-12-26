@@ -812,7 +812,7 @@
       "percent": "2.1"
     }
   },
-  "uses_db": true,
   "platform": null,
-  "blacklist": []
+  "blacklist": [],
+  "uses_db": true
 }
