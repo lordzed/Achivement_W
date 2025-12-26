@@ -14,7 +14,7 @@ jobs:
       - name: Checkout main branch
         uses: actions/checkout@v3
         with:
-          fetch-depth: 4
+          fetch-depth: 2  # Just need current + previous commit
           ref: main
 
       - name: Copy Python scripts
@@ -25,7 +25,7 @@ jobs:
       - name: Checkout user branch
         uses: actions/checkout@v3
         with:
-          fetch-depth: 4
+          fetch-depth: 2  # Just need current + previous commit
           ref: user
 
       - name: Set up Python
@@ -79,3 +79,11 @@ jobs:
           git commit -m "Update game data [skip ci]"
 
           git push origin user
+
+      - name: Trigger Pages Deployment
+        run: |
+          echo "Triggering GitHub Pages deployment..."
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/repos/${{ github.repository }}/pages/builds
