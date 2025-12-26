@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/2f51c42f17a9f739d2085ce7dca2e19cc97fb45c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": true,
-      "percent": "58.7"
+      "percent": "58.8"
     },
     "FireSpreading": {
       "name": "Fire. Spreading.",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/2f176d5ae2b185757ee32f65b00da2e046564f30.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": true,
-      "percent": "57.9"
+      "percent": "58.0"
     },
     "TheBiggerTheyAre": {
       "name": "The Bigger They Are",
@@ -337,7 +337,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/004e931a570f922f3841c8fa5482a1dbdb65498e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": false,
-      "percent": "54.4"
+      "percent": "54.5"
     },
     "ToPaveThePath": {
       "name": "To Pave The Path",
@@ -369,7 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/8870d7b56e49ccbeee98471dbb5b6039c88077f3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": true,
-      "percent": "97.7"
+      "percent": "97.8"
     },
     "YouNeverGiveUp": {
       "name": "You Never Give Up",

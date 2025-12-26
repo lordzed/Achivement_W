@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/710920/e4f6d6c364991ab82ebfb1aab45c3202748615bb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/710920/0017f5373641df14965e975f43ab73eff9f40209.jpg",
       "hidden": true,
-      "percent": "22.9"
+      "percent": "23.0"
     },
     "Belial": {
       "name": "Belial",
@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/710920/22f546d51b931a60546b168a1e50df4237f25848.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/710920/8414ebc762e07bcb1f266610b76227948b87d508.jpg",
       "hidden": false,
-      "percent": "24.0"
+      "percent": "24.1"
     },
     "Collector": {
       "name": "Collector",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/710920/c5216f55e09ecc084ed97bcab47bcdfa7b5ad5f1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/710920/a88b02b7462ec402f568d77e1af292628852a057.jpg",
       "hidden": false,
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "ThePromisedEnd": {
       "name": "The Promised End",
