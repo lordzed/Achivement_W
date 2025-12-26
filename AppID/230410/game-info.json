@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/694fe9cb6440515edd2de2b5fc9943ef6b79fa75.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/fbd29a1433ef54ad9dd569c950567c832db9302c.jpg",
       "hidden": false,
-      "percent": "5.5"
+      "percent": "5.4"
     },
     "ACHIEVEMENT_133": {
       "name": "Alchemist",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/6c5fd58206419eab195c826ba662f49f0379b3dc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/be29b02fbceb62005b88c9830f95f4ff8ec07674.jpg",
       "hidden": false,
-      "percent": "12.3"
+      "percent": "12.2"
     },
     "ACHIEVEMENT_20": {
       "name": "Brawler Proficiency III",
@@ -217,7 +217,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/36290a70ebc0f4ecf838b08cbddc3501b802ff44.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/e34029d676e73d0b81f9a23d8f70b3f5b5002b30.jpg",
       "hidden": false,
-      "percent": "11.8"
+      "percent": "11.7"
     },
     "ACHIEVEMENT_48": {
       "name": "Building a Stable",
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/7ce0c64a78d48a9b0882471b4616e524cb51529e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/d11bb14857002baf71ab07f0c6265d99458e5db7.jpg",
       "hidden": false,
-      "percent": "22.2"
+      "percent": "22.1"
     },
     "ACHIEVEMENT_165": {
       "name": "By the Dawn's Early Light",
@@ -313,7 +313,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/d1d6e5340ec89d97db43f7bc5d46df7eb08e76d9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/00d9843b005966d72e8b5ad73047714599c5c586.jpg",
       "hidden": false,
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "ACHIEVEMENT_28": {
       "name": "Dagger Proficiency I",
@@ -321,7 +321,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/b4e774224e6ed774b242921d5dd8f3be2b682583.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/faeaf6c98bd299b4e082c2ec7ccb7978a9601555.jpg",
       "hidden": false,
-      "percent": "14.2"
+      "percent": "14.1"
     },
     "ACHIEVEMENT_29": {
       "name": "Dagger Proficiency II",
@@ -385,7 +385,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/7fd6b7f58665d3a22ac6b72ba053f9ff63674192.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/78f9131b7995d4846f54c5ecf9a1575e5d6c4272.jpg",
       "hidden": false,
-      "percent": "18.5"
+      "percent": "18.4"
     },
     "ACHIEVEMENT_106": {
       "name": "Entrepreneur",
@@ -465,7 +465,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/da619d561c76e3cc8c12481d6fcbd282ed72ea66.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/1c9a09b4278199d3786d6334b53b9c6736f264d1.jpg",
       "hidden": false,
-      "percent": "23.9"
+      "percent": "23.8"
     },
     "ACHIEVEMENT_65": {
       "name": "Gold Novice",
@@ -617,7 +617,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/ee9e2cc8a68a5358aa88f39f5e8e536bc80d20b4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/7b0fdb798f14ea6d0b417cd7b502480fa7b56dab.jpg",
       "hidden": false,
-      "percent": "5.6"
+      "percent": "5.5"
     },
     "ACHIEVEMENT_60": {
       "name": "Initiate",
@@ -625,7 +625,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/5696dd384e9386b601425a9415130a71fc8f59ac.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/c4e2d3366a6e58ee17b0e3414f45c101f74f2ed7.jpg",
       "hidden": false,
-      "percent": "40.6"
+      "percent": "40.5"
     },
     "ACHIEVEMENT_140": {
       "name": "Into the Void",
@@ -665,7 +665,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/d749929366423b9b64e362fd8083be9ab153ef08.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/9498946ebfb3a7e667335622f712da60da7c7a91.jpg",
       "hidden": false,
-      "percent": "15.1"
+      "percent": "15.0"
     },
     "ACHIEVEMENT_183": {
       "name": "K-Driven",
@@ -833,7 +833,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/ed0d53fae1669611b0b8690b96e3693bfc6da4aa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/1f48b42448ec9896763b2971418b55528992ac4c.jpg",
       "hidden": false,
-      "percent": "15.0"
+      "percent": "14.9"
     },
     "ACHIEVEMENT_53": {
       "name": "Pistol Mastery III",
@@ -1009,7 +1009,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/718101332e272dac3b9ec26d8087fb10c18c10c1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/282d7491632960b066ec2b9531aa7b5052716b25.jpg",
       "hidden": false,
-      "percent": "32.1"
+      "percent": "32.0"
     },
     "ACHIEVEMENT_104": {
       "name": "Rifle Proficiency II",
@@ -1057,7 +1057,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/21fcf2529c2387640512e5ec72de66957d1fd158.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/80312bad7fcf21bad90e500c86a0b4c9fc2cc22f.jpg",
       "hidden": false,
-      "percent": "13.3"
+      "percent": "13.2"
     },
     "ACHIEVEMENT_149": {
       "name": "Saviour of Venus",
@@ -1081,7 +1081,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/f4d484fa99f684df857462d3614bfafd2e548521.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/36ecd90fce6e6ec1c6792db1a2bf92346bf6ebc0.jpg",
       "hidden": false,
-      "percent": "19.7"
+      "percent": "19.6"
     },
     "ACHIEVEMENT_35": {
       "name": "Secrets of the Orokin",
@@ -1129,7 +1129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/62e1c8b2999b7b920e7130084d9e6eafd642e469.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/baaa51451373feb053f5b017a94c3b2785123504.jpg",
       "hidden": false,
-      "percent": "23.3"
+      "percent": "23.2"
     },
     "ACHIEVEMENT_112": {
       "name": "Sentinel Proficiency II",
@@ -1433,7 +1433,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/2dbf80dbc5f02d485b5169dcec8b0700ab896412.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/858e7496c93d35cc445a565944307388975a5058.jpg",
       "hidden": false,
-      "percent": "9.0"
+      "percent": "8.9"
     },
     "ACHIEVEMENT_49": {
       "name": "The Right Tool for the Job",
