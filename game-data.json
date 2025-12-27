@@ -5996,7 +5996,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/1c5473ed4547f5de4ea998797a88a194f7b6e135.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "17.5"
+          "percent": "17.3"
         },
         "ACH10": {
           "name": "Augur",
@@ -6004,7 +6004,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/4ee063a36f9988270a5f006515efc0b8cbdc324e.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "61.6"
+          "percent": "61.3"
         },
         "ACH12": {
           "name": "Darkdrift Knight",
@@ -6012,7 +6012,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/8cfc1d80038c25ae6e78394f8eee98bc6a451e59.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "56.2"
+          "percent": "55.9"
         },
         "ACH06": {
           "name": "Dawn",
@@ -6020,7 +6020,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/0635a6533b5b800be0446068f8001743db3fc8d0.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "49.2"
+          "percent": "48.9"
         },
         "ACH17": {
           "name": "Dresser",
@@ -6028,7 +6028,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/b65f8c294b206cffcc21367176585cf92187520b.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": false,
-          "percent": "56.5"
+          "percent": "56.2"
         },
         "ACH11": {
           "name": "Equilibrious Beast",
@@ -6036,7 +6036,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ad68307c6f3d5d306a4455dde226006133bce761.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "56.8"
+          "percent": "56.5"
         },
         "ACH32": {
           "name": "Fell Omen",
@@ -6044,7 +6044,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/90b13006bc07fbf6aeacff86a45358eb21b3b6c2.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "58.6"
+          "percent": "58.3"
         },
         "ACH13": {
           "name": "Fissure in the Fog",
@@ -6052,7 +6052,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/67d8f0f5a92cc0912eb739e2c362a920b9fa5ddc.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "56.4"
+          "percent": "56.0"
         },
         "ACH08": {
           "name": "Gaping Jaw",
@@ -6060,7 +6060,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/fbbf92201a5dc9c054e4ca415b0770fde2429ff4.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "68.8"
+          "percent": "68.6"
         },
         "ACH19": {
           "name": "Legendary Armament",
@@ -6068,7 +6068,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/27cc578fd05f851963b3722778bca8d67531edbb.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": false,
-          "percent": "76.7"
+          "percent": "76.5"
         },
         "ACH27": {
           "name": "Mastery",
@@ -6076,7 +6076,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/5218665b749e9c82c432f49ee45e84514cb1f6af.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "60.2"
+          "percent": "60.0"
         },
         "ACH20": {
           "name": "Mountaintop",
@@ -6084,7 +6084,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/57f73879fb46f02e56fec91555fecd5b56a6eb2c.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "53.8"
+          "percent": "53.5"
         },
         "ACH14": {
           "name": "Night Aspect",
@@ -6092,7 +6092,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/b4b50d2657466400047a14854b5d1dc09ca86c96.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "51.9"
+          "percent": "51.6"
         },
         "ACH03": {
           "name": "Night Begins",
@@ -6100,7 +6100,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/562bc40bff2bc10f64494e3ef26bddfb721e1086.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "62.4"
+          "percent": "62.1"
         },
         "ACH15": {
           "name": "Nightlord Conqueror",
@@ -6108,7 +6108,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/f6395ed76494067191ec3dd6a8d014221761cf7e.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": false,
-          "percent": "48.4"
+          "percent": "48.0"
         },
         "ACH36": {
           "name": "Nightlord Slayer",
@@ -6116,7 +6116,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/9f02d118a9ee8780c4adb5f820fe881506e4a523.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "45.5"
+          "percent": "45.3"
         },
         "ACH00": {
           "name": "Nightreign",
@@ -6124,7 +6124,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/17f60812241f852530650bc209d8462f992f97ae.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": false,
-          "percent": "15.4"
+          "percent": "15.3"
         },
         "ACH23": {
           "name": "Noklateo, the Shrouded City",
@@ -6132,7 +6132,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ef2040e0c5c04ab872e593569f65322bc75d3037.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "45.5"
+          "percent": "45.2"
         },
         "ACH25": {
           "name": "Obtained Vessels",
@@ -6140,7 +6140,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/e33c0c7855453099399e4fa0c28de6010caf8c30.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": false,
-          "percent": "29.5"
+          "percent": "29.2"
         },
         "ACH30": {
           "name": "Old Gaol",
@@ -6148,7 +6148,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/3b5e4eb433f2c3c4a9cc370351abdfa0e1693046.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "53.2"
+          "percent": "52.9"
         },
         "ACH33": {
           "name": "Plague of Locusts",
@@ -6156,7 +6156,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/3f1ff5bffc629c3cc99a686f790a129122633cdb.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "48.0"
+          "percent": "47.7"
         },
         "ACH16": {
           "name": "Relic",
@@ -6164,7 +6164,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/1b51d5bb0a2cd761989706876562100fba580c7c.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": false,
-          "percent": "87.6"
+          "percent": "87.5"
         },
         "ACH28": {
           "name": "Replenished Sacred Flasks",
@@ -6172,7 +6172,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/bb58f89af1e240306a73067ecbeede27825e3d5a.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "77.2"
+          "percent": "77.0"
         },
         "ACH22": {
           "name": "Rotted Woods",
@@ -6180,7 +6180,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/f6cc64dd5ca53c5b3188df01696f0dba16a8210a.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "54.0"
+          "percent": "53.6"
         },
         "ACH09": {
           "name": "Sentient Pest",
@@ -6188,7 +6188,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ae10691bca16f49df8d022c8adc0160c53c302f1.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "64.0"
+          "percent": "63.7"
         },
         "ACH31": {
           "name": "Set and Steadfast",
@@ -6196,7 +6196,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/5d1a180ec5698d9fd56982924c8a5c3ecd69b4eb.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "45.2"
+          "percent": "44.9"
         },
         "ACH24": {
           "name": "Shifting Earth",
@@ -6204,7 +6204,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/1741d7bd9071c07df126a3efdd36b0ac58e4d392.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": false,
-          "percent": "36.1"
+          "percent": "35.9"
         },
         "ACH21": {
           "name": "The Crater",
@@ -6212,7 +6212,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/5044e247222a025b1c417a23cd532531d41d00fb.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "53.7"
+          "percent": "53.5"
         },
         "ACH04": {
           "name": "The Duchess Joins the Fray",
@@ -6220,7 +6220,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/0d1976cd49fd7a219561221e593e87d5ac565825.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "78.7"
+          "percent": "78.5"
         },
         "ACH02": {
           "name": "The Nightlords",
@@ -6228,7 +6228,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/3fa377facbb904ca9acefb39394b795f90bc0f9f.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "81.7"
+          "percent": "81.5"
         },
         "ACH05": {
           "name": "The Revenant Joins the Fray",
@@ -6236,7 +6236,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/33b251627a3e20b0b793147bdb1b0ad37760ba5b.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "62.8"
+          "percent": "62.5"
         },
         "ACH01": {
           "name": "The Shrouded Roundtable Hold",
@@ -6252,7 +6252,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/0ff49c49ba63f7f8c74e504a9260a8e3af5d2d1b.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "81.5"
+          "percent": "81.4"
         },
         "ACH35": {
           "name": "True Arbiter",
@@ -6260,7 +6260,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/36dfc8a4144b038b5020e6b4120895ba39a43f4b.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "52.3"
+          "percent": "52.0"
         },
         "ACH34": {
           "name": "Typhoon",
@@ -6268,7 +6268,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/2ed75dbb30bc61c39e43bc7b3fa32146cfa486e9.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "56.1"
+          "percent": "55.8"
         },
         "ACH29": {
           "name": "Untold Power",
@@ -6276,7 +6276,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/be9120b96dfa8eb464edbdcddb6fc0faa2890d92.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": true,
-          "percent": "81.7"
+          "percent": "81.5"
         },
         "ACH18": {
           "name": "Vessel",
@@ -6284,7 +6284,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/622b549cf67e82598b51d9c48a830dfb0c87d7d9.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
           "hidden": false,
-          "percent": "69.0"
+          "percent": "68.8"
         }
       },
       "platform": null,
@@ -77414,7 +77414,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/caa59189c12c52030f0d14b90c0a2623dc9ecbec.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/3927ec9d7007ba4b76504597051e9be8416a8cec.jpg",
           "hidden": false,
-          "percent": "57.3"
+          "percent": "57.2"
         },
         "Achievement40": {
           "name": "Capture Pro",
@@ -77422,7 +77422,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/81cd069f44da75443c23f65af7fdac4d3f84d6bc.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/a32b6c2469a32889465a6ed4cad6a093042d82ad.jpg",
           "hidden": false,
-          "percent": "27.4"
+          "percent": "27.3"
         },
         "Achievement69": {
           "name": "Celestial Illusion",
@@ -77486,7 +77486,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/02f71cfd5e52044720f5e8794ad6c9928c48e79a.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/ff6f6f2afdfa60defa2c491911727498f1b797c6.jpg",
           "hidden": true,
-          "percent": "55.4"
+          "percent": "55.3"
         },
         "Achievement3": {
           "name": "Defender of Astera",
@@ -77638,7 +77638,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/59005a50f06b8aca450f1567053ffff1192ebd63.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/581783129ce56bb8d93abcf27f876b1da75e14ff.jpg",
           "hidden": false,
-          "percent": "52.2"
+          "percent": "52.1"
         },
         "Achievement89": {
           "name": "Helpful Hunter",
@@ -77702,7 +77702,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/1da29f2d7a705a2373da2f90b8951b5650dbd248.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/06facb85d2ee884cb2f7bf4dcea65268609f2c2d.jpg",
           "hidden": true,
-          "percent": "19.1"
+          "percent": "19.0"
         },
         "Achievement54": {
           "name": "Indomitable Spirit",
@@ -77774,7 +77774,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/e4c73c7e29668074e719b8ba8b51a87071e8352b.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/5135d6ea3b06f26c9ac74b1f96c0ad3fae288d81.jpg",
           "hidden": false,
-          "percent": "39.9"
+          "percent": "39.8"
         },
         "Achievement34": {
           "name": "Miniature Crown Collector",
@@ -77982,7 +77982,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/0c524255f8bd3c3af4b77b3ab7c6042e439957cd.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/e50b6a0ba2a1a6c3114acca32049519f13948685.jpg",
           "hidden": true,
-          "percent": "36.9"
+          "percent": "36.8"
         },
         "Achievement15": {
           "name": "The Art of Camouflage",
@@ -78956,7 +78956,7 @@
           "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1881420/b0a128d6fae3ca420b5324d4e69e26c2f185cb3a.jpg",
           "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1881420/2b18a2bc6705a8357d7714fc062f3dcf53c7c653.jpg",
           "hidden": false,
-          "percent": "50.3"
+          "percent": "50.2"
         },
         "ACHIEVEMENT_10": {
           "name": "Ruler of Heaven and Earth",
