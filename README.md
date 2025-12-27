@@ -17,19 +17,7 @@ Click the "Fork" button at the top right of this page.
 
 Your site will be available at: `https://YOUR-USERNAME.github.io/REPO-NAME/`
 
-### 3. Get Your Steam API Key
-
-1. Go to https://steamcommunity.com/dev/apikey
-2. Enter any domain name (e.g., `localhost`)
-3. Agree to terms and copy your API key
-
-### 4. Add GitHub Secret
-
-1. In your repository, go to **Settings** → **Secrets and variables** → **Actions**
-2. Click **New repository secret**
-3. Add: `STEAM_API_KEY` with your Steam API key as the value
-
-### 5. Upload your achievement files
+### 3. Upload your achievement files
 
 1. Create a branch named 'user'. This branch will store all your achievement files.
 2. Create folder structure: `AppID/[Steam AppID]/`
@@ -170,7 +158,6 @@ The workflow runs daily at midnight UTC, or manually:
 
 ### Optional (Enhanced Features):
 
-⭐ `STEAM_API_KEY` secret → Enables automatic game info fetching
 ⭐ GitHub Actions workflow → Auto-updates game data daily
 ⭐ `game-info.json` files → Auto-generated, contains game names/icons/rarity
 ⭐ `game-data.json` → Auto-generated, combines all achievements data from [Steam AppID] folders
@@ -180,7 +167,6 @@ The workflow runs daily at midnight UTC, or manually:
 ## 📝 Notes
 
 - Your GitHub Pages site is public by default
-- The workflow uses public Steam profiles to find hidden achievement descriptions
 - No personal Steam account needed - just upload your achievement files
 - The viewer works offline after initial load
 
@@ -195,7 +181,7 @@ The workflow runs daily at midnight UTC, or manually:
 **Games show but no names/icons?**
 
 - This is normal without the workflow
-- Either: (1) Add `STEAM_API_KEY` and run workflow, or (2) Manually create `game-info.json` files
+- Manually create `game-info.json` files
 
 **Profile picture not showing?**
 
@@ -205,11 +191,9 @@ The workflow runs daily at midnight UTC, or manually:
 **Hidden achievements show "Hidden achievement"?**
 
 - Without workflow: Expected, descriptions aren't in your achievement files
-- With workflow: May not find all descriptions, depends on public profile availability
 
 **Workflow not running?**
 
-- Check that `STEAM_API_KEY` is added to repository secrets
 - Verify the workflow file exists at `.github/workflows/fetch-game-data.yml`
 - Check Actions tab for error messages
 
@@ -222,5 +206,7 @@ Free to use and modify!
 At first this was made for GBE fork users.
 
 Implemented and automatized the logic behind **alex47exe**'s gse_fork_tools for hidden achievement retrieval.
+
+Credit goes to **darktakayanagi** for the enhanced hidden achievement retrieval.
 
 Credit goes to **darktakayanagi** for the Hub.
