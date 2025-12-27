@@ -21,8 +21,8 @@
   },
   {
     "apiname": "TFD_ACHIEVEMENT_5",
-    "achieved": 0,
-    "unlocktime": 0
+    "achieved": 1,
+    "unlocktime": 1766824848
   },
   {
     "apiname": "TFD_ACHIEVEMENT_6",
@@ -81,8 +81,8 @@
   },
   {
     "apiname": "TFD_ACHIEVEMENT_17",
-    "achieved": 0,
-    "unlocktime": 0
+    "achieved": 1,
+    "unlocktime": 1766832071
   },
   {
     "apiname": "TFD_ACHIEVEMENT_18",
