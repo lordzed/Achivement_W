@@ -85,7 +85,7 @@ export async function selectComparisonUser() {
             <div class="comparison-modal-header">
                 <div>
                     <h3 style="margin: 0;">Choose yourself</h3>
-                    <div style="font-size: 0.75em; color: #8f98a0; margin-top: 4px; font-weight: normal;">(Can only be cleared with "Cookies and Site Data")</div>
+                    <div style="font-size: 0.75em; color: #8f98a0; margin-top: 4px; font-weight: normal;">(Will be remembered. Can only be cleared with "Cookies and Site Data")</div>
                 </div>
                 <button class="comparison-modal-close" onclick="this.closest('.comparison-modal-overlay').remove()">×</button>
             </div>
