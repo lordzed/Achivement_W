@@ -6,7 +6,7 @@ const comparisonCache = new Map();
 /**
  * Gets the stored user's GitHub username for comparison (from localStorage only)
  */
-function getStoredUsername() {
+export function getStoredUsername() {
     return localStorage.getItem('comparison_github_username');
 }
 
