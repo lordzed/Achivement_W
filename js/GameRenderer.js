@@ -9,11 +9,11 @@ import {
     getVisitorUsername
 } from './GameCompare.js';
 
-// UPDATED: Global search state (Default is now 'name')
+// GLOBAL SEARCH STATE
 let currentSearchTerm = '';
-let currentSearchType = 'name'; 
+let currentSearchType = 'name'; // Default to Game Name
 
-// UPDATED: Search handlers
+// SEARCH HANDLERS
 window.setSearchTerm = function(term) {
     currentSearchTerm = term;
     displayGames();
@@ -23,7 +23,7 @@ window.setSearchType = function(type) {
     currentSearchType = type;
     displayGames();
 };
-// Displaying games
+
 export function displayGames() {
     const resultsDiv = document.getElementById('results');
     const summaryDiv = document.getElementById('summary');
@@ -36,7 +36,6 @@ export function displayGames() {
         return;
     }
 
-    // NEW: Show search bar
     if (searchDiv) {
         searchDiv.style.display = 'block';
         searchDiv.classList.remove('hidden');
@@ -60,16 +59,12 @@ export function displayGames() {
 
     const overallPercentage = calculatePercentage(totalUnlocked, totalAchievements);
 
-    // Render summary
     renderSummary(summaryDiv, totalGames, perfectGames, totalUnlocked, totalAchievements, overallPercentage);
-
-    // Render games grid
     renderGamesGrid(resultsDiv);
 }
 
 function renderSummary(summaryDiv, totalGames, perfectGames, totalUnlocked, totalAchievements, overallPercentage) {
     summaryDiv.style.display = 'block';
-
     const gamerCard = window.gamerCardHTML || '';
 
     summaryDiv.innerHTML = `
@@ -86,11 +81,7 @@ function renderSummary(summaryDiv, totalGames, perfectGames, totalUnlocked, tota
                     </h2>
                 </div>
 
-                ${gamerCard ? `
-                <div class="gamer-card-container">
-                    ${gamerCard}
-                </div>
-                ` : ''}
+                ${gamerCard ? `<div class="gamer-card-container">${gamerCard}</div>` : ''}
             </div>
             
             <div class="progress-bar" style="max-width: 600px; margin: 0 auto;">
@@ -141,49 +132,70 @@ function renderGamesGrid(resultsDiv) {
 
     let sortedGames = sortGames(window.gridSortMode || 'percentage');
 
-    // NEW: Apply Search Filter
+    // --- NEW FILTERING LOGIC START ---
     if (currentSearchTerm) {
         const term = currentSearchTerm.toLowerCase().trim();
         if (term) {
             sortedGames = sortedGames.filter(game => {
-                // 1. Search by Name
-                if (game.name.toLowerCase().includes(term)) return true;
                 
-                // 2. Search by AppID
-                if (game.appId.includes(term)) return true;
+                // 1. Check Game Name
+                if (currentSearchType === 'name') {
+                    return game.name.toLowerCase().includes(term);
+                }
                 
-                // 3. Search by Platform
-                const platform = game.platform || (game.usesDb ? 'Steam' : '');
-                if (platform.toLowerCase().includes(term)) return true;
+                // 2. Check AppID
+                if (currentSearchType === 'appid') {
+                    return game.appId.includes(term);
+                }
                 
-                // 4. Search by Achievements (Name, Description, API Name)
-                if (game.achievements.some(ach => 
-                    (ach.name && ach.name.toLowerCase().includes(term)) || 
-                    (ach.description && ach.description.toLowerCase().includes(term)) ||
-                    (ach.apiname && ach.apiname.toLowerCase().includes(term))
-                )) return true;
+                // 3. Check Platform
+                if (currentSearchType === 'platform') {
+                    const platform = game.platform || (game.usesDb ? 'Steam' : '');
+                    return platform.toLowerCase().includes(term);
+                }
+                
+                // 4. Check Achievements
+                if (currentSearchType === 'achievement') {
+                    return game.achievements.some(ach => 
+                        (ach.name && ach.name.toLowerCase().includes(term)) || 
+                        (ach.description && ach.description.toLowerCase().includes(term)) ||
+                        (ach.apiname && ach.apiname.toLowerCase().includes(term))
+                    );
+                }
 
-                return false;
+                return false; // Should not happen if dropdown is correct
             });
         }
     }
+    // --- NEW FILTERING LOGIC END ---
 
     if (sortedGames.length === 0) {
+        let typeLabel = "Game Name";
+        if (currentSearchType === 'appid') typeLabel = "AppID";
+        if (currentSearchType === 'platform') typeLabel = "Platform";
+        if (currentSearchType === 'achievement') typeLabel = "Achievement Info";
+
         html += `<div style="grid-column: 1/-1; text-align: center; color: #8f98a0; padding: 40px; font-size: 1.2em;">
-                    No games found matching "${currentSearchTerm}"
+                    No games found matching "${currentSearchTerm}" in <strong>${typeLabel}</strong>
                  </div>`;
     } else {
-    for (let game of sortedGames) {
-        const unlocked = game.achievements.filter(a => a.unlocked).length;
-        const total = game.achievements.length;
-        const percentage = calculatePercentage(unlocked, total);
-
-        html += renderGameCard(game, percentage);
+        for (let game of sortedGames) {
+            const unlocked = game.achievements.filter(a => a.unlocked).length;
+            const total = game.achievements.length;
+            const percentage = calculatePercentage(unlocked, total);
+    
+            html += renderGameCard(game, percentage);
         }
     }
 
     html += '</div>';
     resultsDiv.innerHTML = sortControlsHTML + html;
+    
+    // Maintain focus
+    const searchInput = document.getElementById('game-search');
+    if (searchInput && currentSearchTerm) {
+        searchInput.focus();
+    }
 }
 
 function sortGames(mode) {
@@ -218,7 +230,6 @@ function sortGames(mode) {
 }
 
 function renderGameCard(game, percentage) {
-    // Determine what label to show
     let platformLabel = '';
     if (game.platform) {
         platformLabel = `<div class="game-source">${game.platform}</div>`;
@@ -255,7 +266,6 @@ export function showGameDetail(appId, updateUrl = true) {
     const game = gamesData.get(appId);
     if (!game) return;
 
-    // Only update URL if not called from handleDeepLink or popstate
     if (updateUrl) {
         const newUrl = new URL(window.location.href);
         newUrl.searchParams.set('game', appId);
@@ -287,7 +297,6 @@ export function renderGameDetail() {
     document.getElementById('summary-box').classList.add('hidden');
     document.getElementById('grid-sort-controls').classList.add('hidden');
     
-    // NEW: Hide search bar in detail view
     const searchContainer = document.getElementById('search-container');
     if (searchContainer) searchContainer.classList.add('hidden');
 
@@ -302,13 +311,11 @@ export function renderGameDetail() {
     detailView.classList.add('active');
     window.scrollTo(0, 0);
 
-    // Setup comparison filters if in compare mode
     if (compareMode) {
         setupComparisonFilters();
     }
 }
 
-// Normal view with compare button
 function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
     let unlockedAchievements = game.achievements.filter(a => a.unlocked);
     let lockedAchievements = game.achievements.filter(a => !a.unlocked);
@@ -331,11 +338,8 @@ function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
         unlockedAchievements.sort((a, b) => (a.unlocktime || 0) - (b.unlocktime || 0));
     }
 
-    // Check for "Passport" (Visitor) from URL
     const visitor = getVisitorUsername();
     
-    // Show compare button ONLY if we have a visitor username in URL AND it's not the own profile
-    // Guests (no URL param) will not see this button
     const compareButton = (visitor && !isOwnProfile()) ? `
         <button class="compare-button" onclick="window.enableCompareMode()">
             🔄 Compare Achievements
@@ -403,7 +407,6 @@ function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
     `;
 }
 
-// Comparison view
 function renderDetailViewWithComparison(game, unlocked, total, percentage) {
     const { comparisonData } = window.currentGameData;
     const theirUsername = window.githubUsername || window.location.href.split('.github.io')[0].split('//')[1];
@@ -481,7 +484,6 @@ function renderAchievement(ach, isUnlocked) {
 export function hideGameDetail() {
     const newUrl = new URL(window.location.href);
     newUrl.searchParams.delete('game');
-    // Keep 'vs' parameter if present
     const vs = new URLSearchParams(window.location.search).get('vs');
     if (vs) newUrl.searchParams.set('vs', vs);
     
@@ -492,7 +494,6 @@ export function hideGameDetail() {
     document.getElementById('summary-box').classList.remove('hidden');
     document.getElementById('grid-sort-controls').classList.remove('hidden');
     
-    // NEW: Show search bar when returning to grid
     const searchContainer = document.getElementById('search-container');
     if (searchContainer) searchContainer.classList.remove('hidden');
 
@@ -516,39 +517,28 @@ export function handleDeepLink() {
 
     if (appId && gamesData.has(appId)) {
         showGameDetail(appId, false);
-
-        // If 'vs' parameter is present, automatically enable comparison mode
         if (vsUser) {
             window.enableCompareMode();
         }
     }
 }
 
-// Enable comparison mode
 window.enableCompareMode = async function() {
     const { appId, game } = window.currentGameData;
-    
-    // 1. Check if we have a visitor user (URL param)
     const storedUser = getVisitorUsername();
     
-    // 2. Security Check: If no user is in URL (Guest), abort.
-    if (!storedUser) {
-        return;
-    }
+    if (!storedUser) return;
     
-    // 3. Proceed immediately to loading
     window.currentGameData.compareMode = true;
-    renderGameDetail(); // Shows the view (loading state)
+    renderGameDetail(); 
     
-    // Load data
     const ownData = await loadOwnGameData(appId);
     const comparisonData = compareAchievements(game, ownData);
     
     window.currentGameData.comparisonData = comparisonData;
-    renderGameDetail(); // Renders the final results
+    renderGameDetail(); 
 };
 
-// Disable comparison mode
 window.disableCompareMode = function() {
     window.currentGameData.compareMode = false;
     window.currentGameData.comparisonData = null;
