@@ -18,18 +18,8 @@ async function loadGameData(person) {
   let perfect = 0;
 
   for (const g of data) {
-    // IMPORTANT: The blacklist has already been applied during game-data.json generation
-    // by GameLoader.js. The achievements in g.achievements are already filtered.
-    // We should NOT try to re-apply the blacklist here.
-    
-    // However, we need to determine the TOTAL count of achievements for this game.
-    // We have two sources:
-    // 1. g.info.achievements - the full schema (if available)
-    // 2. g.achievements - the user's save data
-    
     const blacklist = g.info?.blacklist || [];
     
-    // Check if we have a full schema in game-info
     const hasFullSchema = g.info && 
                          g.info.achievements && 
                          Object.keys(g.info.achievements).length > 0;
@@ -39,13 +29,10 @@ async function loadGameData(person) {
     let canDeterminePerfect = false;
     
     if (hasFullSchema) {
-      // We have the full achievement schema from game-info.json
-      // Count the total AFTER applying blacklist (since schema has everything)
       const schemaKeys = Object.keys(g.info.achievements);
       const validSchemaKeys = schemaKeys.filter(key => !blacklist.includes(key));
       totalCount = validSchemaKeys.length;
       
-      // Count how many of these are actually earned in the save data
       for (const key of validSchemaKeys) {
         const userAch = g.achievements[key];
         if (userAch && (userAch.earned === true || userAch.earned === 1)) {
@@ -55,9 +42,6 @@ async function loadGameData(person) {
       
       canDeterminePerfect = true;
     } else {
-      // No full schema available
-      // The user's save file might only contain unlocked achievements
-      // We can count achievements but can't reliably determine if it's perfect
       const saveKeys = Object.keys(g.achievements);
       totalCount = saveKeys.length;
       
@@ -68,18 +52,12 @@ async function loadGameData(person) {
         }
       }
       
-      // CRITICAL FIX: If save file only has unlocked achievements,
-      // we can't determine if it's a perfect game
       canDeterminePerfect = false;
     }
     
     earnedAchievements += earnedCount;
     totalAchievements += totalCount;
     
-    // Only count as perfect if:
-    // 1. We have the full schema (canDeterminePerfect = true)
-    // 2. There are achievements to earn (totalCount > 0)
-    // 3. All valid achievements are earned (earnedCount === totalCount)
     if (canDeterminePerfect && totalCount > 0 && earnedCount === totalCount) {
       perfect++;
     }
@@ -137,6 +115,68 @@ async function addUserToGrid(person) {
   });
 }
 
+// Store all users globally so we can re-render on sort/search
+let allUsers = [];
+
+function renderFiltered() {
+  const searchTerm = document.getElementById('search').value.toLowerCase();
+  const sortMode = document.getElementById('sort').value;
+
+  let filtered = allUsers.filter((u) => u.login.toLowerCase().includes(searchTerm));
+
+  // Sort the filtered list
+  if (sortMode === 'az') {
+    filtered.sort((a, b) => a.login.localeCompare(b.login));
+  } else if (sortMode === 'za') {
+    filtered.sort((a, b) => b.login.localeCompare(a.login));
+  } else if (sortMode === 'mostAch') {
+    filtered.sort((a, b) => (b.achievements || 0) - (a.achievements || 0));
+  } else if (sortMode === 'mostPerfect') {
+    filtered.sort((a, b) => (b.perfectGames || 0) - (a.perfectGames || 0));
+  }
+
+  const grid = document.getElementById('grid');
+  grid.innerHTML = '';
+  
+  filtered.forEach((user, index) => {
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.style.animationDelay = `${index * 0.03}s`;
+    
+    const perc = user.totalAchievements ? Math.round((user.achievements / user.totalAchievements) * 100) : 0;
+    
+    card.innerHTML = `
+      <img class="avatar" src="${user.avatar}">
+      <div class="username">${user.login}${user.original ? ' ⭐' : ''}</div>
+      <div class="progress-container">
+        <div class="progress-bar">
+          <div class="progress-fill" style="width:${perc}%">
+            <span>${perc}%</span>
+          </div>
+        </div>
+      </div>
+      <div class="stats">
+        ${user.achievements || 0} achievements<br>
+        ${user.perfectGames || 0} / ${user.totalGames || 0} perfect games
+      </div>
+    `;
+    
+    card.addEventListener('mousedown', (e) => {
+      const url = `https://${user.login}.github.io/${user.repo || 'achievement-viewer'}/`;
+      if (e.button === 0 || e.button === 1) {
+        if (e.button === 1) e.preventDefault();
+        window.open(url, '_blank');
+      }
+    });
+    
+    card.addEventListener('contextmenu', (e) => {
+      e.preventDefault();
+    });
+    
+    grid.appendChild(card);
+  });
+}
+
 (async () => {
   const current = detectRepo();
   if (!current) return;
@@ -150,47 +190,30 @@ async function addUserToGrid(person) {
     original: true,
     repo: root.repo,
   };
-  addUserToGrid(mainUser);
+  
+  // Load main user data first
+  await addUserToGrid(mainUser);
+  allUsers.push(mainUser);
 
-  // Fetch forks (USES SHARED CACHE NOW)
+  // Fetch forks
   const forks = await fetchAllForks(root.owner, root.repo);
   
+  // Load all fork users
   for (const f of forks) {
-    addUserToGrid({
+    const forkUser = {
       login: f.owner.login,
       avatar: `https://github.com/${f.owner.login}.png`,
       original: false,
       repo: f.name,
-    });
+    };
+    await addUserToGrid(forkUser);
+    allUsers.push(forkUser);
   }
 
-  // Search & sort
-  const people = [
-    mainUser,
-    ...forks.map((f) => ({
-      login: f.owner.login,
-      avatar: `https://github.com/${f.owner.login}.png`,
-      original: false,
-      repo: f.name,
-    })),
-  ];
+  // Apply initial sort (default to A→Z)
+  renderFiltered();
 
-  document.getElementById('search').addEventListener('input', () => renderFiltered(people));
-  document.getElementById('sort').addEventListener('change', () => renderFiltered(people));
-
-  function renderFiltered(users) {
-    const searchTerm = document.getElementById('search').value.toLowerCase();
-    const sortMode = document.getElementById('sort').value;
-
-    let filtered = users.filter((u) => u.login.toLowerCase().includes(searchTerm));
-
-    if (sortMode === 'az') filtered.sort((a, b) => a.login.localeCompare(b.login));
-    if (sortMode === 'za') filtered.sort((a, b) => b.login.localeCompare(a.login));
-    if (sortMode === 'mostAch') filtered.sort((a, b) => b.achievements - a.achievements);
-    if (sortMode === 'mostPerfect') filtered.sort((a, b) => b.perfectGames - a.perfectGames);
-
-    const grid = document.getElementById('grid');
-    grid.innerHTML = '';
-    filtered.forEach(addUserToGrid);
-  }
+  // Setup event listeners
+  document.getElementById('search').addEventListener('input', renderFiltered);
+  document.getElementById('sort').addEventListener('change', renderFiltered);
 })();
