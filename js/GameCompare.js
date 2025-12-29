@@ -351,23 +351,17 @@ export function renderComparisonView(theirGame, comparisonData, theirUsername) {
     const unlockedList = comparisonData.comparison.filter(a => a.status !== 'both-locked');
     const lockedList = comparisonData.comparison.filter(a => a.status === 'both-locked');
 
-    const yourUsername = ownUsername || 'You';
-
     return `
         <div class="comparison-header">
             <div class="comparison-users">
                 <div class="comparison-user">
-                    <img src="https://github.com/${yourUsername}.png" 
-                         alt="${yourUsername}" 
-                         class="comparison-avatar">
-                    <div class="comparison-username">${yourUsername}</div>
+                    <img src="https://github.com/${ownUsername}.png" alt="${ownUsername}" class="comparison-avatar">
+                    <div class="comparison-username">${ownUsername} <span style="font-size:0.8em; opacity:0.7">(You)</span></div>
                     <div class="comparison-count">${stats.yourTotal}/${stats.total}</div>
                 </div>
                 <div class="comparison-vs">VS</div>
                 <div class="comparison-user">
-                    <img src="https://github.com/${theirUsername}.png" 
-                         alt="${theirUsername}" 
-                         class="comparison-avatar">
+                    <img src="https://github.com/${theirUsername}.png" alt="${theirUsername}" class="comparison-avatar">
                     <div class="comparison-username">${theirUsername}</div>
                     <div class="comparison-count">${stats.theirTotal}/${stats.total}</div>
                 </div>
@@ -375,126 +369,140 @@ export function renderComparisonView(theirGame, comparisonData, theirUsername) {
             
             <div class="comparison-stats">
                 <div class="comparison-stat">
-                    <div class="stat-value">${stats.bothUnlocked}</div>
-                    <div class="stat-label">Both Unlocked</div>
+                    <div class="stat-value" style="color: #66c0f4;">${stats.bothUnlocked}</div>
+                    <div class="stat-label">Both</div>
                 </div>
                 <div class="comparison-stat">
-                    <div class="stat-value">${stats.youOnly}</div>
+                    <div class="stat-value" style="color: #90EE90;">${stats.youOnly}</div>
                     <div class="stat-label">You Only</div>
                 </div>
                 <div class="comparison-stat">
-                    <div class="stat-value">${stats.theyOnly}</div>
+                    <div class="stat-value" style="color: #FFB84D;">${stats.theyOnly}</div>
                     <div class="stat-label">Them Only</div>
                 </div>
             </div>
+            
+            <div style="text-align: center; margin-top: 15px; padding-top: 15px; border-top: 1px solid #3d5a6c;">
+                <button class="comparison-filter-btn" onclick="window.changeComparisonUser()" style="font-size: 12px;">
+                    🔄 Switch Profile (Not ${ownUsername}?)
+                </button>
+            </div>
         </div>
-        
-        <div class="comparison-filters" id="comparison-filters">
-            <button class="comparison-filter-btn active" data-filter="all">
-                All (${comparisonData.comparison.length})
-            </button>
-            <button class="comparison-filter-btn" data-filter="both-unlocked">
-                Both Unlocked (${stats.bothUnlocked})
-            </button>
-            <button class="comparison-filter-btn" data-filter="you-only">
-                You Only (${stats.youOnly})
-            </button>
-            <button class="comparison-filter-btn" data-filter="they-only">
-                Them Only (${stats.theyOnly})
-            </button>
-            <button class="comparison-filter-btn" data-filter="both-locked">
-                Both Locked (${stats.bothLocked})
-            </button>
+
+        <div class="comparison-filters">
+            <button class="comparison-filter-btn active" data-filter="all">All (${stats.total})</button>
+            <button class="comparison-filter-btn" data-filter="both-unlocked">Both (${stats.bothUnlocked})</button>
+            <button class="comparison-filter-btn" data-filter="you-only">You Only (${stats.youOnly})</button>
+            <button class="comparison-filter-btn" data-filter="they-only">Them Only (${stats.theyOnly})</button>
+            <button class="comparison-filter-btn" data-filter="both-locked">Locked (${stats.bothLocked})</button>
         </div>
-        
-        <div class="comparison-achievements" id="comparison-achievements">
+
+        <div class="comparison-achievements" id="comparison-achievements-list">
             ${unlockedList.length > 0 ? `
                 <h3 class="achievements-section-title">Unlocked Achievements</h3>
-                ${unlockedList.map(ach => renderComparisonAchievement(ach, yourUsername, theirUsername)).join('')}
+                ${unlockedList.map(ach => renderComparisonAchievement(ach)).join('')}
             ` : ''}
             
             ${lockedList.length > 0 ? `
                 <h3 class="achievements-section-title locked-title">Locked Achievements</h3>
-                ${lockedList.map(ach => renderComparisonAchievement(ach, yourUsername, theirUsername)).join('')}
+                ${lockedList.map(ach => renderComparisonAchievement(ach)).join('')}
             ` : ''}
         </div>
     `;
 }
 
-function renderComparisonAchievement(ach, yourUsername, theirUsername) {
-    const statusClass = `comparison-${ach.status}`;
-    const isRare = ach.rarity !== null && ach.rarity !== undefined && parseFloat(ach.rarity) < 10;
+function renderComparisonAchievement(ach) {
+    const isHidden = ach.hidden === true || ach.hidden === 1;
+    const hasDescription = ach.description && ach.description.trim() !== '';
     
-    let badgeHTML = '';
-    if (ach.status === 'both') {
-        badgeHTML = '<div class="comparison-badge badge-both">Both</div>';
-    } else if (ach.status === 'you-only') {
-        badgeHTML = '<div class="comparison-badge badge-you">You Only</div>';
-    } else if (ach.status === 'they-only') {
-        badgeHTML = '<div class="comparison-badge badge-them">Them Only</div>';
+    let descriptionHTML = '';
+    
+    if (isHidden) {
+        if (hasDescription) {
+            descriptionHTML = `<div class="achievement-desc hidden-spoiler">Hidden achievement:<span class="hidden-spoiler-text">${ach.description}</span></div>`;
+        } else {
+            descriptionHTML = `<div class="achievement-desc hidden-desc">Hidden achievement</div>`;
+        }
     } else {
-        badgeHTML = '<div class="comparison-badge badge-locked">Both Locked</div>';
+        if (hasDescription) {
+            descriptionHTML = `<div class="achievement-desc">${ach.description}</div>`;
+        } else {
+            descriptionHTML = `<div class="achievement-desc hidden-desc">Hidden achievement</div>`;
+        }
     }
+
+    const rarityNum = ach.rarity ? parseFloat(ach.rarity) : null;
+    const isRare = rarityNum !== null && !isNaN(rarityNum) && rarityNum < 10;
+
+    let statusClass = '', statusBadge = '';
     
-    const isUnlocked = ach.status !== 'both-locked';
-    const icon = isUnlocked ? ach.icon : (ach.icongray || ach.icon);
-    
-    let unlockTimesHTML = '';
-    if (ach.status === 'both-unlocked') {
-        unlockTimesHTML = `
-            <div class="comparison-unlock-times">
-                <span class="unlock-time-you">You: ${new Date(ach.yourUnlockTime * 1000).toLocaleDateString()}</span>
-                <span class="unlock-time-them">Them: ${new Date(ach.theirUnlockTime * 1000).toLocaleDateString()}</span>
-            </div>
-        `;
-    } else if (ach.status === 'you-only' && ach.yourUnlockTime) {
-        unlockTimesHTML = `
-            <div class="comparison-unlock-times">
-                <span class="unlock-time-you">You: ${new Date(ach.yourUnlockTime * 1000).toLocaleDateString()}</span>
-            </div>
-        `;
-    } else if (ach.status === 'they-only' && ach.theirUnlockTime) {
-        unlockTimesHTML = `
-            <div class="comparison-unlock-times">
-                <span class="unlock-time-them">Them: ${new Date(ach.theirUnlockTime * 1000).toLocaleDateString()}</span>
-            </div>
-        `;
+    switch (ach.status) {
+        case 'both-unlocked':
+            statusClass = 'comparison-both';
+            statusBadge = '<div class="comparison-badge badge-both">✓ Both</div>';
+            break;
+        case 'you-only':
+            statusClass = 'comparison-you-only';
+            statusBadge = '<div class="comparison-badge badge-you">✓ You</div>';
+            break;
+        case 'they-only':
+            statusClass = 'comparison-they-only';
+            statusBadge = '<div class="comparison-badge badge-them">✓ Them</div>';
+            break;
+        case 'both-locked':
+            statusClass = 'comparison-both-locked';
+            statusBadge = '<div class="comparison-badge badge-locked">✗ Both Locked</div>';
+            break;
     }
-    
+
+    const showColor = ach.status !== 'both-locked';
+    const iconSrc = showColor ? ach.icon : (ach.icongray || ach.icon);
+
     return `
         <div class="comparison-achievement ${statusClass}" data-status="${ach.status}">
-            ${icon ? 
-                `<img src="${icon}" alt="${ach.name}" class="achievement-icon ${isRare ? 'rare-glow' : ''}" onerror="this.style.display='none'">` : 
+            ${iconSrc ? 
+                `<img src="${iconSrc}" class="achievement-icon ${isRare ? 'rare-glow' : ''}" onerror="this.style.display='none'">` : 
                 `<div class="achievement-icon ${isRare ? 'rare-glow' : ''}"></div>`}
+            
             <div class="achievement-info">
                 <div class="achievement-name">${ach.name}</div>
-                <div class="achievement-desc">${ach.description || 'Hidden achievement'}</div>
-                ${unlockTimesHTML}
-                ${ach.rarity !== null && ach.rarity !== undefined ? 
-                    `<div class="achievement-rarity ${isRare ? 'rarity-rare' : ''}">${parseFloat(ach.rarity).toFixed(1)}% of players have this</div>` : 
+                ${descriptionHTML}
+                <div class="comparison-unlock-times">
+                    ${ach.yourUnlockTime > 0 ? `<div class="unlock-time-you">You: ${formatDate(ach.yourUnlockTime)}</div>` : ''}
+                    ${ach.theirUnlockTime > 0 ? `<div class="unlock-time-them">Them: ${formatDate(ach.theirUnlockTime)}</div>` : ''}
+                </div>
+                
+                ${rarityNum !== null && !isNaN(rarityNum) ? 
+                    `<div class="achievement-rarity ${isRare ? 'rarity-rare' : ''}">${rarityNum.toFixed(1)}% of players have this</div>` : 
                     ''}
             </div>
-            ${badgeHTML}
+            ${statusBadge}
         </div>
     `;
 }
 
+function formatDate(timestamp) {
+    return new Date(timestamp * 1000).toLocaleDateString();
+}
+
 export function setupComparisonFilters() {
-    const filters = document.querySelectorAll('.comparison-filter-btn');
-    const achievements = document.querySelectorAll('.comparison-achievement');
+    const filterButtons = document.querySelectorAll('.comparison-filter-btn[data-filter]');
+    const achievementsList = document.getElementById('comparison-achievements-list');
     
-    filters.forEach(btn => {
+    if (!filterButtons.length || !achievementsList) return;
+    
+    filterButtons.forEach(btn => {
         btn.addEventListener('click', () => {
             const filter = btn.dataset.filter;
-            
-            filters.forEach(f => f.classList.remove('active'));
+            filterButtons.forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
             
+            const achievements = achievementsList.querySelectorAll('.comparison-achievement');
             achievements.forEach(ach => {
-                if (filter === 'all') {
+                if (filter === 'all' || ach.dataset.status === filter) {
                     ach.style.display = 'flex';
                 } else {
-                    ach.style.display = ach.dataset.status === filter ? 'flex' : 'none';
+                    ach.style.display = 'none';
                 }
             });
         });
@@ -502,9 +510,31 @@ export function setupComparisonFilters() {
 }
 
 // Add function to change comparison user
-window.changeComparisonUser = async function() {
+export async function changeComparisonUser() {
     const selected = await selectComparisonUser();
+    
     if (selected) {
-        window.enableCompareMode();
+        comparisonCache.clear();
+        const { appId, game } = window.currentGameData;
+        
+        window.currentGameData.compareMode = true;
+        window.currentGameData.comparisonData = { hasData: false, loading: true };
+        if (window.renderGameDetail) window.renderGameDetail();
+        
+        try {
+            const ownData = await loadOwnGameData(appId);
+            const comparisonData = compareAchievements(game, ownData);
+            window.currentGameData.comparisonData = comparisonData;
+            
+            if (window.renderGameDetail) window.renderGameDetail();
+            setupComparisonFilters();
+        } catch (error) {
+            console.error("Failed to change comparison user:", error);
+            window.currentGameData.compareMode = false;
+            if (window.renderGameDetail) window.renderGameDetail();
+        }
     }
-};
+}
+
+// Export for use in HTML onclick
+window.changeComparisonUser = changeComparisonUser;
