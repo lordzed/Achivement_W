@@ -2,18 +2,11 @@
 const comparisonCache = new Map();
 
 /**
- * Gets the stored user's GitHub username for comparison (from localStorage only)
- * This represents "The Visitor" (You)
+ * Gets the visitor username directly from the URL 'vs' parameter.
+ * Returns null if no 'vs' parameter exists (Guest Mode).
  */
-export function getStoredUsername() {
-    return localStorage.getItem('comparison_github_username');
-}
-
-/**
- * Sets the user's GitHub username for comparison (localStorage only)
- */
-function setStoredUsername(username) {
-    localStorage.setItem('comparison_github_username', username);
+export function getVisitorUsername() {
+    return new URLSearchParams(window.location.search).get('vs');
 }
 
 /**
@@ -37,29 +30,11 @@ function getPageOwner() {
  */
 export function isOwnProfile() {
     const pageOwner = getPageOwner();
-    const visitor = getStoredUsername();
+    const visitor = getVisitorUsername();
     
     if (!visitor) return false; 
     
     return visitor.toLowerCase() === pageOwner.toLowerCase();
-}
-
-/**
- * Checks URL for 'vs' parameter (Passport feature)
- * If present, sets the visitor username and cleans the URL
- */
-export function checkPassport() {
-    const params = new URLSearchParams(window.location.search);
-    const passportUser = params.get('vs');
-    
-    if (passportUser) {
-        setStoredUsername(passportUser);
-        
-        // Optional: Clean the URL so the param doesn't persist
-        const newUrl = new URL(window.location.href);
-        newUrl.searchParams.delete('vs');
-        window.history.replaceState({}, '', newUrl);
-    }
 }
 
 /**
@@ -96,7 +71,7 @@ export async function selectComparisonUser() {
     // Fetch users
     const users = await fetchAvailableUsers();
     
-    // Show ALL users (including the current page owner)
+    // Show ALL users
     const availableUsers = users;
     
     if (availableUsers.length === 0) {
@@ -109,12 +84,12 @@ export async function selectComparisonUser() {
         return null;
     }
     
-    // Get stored username to highlight it
-    const storedUsername = getStoredUsername();
+    // Get current visitor to highlight them
+    const currentVisitor = getVisitorUsername();
     
     // Build user list
     const userListHTML = availableUsers.map(user => {
-        const isSelected = storedUsername && storedUsername.toLowerCase() === user.login.toLowerCase();
+        const isSelected = currentVisitor && currentVisitor.toLowerCase() === user.login.toLowerCase();
         return `
             <div class="comparison-user-item ${isSelected ? 'selected' : ''}" data-username="${user.login}" data-repo="${user.repo}">
                 <img src="https://github.com/${user.login}.png" alt="${user.login}" class="comparison-user-avatar">
@@ -142,16 +117,8 @@ export async function selectComparisonUser() {
             item.addEventListener('click', () => {
                 const username = item.dataset.username;
                 const repo = item.dataset.repo;
-                setStoredUsername(username);
                 modal.remove();
-                
-                // If we identify ourselves as the owner of the current page,
-                // reload immediately so the Compare Button disappears.
-                if (username.toLowerCase() === currentProfileUser.toLowerCase()) {
-                    window.location.reload(); 
-                } else {
-                    resolve({ username, repo });
-                }
+                resolve({ username, repo });
             });
         });
         
@@ -228,7 +195,7 @@ async function fetchAvailableUsers() {
  * Gets the user's own game data for comparison
  */
 export async function loadOwnGameData(appId) {
-    const ownUsername = getStoredUsername();
+    const ownUsername = getVisitorUsername();
     
     if (!ownUsername) return null;
     
@@ -348,7 +315,7 @@ export function getComparisonStats(comparison) {
  * Renders comparison UI
  */
 export function renderComparisonView(theirGame, comparisonData, theirUsername) {
-    const ownUsername = getStoredUsername();
+    const ownUsername = getVisitorUsername();
     
     if (!comparisonData.hasData) {
         return `
@@ -532,25 +499,10 @@ export async function changeComparisonUser() {
     const selected = await selectComparisonUser();
     
     if (selected) {
-        comparisonCache.clear();
-        const { appId, game } = window.currentGameData;
-        
-        window.currentGameData.compareMode = true;
-        window.currentGameData.comparisonData = { hasData: false, loading: true };
-        if (window.renderGameDetail) window.renderGameDetail();
-        
-        try {
-            const ownData = await loadOwnGameData(appId);
-            const comparisonData = compareAchievements(game, ownData);
-            window.currentGameData.comparisonData = comparisonData;
-            
-            if (window.renderGameDetail) window.renderGameDetail();
-            setupComparisonFilters();
-        } catch (error) {
-            console.error("Failed to change comparison user:", error);
-            window.currentGameData.compareMode = false;
-            if (window.renderGameDetail) window.renderGameDetail();
-        }
+        // Redirect to add the 'vs' parameter to the URL
+        const url = new URL(window.location.href);
+        url.searchParams.set('vs', selected.username);
+        window.location.href = url.toString();
     }
 }
 

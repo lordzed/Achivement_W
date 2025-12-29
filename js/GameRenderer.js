@@ -7,7 +7,7 @@ import {
     renderComparisonView,
     setupComparisonFilters,
     selectComparisonUser,
-    getStoredUsername
+    getVisitorUsername
 } from './GameCompare.js';
 
 // Displaying games
@@ -274,11 +274,11 @@ function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
         unlockedAchievements.sort((a, b) => (a.unlocktime || 0) - (b.unlocktime || 0));
     }
 
-    // Check for "Passport" (Visitor)
-    const visitor = getStoredUsername();
+    // Check for "Passport" (Visitor) from URL
+    const visitor = getVisitorUsername();
     
-    // Show compare button ONLY if we have a stored user AND it's not the own profile
-    // Guests (no stored user) will not see this button
+    // Show compare button ONLY if we have a visitor username in URL AND it's not the own profile
+    // Guests (no URL param) will not see this button
     const compareButton = (visitor && !isOwnProfile()) ? `
         <button class="compare-button" onclick="window.enableCompareMode()">
             🔄 Compare Achievements
@@ -349,8 +349,6 @@ function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
 // Comparison view
 function renderDetailViewWithComparison(game, unlocked, total, percentage) {
     const { comparisonData } = window.currentGameData;
-
-    // ✅ NEW LINE: Uses the correct capitalization fetched in GameLoader.js
     const theirUsername = window.githubUsername || window.location.href.split('.github.io')[0].split('//')[1];
     
     return `
@@ -426,6 +424,10 @@ function renderAchievement(ach, isUnlocked) {
 export function hideGameDetail() {
     const newUrl = new URL(window.location.href);
     newUrl.searchParams.delete('game');
+    // Keep 'vs' parameter if present
+    const vs = new URLSearchParams(window.location.search).get('vs');
+    if (vs) newUrl.searchParams.set('vs', vs);
+    
     window.history.pushState({}, '', newUrl);
 
     document.getElementById('detail-view').classList.remove('active');
@@ -457,15 +459,15 @@ export function handleDeepLink() {
 window.enableCompareMode = async function() {
     const { appId, game } = window.currentGameData;
     
-    // 1. Check if we have a stored user
-    const storedUser = getStoredUsername();
+    // 1. Check if we have a visitor user (URL param)
+    const storedUser = getVisitorUsername();
     
-    // 2. Security Check: If no user is stored (Guest), abort.
+    // 2. Security Check: If no user is in URL (Guest), abort.
     if (!storedUser) {
         return;
     }
     
-    // 3. Proceed immediately to loading (uses the stored user automatically)
+    // 3. Proceed immediately to loading
     window.currentGameData.compareMode = true;
     renderGameDetail(); // Shows the view (loading state)
     

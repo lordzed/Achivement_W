@@ -1,5 +1,4 @@
 import { detectRepo, resolveRootRepo, fetchAllForks, fetchJSON } from './utils.js';
-import { getStoredUsername } from './GameCompare.js';
 
 async function loadGameData(person) {
   const url = `https://raw.githubusercontent.com/${person.login}/${person.repo || 'achievement-viewer'}/user/game-data.json`;
@@ -72,6 +71,11 @@ async function loadGameData(person) {
   return person;
 }
 
+// Get the current visitor from the URL to pass along
+function getVisitorParam() {
+    return new URLSearchParams(window.location.search).get('vs');
+}
+
 async function addUserToGrid(person) {
   const grid = document.getElementById('grid');
 
@@ -107,7 +111,7 @@ async function addUserToGrid(person) {
     let url = `https://${person.login}.github.io/${person.repo || 'achievement-viewer'}/`;
     
     // Pass visitor identity to the destination
-    const visitor = getStoredUsername();
+    const visitor = getVisitorParam();
     if (visitor) {
       url += `?vs=${visitor}`;
     }
@@ -175,7 +179,7 @@ function renderFiltered() {
       let url = `https://${user.login}.github.io/${user.repo || 'achievement-viewer'}/`;
       
       // Pass visitor identity to the destination
-      const visitor = getStoredUsername();
+      const visitor = getVisitorParam();
       if (visitor) {
         url += `?vs=${visitor}`;
       }
