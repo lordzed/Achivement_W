@@ -38,160 +38,6 @@ export function isOwnProfile() {
 }
 
 /**
- * Shows a modal dialog to select comparison user
- */
-export async function selectComparisonUser() {
-    const currentProfileUser = getPageOwner();
-    
-    // Create modal overlay
-    const modal = document.createElement('div');
-    modal.className = 'comparison-modal-overlay';
-    modal.innerHTML = `
-        <div class="comparison-modal">
-            <div class="comparison-modal-header">
-                <div>
-                    <h3 style="margin: 0;">Who are you?</h3>
-                    <div style="font-size: 0.75em; color: #8f98a0; margin-top: 4px; font-weight: normal;">
-                        Select your own profile so we know who "You" are.
-                    </div>
-                </div>
-                <button class="comparison-modal-close" onclick="this.closest('.comparison-modal-overlay').remove()">×</button>
-            </div>
-            <div class="comparison-modal-body">
-                <div class="comparison-loading">
-                    <div class="loading-spinner"></div>
-                    <div>Loading network...</div>
-                </div>
-            </div>
-        </div>
-    `;
-    
-    document.body.appendChild(modal);
-    
-    // Fetch users
-    const users = await fetchAvailableUsers();
-    
-    // Show ALL users
-    const availableUsers = users;
-    
-    if (availableUsers.length === 0) {
-        modal.querySelector('.comparison-modal-body').innerHTML = `
-            <div class="comparison-error">
-                <p>No users found.</p>
-                <p style="margin-top: 10px; font-size: 0.9em;">Are you online?</p>
-            </div>
-        `;
-        return null;
-    }
-    
-    // Get current visitor to highlight them
-    const currentVisitor = getVisitorUsername();
-    
-    // Build user list
-    const userListHTML = availableUsers.map(user => {
-        const isSelected = currentVisitor && currentVisitor.toLowerCase() === user.login.toLowerCase();
-        return `
-            <div class="comparison-user-item ${isSelected ? 'selected' : ''}" data-username="${user.login}" data-repo="${user.repo}">
-                <img src="https://github.com/${user.login}.png" alt="${user.login}" class="comparison-user-avatar">
-                <div class="comparison-user-info">
-                    <div class="comparison-user-name">${user.login}${user.isOriginal ? ' ⭐' : ''}</div>
-                    ${isSelected ? '<div class="comparison-user-badge">You</div>' : ''}
-                </div>
-            </div>
-        `;
-    }).join('');
-    
-    modal.querySelector('.comparison-modal-body').innerHTML = `
-        <div class="comparison-user-list">
-            ${userListHTML}
-        </div>
-        <div class="comparison-modal-footer">
-            <button class="comparison-modal-button cancel" onclick="this.closest('.comparison-modal-overlay').remove()">Cancel</button>
-        </div>
-    `;
-    
-    // Return a promise that resolves when user selects
-    return new Promise((resolve) => {
-        const userItems = modal.querySelectorAll('.comparison-user-item');
-        userItems.forEach(item => {
-            item.addEventListener('click', () => {
-                const username = item.dataset.username;
-                const repo = item.dataset.repo;
-                modal.remove();
-                resolve({ username, repo });
-            });
-        });
-        
-        // Cancel button
-        modal.querySelector('.cancel').addEventListener('click', () => {
-            modal.remove();
-            resolve(null);
-        });
-        
-        // Close on overlay click
-        modal.addEventListener('click', (e) => {
-            if (e.target === modal) {
-                modal.remove();
-                resolve(null);
-            }
-        });
-    });
-}
-
-/**
- * Fetches all available users from the hub (root repo + forks)
- */
-async function fetchAvailableUsers() {
-    try {
-        const host = location.hostname;
-        const path = location.pathname.split('/').filter(Boolean);
-        let owner, repo;
-        
-        if (host.endsWith('.github.io') && path.length > 0) {
-            // Live Site Logic
-            owner = host.replace('.github.io', '');
-            repo = path[0];
-        } else {
-            // Localhost Fallback Logic
-            owner = 'Roschach96'; 
-            repo = 'achievement-viewer';
-        }
-        
-        const repoInfo = await fetch(`https://api.github.com/repos/${owner}/${repo}`).then(r => r.ok ? r.json() : null);
-        if (!repoInfo) return [];
-        
-        // Find the absolute root (if Roschach96 was a fork, find the parent, otherwise use Roschach96)
-        const rootOwner = repoInfo.fork && repoInfo.parent ? repoInfo.parent.owner.login : repoInfo.owner.login;
-        const rootRepo = repoInfo.fork && repoInfo.parent ? repoInfo.parent.name : repoInfo.name;
-        
-        const users = [{ login: rootOwner, repo: rootRepo, isOriginal: true }];
-        let page = 1;
-        
-        while (true) {
-            const forks = await fetch(`https://api.github.com/repos/${rootOwner}/${rootRepo}/forks?per_page=100&page=${page}`)
-                .then(r => r.ok ? r.json() : null);
-            
-            if (!forks || forks.length === 0) break;
-            
-            forks.forEach(f => {
-                users.push({
-                    login: f.owner.login,
-                    repo: f.name,
-                    isOriginal: false
-                });
-            });
-            
-            page++;
-        }
-        
-        return users;
-    } catch (error) {
-        console.error('Error fetching available users:', error);
-        return [];
-    }
-}
-
-/**
  * Gets the user's own game data for comparison
  */
 export async function loadOwnGameData(appId) {
@@ -323,9 +169,6 @@ export function renderComparisonView(theirGame, comparisonData, theirUsername) {
                 <div class="comparison-unavailable-icon">🔒</div>
                 <h3>No Data Found</h3>
                 <p>Could not find achievement data for <strong>${theirGame.name}</strong> on <strong>${ownUsername}</strong>'s profile.</p>
-                <button class="compare-button" onclick="window.changeComparisonUser()" style="margin-top: 15px;">
-                    🔄 Select Different User
-                </button>
             </div>
         `;
     }
@@ -365,12 +208,6 @@ export function renderComparisonView(theirGame, comparisonData, theirUsername) {
                     <div class="stat-value" style="color: #FFB84D;">${stats.theyOnly}</div>
                     <div class="stat-label">Them Only</div>
                 </div>
-            </div>
-            
-            <div style="text-align: center; margin-top: 15px; padding-top: 15px; border-top: 1px solid #3d5a6c;">
-                <button class="comparison-filter-btn" onclick="window.changeComparisonUser()" style="font-size: 12px;">
-                    🔄 Switch Profile (Not ${ownUsername}?)
-                </button>
             </div>
         </div>
 
@@ -493,18 +330,3 @@ export function setupComparisonFilters() {
         });
     });
 }
-
-// Add function to change comparison user
-export async function changeComparisonUser() {
-    const selected = await selectComparisonUser();
-    
-    if (selected) {
-        // Redirect to add the 'vs' parameter to the URL
-        const url = new URL(window.location.href);
-        url.searchParams.set('vs', selected.username);
-        window.location.href = url.toString();
-    }
-}
-
-// Export for use in HTML onclick
-window.changeComparisonUser = changeComparisonUser;

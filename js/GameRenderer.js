@@ -6,7 +6,6 @@ import {
     compareAchievements, 
     renderComparisonView,
     setupComparisonFilters,
-    selectComparisonUser,
     getVisitorUsername
 } from './GameCompare.js';
 
