@@ -86,11 +86,7 @@ function renderSummary(summaryDiv, totalGames, perfectGames, totalUnlocked, tota
                     </h2>
                 </div>
 
-                ${gamerCard ? `
-                <div class="gamer-card-container">
-                    ${gamerCard}
-                </div>
-                ` : ''}
+                ${gamerCard ? `<div class="gamer-card-container">${gamerCard}</div>` : ''}
             </div>
             
             <div class="progress-bar" style="max-width: 600px; margin: 0 auto;">
@@ -146,31 +142,46 @@ function renderGamesGrid(resultsDiv) {
         const term = currentSearchTerm.toLowerCase().trim();
         if (term) {
             sortedGames = sortedGames.filter(game => {
-                // 1. Search by Name
-                if (game.name.toLowerCase().includes(term)) return true;
                 
-                // 2. Search by AppID
-                if (game.appId.includes(term)) return true;
+                // 1. Check Game Name
+                if (currentSearchType === 'name') {
+                    return game.name.toLowerCase().includes(term);
+                }
                 
-                // 3. Search by Platform
+                // 2. Check AppID
+                if (currentSearchType === 'appid') {
+                    return game.appId.includes(term);
+                }
+                
+                // 3. Check Platform
+                if (currentSearchType === 'platform') {
                 const platform = game.platform || (game.usesDb ? 'Steam' : '');
-                if (platform.toLowerCase().includes(term)) return true;
+                    return platform.toLowerCase().includes(term);
+                }
                 
-                // 4. Search by Achievements (Name, Description, API Name)
-                if (game.achievements.some(ach => 
+                // 4. Check Achievements
+                if (currentSearchType === 'achievement') {
+                    return game.achievements.some(ach => 
                     (ach.name && ach.name.toLowerCase().includes(term)) || 
                     (ach.description && ach.description.toLowerCase().includes(term)) ||
                     (ach.apiname && ach.apiname.toLowerCase().includes(term))
-                )) return true;
+                    );
+                }
 
                 return false;
             });
         }
     }
+    // --- NEW FILTERING LOGIC END ---
 
     if (sortedGames.length === 0) {
+        let typeLabel = "Game Name";
+        if (currentSearchType === 'appid') typeLabel = "AppID";
+        if (currentSearchType === 'platform') typeLabel = "Platform";
+        if (currentSearchType === 'achievement') typeLabel = "Achievement Info";
+
         html += `<div style="grid-column: 1/-1; text-align: center; color: #8f98a0; padding: 40px; font-size: 1.2em;">
-                    No games found matching "${currentSearchTerm}"
+                    No games found matching "${currentSearchTerm}" in <strong>${typeLabel}</strong>
                  </div>`;
     } else {
     for (let game of sortedGames) {
@@ -184,6 +195,12 @@ function renderGamesGrid(resultsDiv) {
 
     html += '</div>';
     resultsDiv.innerHTML = sortControlsHTML + html;
+    
+    // Maintain focus
+    const searchInput = document.getElementById('game-search');
+    if (searchInput && currentSearchTerm) {
+        searchInput.focus();
+    }
 }
 
 function sortGames(mode) {
