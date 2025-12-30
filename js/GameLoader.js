@@ -4,6 +4,84 @@ let userInfo = getGitHubUserInfo();
 let baseUrl = `https://raw.githubusercontent.com/${userInfo.username}/${userInfo.repo}/user/`;
 export const gamesData = new Map();
 
+// Smart cache management
+const CACHE_VERSION_KEY = 'game-data-version';
+const CACHE_DATA_KEY = 'game-data-cache';
+const CACHE_TIMESTAMP_KEY = 'game-data-timestamp';
+const CACHE_MAX_AGE = 60 * 60 * 1000; // 1 hour - fallback if fetch fails
+
+async function loadGameDataWithCache() {
+    try {
+        const cachedVersion = localStorage.getItem(CACHE_VERSION_KEY);
+        const cachedGames = localStorage.getItem(CACHE_DATA_KEY);
+        const cacheTimestamp = localStorage.getItem(CACHE_TIMESTAMP_KEY);
+        
+        // Fetch game-data.json (always check for updates)
+        const dataResponse = await fetch(baseUrl + 'game-data.json', {
+            cache: 'no-cache'
+        });
+        
+        if (!dataResponse.ok) {
+            throw new Error('Failed to fetch game-data.json');
+        }
+        
+        const data = await dataResponse.json();
+        
+        // Handle both old format (array) and new format (object with version)
+        let games, version, isNewFormat;
+        
+        if (Array.isArray(data)) {
+            // Old format - no versioning
+            console.log('Using old format game-data.json (no versioning)');
+            games = data;
+            version = 'legacy';
+            isNewFormat = false;
+        } else if (data.games && Array.isArray(data.games)) {
+            // New format with versioning
+            games = data.games;
+            version = data.version || 'unknown';
+            isNewFormat = true;
+            console.log(`Game data version: ${version}`);
+        } else {
+            throw new Error('Invalid game-data.json format');
+        }
+        
+        // Check if version changed
+        if (isNewFormat && version === cachedVersion && cachedGames) {
+            console.log('✓ Using cached game data - no changes detected');
+            return JSON.parse(cachedGames);
+        }
+        
+        // Version changed, no cache, or old format - use fresh data
+        if (isNewFormat) {
+            console.log('✓ Game data changed, updating cache');
+            localStorage.setItem(CACHE_VERSION_KEY, version);
+            localStorage.setItem(CACHE_DATA_KEY, JSON.stringify(games));
+            localStorage.setItem(CACHE_TIMESTAMP_KEY, Date.now().toString());
+        } else {
+            console.log('⚠ Old format detected - caching disabled');
+        }
+        
+        return games;
+        
+    } catch (error) {
+        console.error('Error loading game data:', error);
+        
+        // Fallback to cached data if available and not too old
+        const cachedGames = localStorage.getItem(CACHE_DATA_KEY);
+        const cacheTimestamp = localStorage.getItem(CACHE_TIMESTAMP_KEY);
+        const cacheAge = Date.now() - parseInt(cacheTimestamp || '0');
+        
+        if (cachedGames && cacheAge < CACHE_MAX_AGE) {
+            console.log('⚠ Using fallback cached data due to error (cache age: ' + 
+                        Math.round(cacheAge / 60000) + ' minutes)');
+            return JSON.parse(cachedGames);
+        }
+        
+        throw error;
+    }
+}
+
 // Loading games from GitHub API
 export async function loadGamesFromAppIds(appIds) {
     const loadingDiv = document.getElementById('loading');
@@ -152,34 +230,27 @@ async function processGameData(appId, achievementsData, gameInfo = null) {
 
 // Initialization
 export async function init() {
-    // Removed checkPassport call as we now rely only on URL parameters
-
     document.getElementById('loading').style.display = 'block';
 
     if (!userInfo) {
         userInfo = getGitHubUserInfo();
         baseUrl = `https://raw.githubusercontent.com/${userInfo.username}/${userInfo.repo}/user/`;
     }
-    // --- NEW: Fetch correct casing from GitHub API (Hub Logic) ---
+    
+    // Fetch correct casing from GitHub API (Hub Logic)
     try {
-        // Only try to fetch if we are actually on a GitHub Pages site (not local/default)
         if (userInfo.username !== 'User') {
             const repoResponse = await fetch(`https://api.github.com/repos/${userInfo.username}/${userInfo.repo}`);
             if (repoResponse.ok) {
                 const repoData = await repoResponse.json();
-                
-                // Apply the correctly cased username and repo name
                 userInfo.username = repoData.owner.login;
                 userInfo.repo = repoData.name;
-                
-                // Update the base URL with the corrected names
                 baseUrl = `https://raw.githubusercontent.com/${userInfo.username}/${userInfo.repo}/user/`;
             }
         }
     } catch (e) {
         console.log('Could not fetch repo info for casing correction', e);
     }
-    // -----------------------------------------------------------
 
     window.githubUsername = userInfo.username;
     window.githubAvatarUrl = userInfo.avatarUrl;
@@ -216,15 +287,11 @@ export async function init() {
             }
         }
 
-        // Fallback to game-data.json
-        const dataResponse = await fetch(baseUrl + 'game-data.json');
-        if (dataResponse.ok) {
-            const gameData = await dataResponse.json();
-            await loadGamesFromData(gameData);
-            return;
-        }
+        // Fallback to game-data.json with smart caching
+        const gameData = await loadGameDataWithCache();
+        await loadGamesFromData(gameData);
+        return;
 
-        throw new Error('Could not scan AppID folders');
     } catch (error) {
         console.error('Error scanning folders:', error);
         document.getElementById('loading').style.display = 'none';
