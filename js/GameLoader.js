@@ -5,16 +5,14 @@ let baseUrl = `https://raw.githubusercontent.com/${userInfo.username}/${userInfo
 export const gamesData = new Map();
 
 // Smart cache management
-const CACHE_VERSION_KEY = 'game-data-version';
+const CACHE_TIMESTAMP_KEY = 'game-data-last-updated';
 const CACHE_DATA_KEY = 'game-data-cache';
-const CACHE_TIMESTAMP_KEY = 'game-data-timestamp';
 const CACHE_MAX_AGE = 60 * 60 * 1000; // 1 hour - fallback if fetch fails
 
 async function loadGameDataWithCache() {
     try {
-        const cachedVersion = localStorage.getItem(CACHE_VERSION_KEY);
+        const cachedTimestamp = localStorage.getItem(CACHE_TIMESTAMP_KEY);
         const cachedGames = localStorage.getItem(CACHE_DATA_KEY);
-        const cacheTimestamp = localStorage.getItem(CACHE_TIMESTAMP_KEY);
         
         // Fetch game-data.json (always check for updates)
         const dataResponse = await fetch(baseUrl + 'game-data.json', {
@@ -27,37 +25,41 @@ async function loadGameDataWithCache() {
         
         const data = await dataResponse.json();
         
-        // Handle both old format (array) and new format (object with version)
-        let games, version, isNewFormat;
+        // Handle both old format (array) and new format (object with timestamp)
+        let games, lastUpdated, isNewFormat;
         
         if (Array.isArray(data)) {
-            // Old format - no versioning
-            console.log('Using old format game-data.json (no versioning)');
+            // Old format - no timestamp
+            console.log('Using old format game-data.json (no timestamp)');
             games = data;
-            version = 'legacy';
+            lastUpdated = null;
             isNewFormat = false;
         } else if (data.games && Array.isArray(data.games)) {
-            // New format with versioning
+            // New format with timestamp
             games = data.games;
-            version = data.version || 'unknown';
+            lastUpdated = data.last_updated;
             isNewFormat = true;
-            console.log(`Game data version: ${version}`);
+            
+            if (lastUpdated) {
+                const updateDate = new Date(lastUpdated * 1000);
+                console.log(`Game data last updated: ${updateDate.toLocaleString()}`);
+            }
         } else {
             throw new Error('Invalid game-data.json format');
         }
         
-        // Check if version changed
-        if (isNewFormat && version === cachedVersion && cachedGames) {
+        // Check if timestamp changed
+        if (isNewFormat && lastUpdated && cachedTimestamp && 
+            lastUpdated.toString() === cachedTimestamp && cachedGames) {
             console.log('✓ Using cached game data - no changes detected');
             return JSON.parse(cachedGames);
         }
         
-        // Version changed, no cache, or old format - use fresh data
-        if (isNewFormat) {
+        // Timestamp changed, no cache, or old format - use fresh data
+        if (isNewFormat && lastUpdated) {
             console.log('✓ Game data changed, updating cache');
-            localStorage.setItem(CACHE_VERSION_KEY, version);
+            localStorage.setItem(CACHE_TIMESTAMP_KEY, lastUpdated.toString());
             localStorage.setItem(CACHE_DATA_KEY, JSON.stringify(games));
-            localStorage.setItem(CACHE_TIMESTAMP_KEY, Date.now().toString());
         } else {
             console.log('⚠ Old format detected - caching disabled');
         }
@@ -69,13 +71,17 @@ async function loadGameDataWithCache() {
         
         // Fallback to cached data if available and not too old
         const cachedGames = localStorage.getItem(CACHE_DATA_KEY);
-        const cacheTimestamp = localStorage.getItem(CACHE_TIMESTAMP_KEY);
-        const cacheAge = Date.now() - parseInt(cacheTimestamp || '0');
+        const cachedTimestamp = localStorage.getItem(CACHE_TIMESTAMP_KEY);
         
-        if (cachedGames && cacheAge < CACHE_MAX_AGE) {
-            console.log('⚠ Using fallback cached data due to error (cache age: ' + 
-                        Math.round(cacheAge / 60000) + ' minutes)');
-            return JSON.parse(cachedGames);
+        if (cachedGames && cachedTimestamp) {
+            const now = Math.floor(Date.now() / 1000);
+            const cacheAge = (now - parseInt(cachedTimestamp)) * 1000;
+            
+            if (cacheAge < CACHE_MAX_AGE) {
+                console.log('⚠ Using fallback cached data due to error (cache age: ' + 
+                            Math.round(cacheAge / 60000) + ' minutes)');
+                return JSON.parse(cachedGames);
+            }
         }
         
         throw error;

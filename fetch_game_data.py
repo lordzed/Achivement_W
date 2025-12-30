@@ -600,24 +600,8 @@ for folder in appid_dir.iterdir():
                 }
             )
 
-# --- Generate content hash for versioning --- #
-# Create simplified data for hashing (exclude volatile data like percentages)
-hash_data = []
-for game in all_game_data:
-    hash_data.append({
-        "appid": game["appid"],
-        "name": game.get("info", {}).get("name", ""),
-        "achievements": sorted(list(game.get("achievements", {}).keys()))
-    })
-
-# Generate hash
-game_data_str = json.dumps(hash_data, sort_keys=True)
-data_hash = hashlib.md5(game_data_str.encode()).hexdigest()
-version = data_hash[:8]  # Use first 8 characters as version
-
 # Wrap games with metadata
 final_output = {
-    "version": version,
     "last_updated": int(time.time()),
     "total_games": len(all_game_data),
     "games": all_game_data
@@ -625,4 +609,3 @@ final_output = {
 
 save_json_file(game_data_path, final_output)
 print(f"\n✓ Updated {len(appids)} game(s), total games in data: {len(all_game_data)}")
-print(f"✓ Content version: {version}")
