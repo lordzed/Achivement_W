@@ -5,8 +5,9 @@ let baseUrl = `https://raw.githubusercontent.com/${userInfo.username}/${userInfo
 export const gamesData = new Map();
 
 // Smart cache management
-const CACHE_TIMESTAMP_KEY = 'game-data-last-updated';
-const CACHE_DATA_KEY = 'game-data-cache';
+const CACHE_VERSION = 'v2'; // Increment this to force cache refresh
+const CACHE_TIMESTAMP_KEY = `game-data-last-updated-${CACHE_VERSION}`;
+const CACHE_DATA_KEY = `game-data-cache-${CACHE_VERSION}`;
 const CACHE_MAX_AGE = 60 * 60 * 1000; // 1 hour - fallback if fetch fails
 
 async function loadGameDataWithCache() {
