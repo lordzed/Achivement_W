@@ -61,7 +61,7 @@
   "SPG-EagleScout": { "earned": false, "earned_time": 0 },
   "SPG-EmpireBuilder": { "earned": false, "earned_time": 0 },
   "SPG-PlanetKiller": { "earned": false, "earned_time": 0 },
-  "SPG-QuestMaster": { "earned": true, "earned_time": 1766340000 },
+  "SPG-QuestMaster": { "earned": true, "earned_time": 1766349000 },
   "SPG-Gunner": { "earned": true, "earned_time": 1766325600 },
   "SPG-IdentityCrisis": { "earned": false, "earned_time": 0 },
   "SPG-Thief": { "earned": false, "earned_time": 0 },
@@ -150,4 +150,5 @@
   "ADV-The Critic": { "earned": false, "earned_time": 0 },
   "ADV-Top Seller": { "earned": false, "earned_time": 0 },
   "alg-badbaby": { "earned": false, "earned_time": 0 }
+
 }
