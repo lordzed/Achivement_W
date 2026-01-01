@@ -9,6 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/a2c57282953581ff649311a38c4b09580378e354.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "7.6"
     },
     "trophy_08_keeper_event": {
@@ -17,6 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/f306df873879376ae14f90977e0307b38fe840d6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "37.5"
     },
     "trophy_13_sandsurf_total": {
@@ -25,7 +27,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/777bed54232532499f6e9a001ae57d0088889146.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
-      "percent": "34.6"
+      "group": "Base Game",
+      "percent": "34.7"
     },
     "trophy_14_aerial_control": {
       "name": "Airborne",
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/3c838f0af1430dce323b6fb2520f9a4ac2092d36.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "12.4"
     },
     "trophy_30_upgrade_stone_max": {
@@ -41,6 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/4842b767c769003de8fc603934f90964ec5f6612.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "24.1"
     },
     "trophy_29_treasure_hunt": {
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/31561d5e1452a8ec2c55f016012385ce9b8e1165.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "3.4"
     },
     "trophy_24_armor_upgrade_all": {
@@ -57,6 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/312eda829fa90f2981e1f606b53f4467386a692d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.6"
     },
     "trophy_21_travelling_vendor": {
@@ -65,6 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/b5598b2d0ffac7093535c7b14e676cd35ffb74de.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "20.1"
     },
     "trophy_01_level1_complete": {
@@ -73,6 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/7214d460bb22769180ff479084820520ec081c44.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "77.0"
     },
     "trophy_04_level4_complete": {
@@ -81,6 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/76a6a6ec262d646d119549d904fd149be9611755.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "18.1"
     },
     "trophy_07_watchtowers": {
@@ -89,6 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/42a3d5d1b495df97bfc70dcf828db7b02dd61c11.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "10.3"
     },
     "trophy_16_shatter_full": {
@@ -97,6 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/3b3b0a2f6c4d6d2d9e52533fc971ca44321c68ed.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "30.6"
     },
     "trophy_27_sun_god_statues": {
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/7b065322409597e2a812a62d03c00ee21d4a7211.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.0"
     },
     "trophy_25_armor_dye": {
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/9a5c631714f937827f4ae75a20fd602c27d5dbcd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "34.0"
     },
     "trophy_35_vanity_items": {
@@ -121,6 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/d8c83f7f06a1296ff86954717087b7a445e46dec.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.3"
     },
     "trophy_02_level2_complete": {
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/564e89b1d5bb2d946a430c13c1041c463f1c47ce.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "35.5"
     },
     "trophy_22_all_armors": {
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/b16d04a5616aba318bded767e060a50827c314c0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "9.8"
     },
     "trophy_20_size3_kill_special": {
@@ -145,6 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/f55511215ef38c9e4d1740353c283bc28f92e84c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "13.4"
     },
     "trophy_11_all_anvils": {
@@ -153,6 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/9f01d78d4af3ba055e525661d03e356c4d50a5db.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.3"
     },
     "trophy_23_armor_upgrade_max": {
@@ -161,6 +180,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/35668bdb2ad4bf9bb026729891ebacbe0553ac7f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "36.6"
     },
     "trophy_06_level6_complete": {
@@ -169,6 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/9ae18acbc9b4b20b25218c126925df4fefe339a2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "15.9"
     },
     "trophy_28_animal_treasure": {
@@ -177,6 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/56233776a5a5387503fd01fb2b124463b9c2365d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "36.9"
     },
     "trophy_33_mine_kill_special": {
@@ -185,6 +207,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/5aaa315181a4ac912d490cc4847a6f76a90ae318.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "16.7"
     },
     "trophy_39_dlc_watcher_challenge": {
@@ -193,6 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/f381c1b49eb9c5b9731cfbbe9932d9b58034176a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
+      "group": "Atlas Fallen: Reign of Sand - Free Upgrade",
       "percent": "20.5"
     },
     "trophy_03_level3_complete": {
@@ -201,6 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/90706fb7980f887e895d1f465134e0d6e3ef8481.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "29.4"
     },
     "trophy_26_lore_items": {
@@ -209,6 +234,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/cf7b8d847ffdd9ad99a0cab6b25d21f0c4f0698d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "32.6"
     },
     "trophy_12_all_upgrade_shards": {
@@ -217,6 +243,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/e4cc8a8c15a3b137e9ceb63c171641bf6f466717.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.8"
     },
     "trophy_18_shatter_multi": {
@@ -225,6 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/4371c6bd76da609f145ba9efd752a67c6efbdafe.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "33.6"
     },
     "trophy_17_shatter_kill_count": {
@@ -233,6 +261,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/5b6843924dcb812c07e1f252db8c538f8509505f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "12.1"
     },
     "trophy_19_elite_enemies": {
@@ -241,6 +270,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/05cea48fb32bf62606bcf13e33952da3598ddd29.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.2"
     },
     "trophy_31_stone_collection": {
@@ -249,6 +279,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/101daa3a26f8153de81b19f8d14c0b008e1aca33.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "33.8"
     },
     "trophy_38_summiter": {
@@ -257,6 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/22640ed313611c4678337e14726c793fc67dde36.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "4.6"
     },
     "trophy_34_collectables": {
@@ -265,6 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/a8c209fcacbb1e5ebdc85d48ce8f930452c15573.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "36.4"
     },
     "trophy_40_dlc_thelos_questline": {
@@ -273,6 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/0ef664971b2830689553628cecbfb046a7b26bd5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
+      "group": "Atlas Fallen: Reign of Sand - Free Upgrade",
       "percent": "7.5"
     },
     "trophy_09_prisoner": {
@@ -281,6 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/4a242a5042f653ca5f2bf39b8e930eccc737fd4d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "17.9"
     },
     "trophy_05_level5_complete": {
@@ -289,6 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/0aa6ddd7996739253cf0dce0dbbb7bb4886129b2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "16.0"
     },
     "trophy_15_currency": {
@@ -297,7 +333,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/59966b9151c6c4962a7a89219956d79e86414ba0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
-      "percent": "31.7"
+      "group": "Base Game",
+      "percent": "31.6"
     },
     "trophy_10_all_weapons": {
       "name": "Trinity",
@@ -305,6 +342,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/7a43f771586842d8f3bf25f76eb87e8bf0e794a2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "42.1"
     }
   },

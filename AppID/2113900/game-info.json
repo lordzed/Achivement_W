@@ -9,7 +9,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
-      "percent": "5.9"
+      "group": "Update 3",
+      "percent": "5.8"
     },
     "TOFU_DELIVERY_DESTROYED": {
       "name": "10 Second Car",
@@ -17,7 +18,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
-      "percent": "6.2"
+      "group": "Update 3",
+      "percent": "6.1"
     },
     "AROUND_THE_WORLD": {
       "name": "Around the world",
@@ -25,6 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
+      "group": "Update 1",
       "percent": "0.4"
     },
     "TUTORIAL_BASIC_CONTROLS": {
@@ -33,7 +36,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
-      "percent": "59.5"
+      "group": "Update 1",
+      "percent": "59.7"
     },
     "TUTORIAL_BASIC_DRIFT": {
       "name": "Basic Drift",
@@ -41,7 +45,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
-      "percent": "40.9"
+      "group": "Base Game",
+      "percent": "41.0"
     },
     "TOFU_DELIVERY_UNDER_25": {
       "name": "Better Than Nothing",
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/822dfabb22a4fb0358b2ff33cdb61e927edaa843.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/d94ca62ff284d87de6bdfe922ac871936acdcc32.jpg",
       "hidden": false,
+      "group": "Update 3",
       "percent": "7.1"
     },
     "TUTORIAL_BRAKE": {
@@ -57,7 +63,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
-      "percent": "56.9"
+      "group": "Update 1",
+      "percent": "57.0"
     },
     "BREAKING_IN": {
       "name": "Breaking In",
@@ -65,6 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
+      "group": "Update 2",
       "percent": "6.8"
     },
     "DEAD_CAR_BATTERY": {
@@ -73,6 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/ede9f5f784043fa7af6af75c1abfe27551e4d420.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/3a971991c515487a72762aa151afbab71534457c.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.9"
     },
     "ENDURANCE_RACER": {
@@ -81,6 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
+      "group": "Update 2",
       "percent": "1.3"
     },
     "FIRST_TOFU_DELIVERY": {
@@ -89,6 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
+      "group": "Update 3",
       "percent": "17.7"
     },
     "GOLD_MEDAL": {
@@ -97,7 +108,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
-      "percent": "33.1"
+      "group": "Base Game",
+      "percent": "33.0"
     },
     "STALL_CAR": {
       "name": "Learner's Permit",
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "55.2"
     },
     "TUTORIAL_KANSEI": {
@@ -113,7 +126,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
-      "percent": "40.4"
+      "group": "Base Game",
+      "percent": "40.5"
     },
     "PLATINUM_MEDAL": {
       "name": "Platinum Medal",
@@ -121,6 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "9.0"
     },
     "JUMP_START_CAR": {
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.5"
     },
     "SOAPBOX_CAR": {
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
+      "group": "Update 1",
       "percent": "1.7"
     },
     "SPECIALIST_MEDAL": {
@@ -145,7 +162,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
-      "percent": "5.1"
+      "group": "Base Game",
+      "percent": "5.0"
     },
     "WIN_FREEROAM_RACE": {
       "name": "Street Racer",
@@ -153,6 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "16.6"
     },
     "WELCOME": {
@@ -161,7 +180,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/3efaa8c12e0d3fe80c0fe5e571e523a5fbe6f330.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/5818af4ef0d01e6ff6685b3b10d81afd589dd8d7.jpg",
       "hidden": true,
-      "percent": "71.7"
+      "group": "Update 4",
+      "percent": "72.0"
     },
     "WHERE_ARE_YOU_GOING": {
       "name": "Where are you going?",
@@ -169,7 +189,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
-      "percent": "7.8"
+      "group": "Update 1",
+      "percent": "7.9"
     }
   },
   "platform": null,

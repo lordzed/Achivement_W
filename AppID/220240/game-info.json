@@ -9,6 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/7317ae2069366c9e09be58fef98368ddf4a83362.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/74956e829a113d42d6cdf8a355ca61c2c034320b.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.3"
     },
     "FarCry3_Ach_22": {
@@ -17,6 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/ed9fed445dfa365376bdbacb9fbe5286ec276024.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/29e3a0d3b5b7e06defaf9b58a210155dd383ad4a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.8"
     },
     "FarCry3_Ach_33": {
@@ -25,7 +27,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/a5688a723067ccf03c78cbe47c0434b2fba85143.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/a07585930433abaa7801908716d0ae9be1721659.jpg",
       "hidden": false,
-      "percent": "9.4"
+      "group": "Base Game",
+      "percent": "9.5"
     },
     "FarCry3_Ach_26": {
       "name": "Bagged and Tagged",
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/390aff61b435ed07c2ad25e7c1bd652f483419ac.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/f6e9e365948a43cda7c6684f1c2dee95917a3e5e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "8.6"
     },
     "FarCry3_Ach_23": {
@@ -41,6 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/aac4100bd9601ad824b0f7ada7ed2485cdd4e86f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/b59160d47135cbbffbbbc839708f9dc71f407664.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.6"
     },
     "FarCry3_Ach_10": {
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/57f79876f1fcb3969a70f049e3d201145ddac16f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/aa6a818915ca8c82979c008eeb41431632ea2aa4.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.5"
     },
     "FarCry3_Ach_44": {
@@ -57,7 +63,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/4eeefb5f4b587fba9f453b570154d1d0c5c11613.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/f0e3e214af0990c0a41c01e5bc816251082450b0.jpg",
       "hidden": false,
-      "percent": "2.4"
+      "group": "Base Game",
+      "percent": "2.5"
     },
     "FarCry3_Ach_1": {
       "name": "First Blood",
@@ -65,7 +72,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/07ff0ae5e79913c8755b6cfd31f23d04df2127a0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/007a501957b25b3303be7991930306152a2c7a87.jpg",
       "hidden": false,
-      "percent": "13.5"
+      "group": "Base Game",
+      "percent": "13.6"
     },
     "FarCry3_Ach_13": {
       "name": "Free Fall",
@@ -73,6 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/9e696d74ddbabfd49ce12ac873892d2164343c3a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/f11b03cd43ce55a183072864e05c0448e202a61c.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.1"
     },
     "FarCry3_Ach_21": {
@@ -81,6 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/b792915c0a739a0585917fc6c0ade610a60eb595.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/2471c01660aabc131235c8c74b6e236360d54810.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.2"
     },
     "FarCry3_Ach_15": {
@@ -89,6 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/65288f4d3ce57564866d04fa735b45b1842aa5c8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/46ea55896cc0c10dace1e4b0b7b462a71477e657.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.6"
     },
     "FarCry3_Ach_5": {
@@ -97,6 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/f16ea2079f61a4ed8fdb649ecffcaaecadafcf82.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/33bdf0611fe2cf7627107775a9758e5ba828e24a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.3"
     },
     "FarCry3_Ach_7": {
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/fb77b9a7e1c20c16e9d907b364304af1baff6f7e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/900e0d1ed0efad739b275a2b03dc04f7d7075033.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.5"
     },
     "FarCry3_Ach_37": {
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/50e096c6d2a08c23dfb75e744ab80a4e618e2195.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/e08a935e4b51d01205599825490fda91a1f1ea66.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.4"
     },
     "FarCry3_Ach_9": {
@@ -121,6 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/f19f5321958e4b951a935282419d13e859522e81.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/d6fd2361865018788d679519e6780997a991a3e0.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.3"
     },
     "FarCry3_Ach_31": {
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/9cb26d829d76bd4b3ba7ee3dc380cbc2ac454735.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/c8d258ea0475b4badb3f45b50a69b8f059a5693e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "11.1"
     },
     "FarCry3_Ach_41": {
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/26365a9ee4dd4e13893226fc278f34cc0c12f334.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/473eb569f880b137daf8f714bc0cf5bb3f5da721.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.9"
     },
     "FarCry3_Ach_28": {
@@ -145,6 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/b074f7327e014d8d586d083f35c2a0fdc2e1730f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/bc990aff136fc8138a5e7868355865991bb9f6bc.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "8.9"
     },
     "FarCry3_Ach_14": {
@@ -153,6 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/08516e09466e885a45b2c77414a73a2f9dbfa20a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/fe2fe5644caa2ece8d6f5abd380901d67cfca7b4.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "10.1"
     },
     "FarCry3_Ach_19": {
@@ -161,6 +180,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/3a3de6b723461f442d3cf5da0cac4bc3057d635a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/aa6fce8e0ff01d911b1b8e73154caf2e50daf39d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.7"
     },
     "FarCry3_Ach_43": {
@@ -169,7 +189,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/ebb922c166371beb8e193730af55636c454a8f37.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/75a7b596381fcd2e726561e2f4313019e1174c4e.jpg",
       "hidden": false,
-      "percent": "8.2"
+      "group": "Base Game",
+      "percent": "8.3"
     },
     "FarCry3_Ach_25": {
       "name": "Jungle Journal",
@@ -177,6 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/37db14438251f76001396dd58ebca3863814422c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/aa564009e709c65a4fd6382518e2eb648c45dee5.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "9.1"
     },
     "FarCry3_Ach_29": {
@@ -185,7 +207,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/80cfdcef3c3ce85ff2b53cac548740c3b3e916f0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/8abe6db3e062fb4af837608163dc5e2e87e2e3de.jpg",
       "hidden": false,
-      "percent": "5.7"
+      "group": "Base Game",
+      "percent": "5.8"
     },
     "FarCry3_Ach_38": {
       "name": "Love the Boom",
@@ -193,6 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/9a3d87da1602405c3389fe39ee721c392e596c74.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/ec98b73f616343251cb0328e84d28060ee1d67d5.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.2"
     },
     "FarCry3_Ach_2": {
@@ -201,6 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/c60ebf677749e56087a1bb1e50b179af8bed263d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/941ab6fbe811de92f1e5683e027218113d712ad6.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "10.6"
     },
     "FarCry3_Ach_24": {
@@ -209,6 +234,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/f1cf3bf72448872c7960e07b5f6593856ee17322.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/a69a7cdf03152cef7bea09cf8ed4d04fd49e4921.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.5"
     },
     "FarCry3_Ach_16": {
@@ -217,6 +243,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/40b541f4a1303e626fa66afcfabf4a0654a4e351.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/9716a372757a0e586505d4c9cb01d9936dcf1679.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.9"
     },
     "FarCry3_Ach_34": {
@@ -225,6 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/3f16069f7db29d9eea1f70c5f357c464ce234d37.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/8f0db6de4cccaed5357e42f55eae81fcc01a2da6.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.8"
     },
     "FarCry3_Ach_40": {
@@ -233,6 +261,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/8f929435ac6d6ccf9df5955628126bb6e8263c23.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/07350169d7a2928e5d748915f034149e2ad08ebf.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.6"
     },
     "FarCry3_Ach_4": {
@@ -241,6 +270,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/99c359c13454546e25911f5ad74f1640e3200ae9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/a0fabf2497ebb874945a4e532600900706d29350.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "8.4"
     },
     "FarCry3_Ach_32": {
@@ -249,6 +279,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/614e3943fbebcee0bd9bc835746b18c6cc676ef2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/cab5f75ee8080d9c69b93828cf17d90c5ab6f4f3.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.1"
     },
     "FarCry3_Ach_30": {
@@ -257,6 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/0e012a593ce7c4a7f2a20ef132700d59df7f04e6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/1cc3cfa5d752f38be346437ce218d9ba13c6f23e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.3"
     },
     "FarCry3_Ach_11": {
@@ -265,6 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/995b304fcab1e909752b70c05a4ba22bcfa1ba43.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/ba220ab5bd0d78a9daee675891e8efa9c66965c7.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.2"
     },
     "FarCry3_Ach_18": {
@@ -273,7 +306,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/0fba9c684361af00578cc4b0e96994b0930556ea.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/441d07c673da19f7f2fa17a58253ebf5706efa9d.jpg",
       "hidden": false,
-      "percent": "9.0"
+      "group": "Base Game",
+      "percent": "9.1"
     },
     "FarCry3_Ach_6": {
       "name": "Retake Wall Street",
@@ -281,6 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/5cfac618f452a18fd57cec811bd362ea35547ada.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/1ea2203d83fe51b097d3d7001c2b861a103dec3c.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.7"
     },
     "FarCry3_Ach_27": {
@@ -289,7 +324,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/7cfacd38cf75676e2a62ee725b08eab8b18a02d5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/a4d9da3c5d41102ae992e3026e9897cb605faa5e.jpg",
       "hidden": false,
-      "percent": "7.8"
+      "group": "Base Game",
+      "percent": "7.9"
     },
     "FarCry3_Ach_39": {
       "name": "Rock Always Wins",
@@ -297,6 +333,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/27c623d047cb91e9ed8bd8f21760a4a2981ea1b4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/37e88d3d6cc022525fb1af94bded4929d0f68f81.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.8"
     },
     "FarCry3_Ach_36": {
@@ -305,6 +342,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/0a9853e83ac6de5b356e05da79ed98247f0f3487.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/01e4ec7939a77210f3edc4120c17ac6269f124ba.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.6"
     },
     "FarCry3_Ach_8": {
@@ -313,6 +351,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/b82281c54dc969d10b0e55c869e50caf0c4c7158.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/16c38addbd58ca408bed51a798fc64fa98d96eef.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.4"
     },
     "FarCry3_Ach_35": {
@@ -321,6 +360,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/76e908fa6156f609c1031b25c7e2ef7c1000cbe1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/60c418cb954ac5ee7c3f4ff24727eef90bc1944c.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.8"
     },
     "FarCry3_Ach_42": {
@@ -329,6 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/c0be71e807e4d6a0174baabfa0ab570cca03c684.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/6f14b24c847d9ff08a15bd083fd9d6bf2e9cd15b.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.1"
     },
     "FarCry3_Ach_20": {
@@ -337,6 +378,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/8cb88df572e5e3b75d7a63060589c771e416b563.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/2fb01976bc773c48903a646a0703492026789fe6.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "9.5"
     },
     "FarCry3_Ach_12": {
@@ -345,6 +387,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/1da89c1e8ef362418051bbf1e79945a5b8f740f8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/171f6275b2ef69c96f0bef71bb6bde83ba48548d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.1"
     },
     "FarCry3_Ach_3": {
@@ -353,6 +396,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/2469a54c7518c8f1313014ad62c909dc4edcf2df.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220240/b8f592145912d253bd1976087c41a4c5fb2a1f71.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "9.0"
     }
   },

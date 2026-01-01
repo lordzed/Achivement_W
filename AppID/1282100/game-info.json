@@ -9,6 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/1e4a871832a7abcc65426ff2dba6a3ec6787c4dc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Remnant II® - The Awakened King",
       "percent": "5.1"
     },
     "Obtain_Traits_B": {
@@ -17,6 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/96a0dc536bd975e3da4cd1ef9a1a8dfbb1e01e7d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "39.0"
     },
     "Upgrade_Boss_Weapon_B": {
@@ -25,6 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/e981cfe9e87ff881b60ade613fdd07a421a8482c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "52.9"
     },
     "Defeat_Abberations_A": {
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/c2e7eaba84a9f84edea252f08550119a39ba2eec.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "40.9"
     },
     "DLC3_Obtain_SpiritAlternator": {
@@ -41,6 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/f9170676370fb32e8187f5c8bb0d6ec6a7e807b4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Remnant II® - The Dark Horizon",
       "percent": "3.5"
     },
     "Obtain_Blood_Moon_Item": {
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/ffe240a8f91d43ceb9bd919aaecbe20bba9fde1f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "37.5"
     },
     "Meet_Nimue": {
@@ -57,6 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/9b2690565b42df570057cdb65165d1a9827c1d4e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "58.0"
     },
     "Obtain_Boss_Weapon": {
@@ -65,6 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/3ad122fd656281eb8ebbffe206924b042d4a865d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "66.4"
     },
     "Obtain_Water_Harp_Item": {
@@ -73,6 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/b4ef3459fcbca1b043277768862c776c13b2a24b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "24.7"
     },
     "Defeat_Corrupted_Ravager": {
@@ -81,6 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/59d0e404961a12bca198810b21c5a531101497ca.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "43.1"
     },
     "Craft_Weapon_Mod_B": {
@@ -89,6 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/f6e78aaaa239a9905f9eb605e77bd75c86b0c7ff.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "19.5"
     },
     "Obtain_Melee_Weapons_B": {
@@ -97,6 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/fcb971d391918b19d951d9bdb755dde93b96d6d4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "16.2"
     },
     "Defeat_Nightweaver": {
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/04e0d5f208a1fae06d5189328830682f6dd1b480.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "46.4"
     },
     "Obtain_Archetype_Dual": {
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/bdd753ad6d2a612f32b92eff0d34973722481e4f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "59.8"
     },
     "Obtain_Melee_Weapons_A": {
@@ -121,6 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/dd3bb04891a7760dd0e7b65017573c4ee377bfce.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "30.1"
     },
     "Meet_Meidra": {
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/829db512c461c3f6f0790112b1eaebe69ca0bef5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "53.6"
     },
     "Craft_Weapon_Mod_A": {
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/f7b02e9a90cff3a2a919655e2148b6550720ea54.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "72.6"
     },
     "Meet_Flautist": {
@@ -145,6 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/072f27f9f86758e11850011eadd20c8460f10c52.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "65.8"
     },
     "Obtain_Archetype": {
@@ -153,6 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/98d536e66e10f8bece048185c08f6152fa97d0ba.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "92.9"
     },
     "Defeat_Final_Boss": {
@@ -161,6 +180,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/b3c161be7dba7be6465df1ba14593cc8b6af2fce.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "41.5"
     },
     "Defeat_Abberations_B": {
@@ -169,6 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/f77fba51aa7f3a94d8eb048ef2e7b70b04a78bdf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "21.5"
     },
     "Defeat_Cube": {
@@ -177,6 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/4f34d4fd53d9dcde1726f9c753426ea335ae1890.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "67.2"
     },
     "Upgrade_Standard_Weapon_A": {
@@ -185,6 +207,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d5bb8b61fb9b426fd2a4048f6bca517452870e33.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "55.3"
     },
     "Defeat_Tal_Ratha": {
@@ -193,6 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/1d7923cf61e15336a235518c15f8259c55c53fd7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "40.8"
     },
     "Upgrade_Relic": {
@@ -201,6 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/37d499ad0150178d9fb523a2faf4b89af0144a74.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "55.6"
     },
     "DLC2_Obtain_Archetype": {
@@ -209,6 +234,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/4d5a08161b7787b88d302208b301b57f1f9343ca.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Remnant II® - The Forgotten Kingdom",
       "percent": "11.5"
     },
     "DLC3_Obtain_Archetype": {
@@ -217,6 +243,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/0c739537c6fab128fa81611aa8a5c85a9d5789b9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Remnant II® - The Dark Horizon",
       "percent": "8.4"
     },
     "DLC1_Obtain_Archetype": {
@@ -225,6 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/e2b52e79c7ecec15299e717a27ac2069492028e7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Remnant II® - The Awakened King",
       "percent": "18.5"
     },
     "Upgrade_Traits_B": {
@@ -233,6 +261,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/e1a73bd3edd455a40663c8d512b4e870a318e7be.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "23.7"
     },
     "Upgrade_Standard_Weapon_B": {
@@ -241,6 +270,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/3e77257f4c735b70e97eecfce93daf3a3250f199.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "27.3"
     },
     "Meet_Custodian": {
@@ -249,6 +279,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/79bb5f6885794c774e5a60149092187a597065a1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "59.0"
     },
     "Defeat_Special_Enemies": {
@@ -257,6 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/458536322448821d4e020b460ec76e3f8d8f3a3e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "54.6"
     },
     "Obtain_Traits_A": {
@@ -265,6 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/ea355f146cb076fdf1bb983da804c3f638fb4ab5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "80.7"
     },
     "Defeat_Boss_No_Damage": {
@@ -273,6 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/954da31bf70723ee5a0cc03cf9b3bead77500049.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "18.6"
     },
     "Defeat_Guardian": {
@@ -281,6 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/6b15b9ccb5f2b5a26a5aec4c24faacf2e098ecf9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "43.2"
     },
     "Obtain_Traits_C": {
@@ -289,6 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/0ee98f9bfbbefb6240004aff3a06a0500c1e4912.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "14.0"
     },
     "Defeat_World_Boss": {
@@ -297,6 +333,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/580cc8b70c9a97cf7d43691e339de95060d5e49f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "71.4"
     },
     "Discover_Blood_Moon_Room": {
@@ -305,6 +342,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/a8a3cbed240acd6affcfeb75fda9eae12ddbc29e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "23.9"
     },
     "DLC1_Defeat_OneTrueKing": {
@@ -313,6 +351,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/da58d02bb1ce990c7e1e4eaed7468d9c7c9df055.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Remnant II® - The Awakened King",
       "percent": "20.3"
     },
     "DLC2_Complete": {
@@ -321,6 +360,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/60d122b322c63f7471ca389a4c22b28ac66fc50d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Remnant II® - The Forgotten Kingdom",
       "percent": "14.2"
     },
     "Obtain_Scrap_A": {
@@ -329,6 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/e65f31ccccdfe5a5851b6fd5c8481118b3f7505f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "38.9"
     },
     "Obtain_Scrap_B": {
@@ -337,6 +378,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/1c9aa55e7ed16f43a444072c86d4e4d5bfeebbea.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "25.9"
     },
     "Obtain_Archetype_Secret": {
@@ -345,6 +387,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/6060a3adb800e4e9ae0478b93043da90ea265018.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "51.5"
     },
     "DLC3_Obtain_Bastion": {
@@ -353,6 +396,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/0e609f729f9256bb8152a4a097c4b5a21ba53498.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Remnant II® - The Dark Horizon",
       "percent": "5.6"
     },
     "Obtain_Guns_A": {
@@ -361,6 +405,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/aa0e61c9df9355389c072d028b7744086a10f625.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "32.2"
     },
     "DLC1_Discover_True_Ending": {
@@ -369,6 +414,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/be3eb85e50b8465680215c753c6fc8c8c0f83176.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Remnant II® - The Awakened King",
       "percent": "6.9"
     },
     "Meet_Mudtooth": {
@@ -377,6 +423,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/4e64d617fe5f42e91d4c769b0d66824b1951b41b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "31.4"
     },
     "DLC2_Meet_Walt": {
@@ -385,6 +432,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/dd7d386a1828bf599fea8aae239b13abdc2e613f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Remnant II® - The Forgotten Kingdom",
       "percent": "6.4"
     },
     "Discover_Letos_Lab": {
@@ -393,6 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/9230b54f4765eb6b3c72192216a2283b76413b13.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "34.0"
     },
     "DLC2_Upgrade_Item": {
@@ -401,6 +450,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/5d6154eb0e214341da52e96d9407d0713085e6e8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Remnant II® - The Forgotten Kingdom",
       "percent": "5.6"
     },
     "Obtain_Relics": {
@@ -409,6 +459,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/357168989717fc374238b8c0ff9c8c1d3bca8ca8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "17.7"
     },
     "Defeat_Many_Faces": {
@@ -417,6 +468,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/25745324ecbddbe9bc3ed979f83fa1bcbae83147.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "43.5"
     },
     "Defeat_Mantis": {
@@ -425,6 +477,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/a93d360d5938529e6696ed881b20c930bafc1883.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "96.1"
     },
     "DLC3_Obtain_Redeemer": {
@@ -433,6 +486,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/036570cf0196eb9eaa56fd9b89ec775f24e01aac.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Remnant II® - The Dark Horizon",
       "percent": "2.1"
     },
     "Obtain_Guns_B": {
@@ -441,6 +495,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/f3ed2cddbccf702337d3ced11235db1d753925f7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "16.4"
     },
     "DLC3_Complete": {
@@ -449,6 +504,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/aa5af4ea18f5b8325a13776ef494484f88c354eb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Remnant II® - The Dark Horizon",
       "percent": "9.8"
     },
     "Upgrade_Boss_Weapon_A": {
@@ -457,6 +513,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/305b7f7534e6beed1e6a31803e6684b644782c2d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "28.6"
     },
     "Obtain_Nightweaver_Item": {
@@ -465,6 +522,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/6a59df7c19b075ba1c9365b76e174cc5633b4e2e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "42.9"
     },
     "Obtain_Archetype_Level": {
@@ -473,6 +531,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/fdaa0ed7a26beb9f7272862caae723d460663f5f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "54.7"
     },
     "Upgrade_Traits_A": {
@@ -481,6 +540,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/875a3cd205db05e167e00c5869a4617b9bfb261f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "66.0"
     },
     "Defeat_Faelin_Faerin": {
@@ -489,6 +549,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/018bdffbe7a348a2b8721abd8dd07ca91d4132f4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "43.9"
     },
     "Upgrade_Weapon_Mutator": {
@@ -497,6 +558,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/413c25decfbb995a10e0b0eea1d224b657846779.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "29.1"
     },
     "DLC2_Obtain_Crossbow": {
@@ -505,6 +567,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/668b06b007fc54244689371131a29eb026a98a95.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Remnant II® - The Forgotten Kingdom",
       "percent": "4.9"
     },
     "Obtain_Boss_Alt_Reward": {
@@ -513,6 +576,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/dddd68062440ee7e333362e7092f50ac4940fff5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "43.8"
     },
     "DLC1_Obtain_Warden_Reward": {
@@ -521,6 +585,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/e3e74781342ef582392e62a84fd46a9d8e8e6c99.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
+      "group": "Remnant II® - The Awakened King",
       "percent": "6.9"
     }
   },
