@@ -77,16 +77,43 @@ async def fetch_steamhunters_achievements(appid):
             await page.evaluate(
                 """() => { const scripts = Array.from(document.querySelectorAll('script')); const target = scripts.find(s => s.textContent.includes('var sh')); eval(target.textContent); }"""
             )
-            achievements = await page.evaluate(
-                """() => sh?.model?.listData?.pagedList?.items || []"""
-            )
+            
+            # Fetch the entire data model
+            sh_model = await page.evaluate("""() => sh?.model || {}""")
+            
+            # 1. Build a lookup map for Update IDs -> Group Names
+            updates_map = {}
+            if "updates" in sh_model:
+                for update in sh_model["updates"]:
+                    u_id = update.get("updateId")
+                    
+                    # Robust Naming Logic:
+                    # 1. Official DLC Name
+                    if update.get("dlcAppName"):
+                        name = update.get("dlcAppName")
+                    # 2. Steam Event Name (e.g. "Summer Sale")
+                    elif update.get("steamEventName"):
+                        name = update.get("steamEventName")
+                    # 3. Base Game detection (Update #0 and no DLC ID)
+                    elif update.get("updateNumber", 0) == 0 and not update.get("dlcAppId"):
+                         name = "Base Game"
+                    # 4. Numbered Content Update (e.g. "Update 1.5")
+                    elif update.get("updateNumber", 0) > 0:
+                        name = f"Update {update.get('updateNumber')}"
+                    # 5. Fallback
+                    else:
+                        name = "Base Game" 
+                        
+                    updates_map[u_id] = name
+
+            # 2. Process the achievements items
+            achievements = sh_model.get("listData", {}).get("pagedList", {}).get("items", [])
             
             results = []
             for item in achievements:
-                # Extract group name safely
-                group_name = "Base Game"
-                if item.get("group") and isinstance(item.get("group"), dict):
-                    group_name = item.get("group", {}).get("name", "Base Game")
+                # Use the updateId to find the group name
+                update_id = item.get("updateId", 0)
+                group_name = updates_map.get(update_id, "Base Game")
                 
                 results.append({
                     "name": item.get("apiName"),
