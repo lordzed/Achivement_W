@@ -200,13 +200,16 @@ function renderGamesGrid(resultsDiv) {
                     return platform.toLowerCase().includes(term);
                 }
                 
-                // 4. Check Achievements
+                // 4. Check Achievements (UPDATED FIX)
                 if (currentSearchType === 'achievement') {
-                    return game.achievements.some(ach => 
-                        (ach.name && ach.name.toLowerCase().includes(term)) || 
-                        (ach.description && ach.description.toLowerCase().includes(term)) ||
-                        (ach.apiname && ach.apiname.toLowerCase().includes(term))
-                    );
+                    return game.achievements.some(ach => {
+                        // Safely convert properties to strings before lowercasing
+                        const name = String(ach.name || '').toLowerCase();
+                        const description = String(ach.description || '').toLowerCase();
+                        const apiname = String(ach.apiname || '').toLowerCase();
+                        
+                        return name.includes(term) || description.includes(term) || apiname.includes(term);
+                    });
                 }
 
                 return false;
