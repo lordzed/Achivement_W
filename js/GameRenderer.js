@@ -144,10 +144,17 @@ function renderSummary(summaryDiv, totalGames, perfectGames, totalUnlocked, tota
 
     const gamerCard = window.gamerCardHTML || '';
 
+    // Check if we're in filtered mode
+    const isFiltered = currentSearchTerm && currentSearchTerm.trim() !== '';
+    
+    // Purple color for filtered stats
+    const statColor = isFiltered ? '#b794f6' : '#66c0f4';
+    const progressGradient = isFiltered ? 'linear-gradient(90deg, #b794f6, #9370db)' : 'linear-gradient(90deg, #66c0f4, #56a0d4)';
+
     // Show filter indicator if search is active
-    const filterIndicator = currentSearchTerm ? `
-        <div style="background: rgba(102, 192, 244, 0.1); border: 1px solid #66c0f4; border-radius: 6px; padding: 8px 15px; margin-top: 10px; font-size: 0.9em;">
-            📊 Showing filtered results for: <strong>"${currentSearchTerm}"</strong> in <strong>${getSearchTypeLabel()}</strong>
+    const filterIndicator = isFiltered ? `
+        <div style="background: rgba(183, 148, 246, 0.1); border: 1px solid #b794f6; border-radius: 6px; padding: 8px 15px; margin-top: 10px; font-size: 0.9em;">
+            📊 Showing filtered results and stats for: <strong>"${currentSearchTerm}"</strong> in <strong>${getSearchTypeLabel()}</strong>
         </div>
     ` : '';
 
@@ -171,26 +178,26 @@ function renderSummary(summaryDiv, totalGames, perfectGames, totalUnlocked, tota
             ${filterIndicator}
             
             <div class="progress-bar" style="max-width: 600px; margin: 15px auto 0;">
-                <div class="progress-fill ${overallPercentage < 6 ? 'low-percentage' : ''}" style="width: ${overallPercentage}%">${overallPercentage}%</div>
+                <div class="progress-fill ${overallPercentage < 6 ? 'low-percentage' : ''}" style="width: ${overallPercentage}%; background: ${progressGradient};">${overallPercentage}%</div>
             </div>
             
             <div class="summary-stats">
                 <div class="stat-item">
-                    <div class="stat-value">${totalGames}</div>
+                    <div class="stat-value" style="color: ${statColor};">${totalGames}</div>
                     <div class="stat-label">Games</div>
                 </div>
                 ${perfectGames > 0 ? `
                 <div class="stat-item">
-                    <div class="stat-value">${perfectGames}</div>
+                    <div class="stat-value" style="color: ${statColor};">${perfectGames}</div>
                     <div class="stat-label">Perfect Game${perfectGames !== 1 ? 's' : ''}</div>
                 </div>
                 ` : ''}
                 <div class="stat-item">
-                    <div class="stat-value">${totalUnlocked}/${totalAchievements}</div>
+                    <div class="stat-value" style="color: ${statColor};">${totalUnlocked}/${totalAchievements}</div>
                     <div class="stat-label">Achievements Unlocked</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-value">${overallPercentage}%</div>
+                    <div class="stat-value" style="color: ${statColor};">${overallPercentage}%</div>
                     <div class="stat-label">Completion</div>
                 </div>
             </div>
