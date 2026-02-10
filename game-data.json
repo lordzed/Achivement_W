@@ -1,5 +1,5 @@
 {
-  "last_updated": 1770602465,
+  "last_updated": 1770689475,
   "total_games": 4,
   "games": [
     {
@@ -43,7 +43,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "4.3"
+            "percent": "4.4"
           },
           "ACH_AVOID_VIOLENCE": {
             "name": "Avoid the Violence",
@@ -178,7 +178,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "49.5"
+            "percent": "49.4"
           },
           "ACH_POP_SHOCK": {
             "name": "Shocked!",
@@ -480,7 +480,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/c0f618d59ada226fc7eb4d4da836cf00916917da.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "20.5"
+            "percent": "20.6"
           },
           "ALL_SONGS": {
             "name": "Connoisseur",
@@ -525,7 +525,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/010f6f1c7dcbf1fe29f5a2098f7136446c269132.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "57.5"
+            "percent": "57.6"
           },
           "LEVEL_33": {
             "name": "Expeditioner",
@@ -552,7 +552,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5a6b40fe2bfed7a199a70aeeee6b8b32c86ab0da.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "52.3"
+            "percent": "52.4"
           },
           "FLYING_WATERS": {
             "name": "Flying Waters",
@@ -615,7 +615,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/17ce0397bf7cb226130d73d39c5f0c8571a66228.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "15.2"
+            "percent": "15.3"
           },
           "LUMIERE": {
             "name": "Lumière",
@@ -687,7 +687,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/10cefd7d61852b3904f6d1fd326411fe82e3f622.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "50.0"
+            "percent": "50.1"
           },
           "PAINTING_WORKSHOP": {
             "name": "Noir et Blanc",
@@ -705,7 +705,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/3f95d91bfaa0d5de3efd887f200ad347bca668a6.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "55.1"
+            "percent": "55.2"
           },
           "GUSTAVE_OVERCHARGE": {
             "name": "Overcharge",
@@ -795,7 +795,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/4d8017c91fa592fe5892a08a130d62dd3c95a950.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "50.7"
+            "percent": "50.8"
           },
           "SPRING_MEADOWS": {
             "name": "Spring Meadows",
@@ -849,7 +849,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d451fa9a94d7fe423e713ccdd7d37cbce6176f90.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "38.4"
+            "percent": "38.5"
           },
           "BREAK": {
             "name": "Time to Spill Some Ink",
@@ -894,7 +894,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/0e9ceff4d0e2377a2ec3a950ba408752ccc768be.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "27.8"
+            "percent": "27.9"
           }
         },
         "platform": null,
@@ -1138,7 +1138,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "24.9"
+            "percent": "24.8"
           },
           "BetterThanOne": {
             "name": "Better Than One",
@@ -1156,7 +1156,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "47.7"
+            "percent": "47.6"
           },
           "DreamOfElectricSheep": {
             "name": "Do Travelers Dream Of Electric Sheep?",
@@ -1165,7 +1165,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "40.1"
+            "percent": "40.0"
           },
           "DontLetThemMerge": {
             "name": "Don't Let Them Merge",
@@ -1210,7 +1210,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "26.9"
+            "percent": "26.8"
           },
           "FixingThings": {
             "name": "Fixing Things",
@@ -1255,7 +1255,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "39.3"
+            "percent": "39.2"
           },
           "IAmFree": {
             "name": "I Am Free",
@@ -1264,7 +1264,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "20.4"
+            "percent": "20.3"
           },
           "MayItServeYouFaultFree": {
             "name": "May It Serve You Fault-Free",
@@ -1462,7 +1462,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "36.9"
+            "percent": "36.8"
           },
           "ThePraetorian": {
             "name": "The Praetorian",
@@ -1971,7 +1971,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/8fa7a5704fefa57a73fe27f0156a5f22fadb7c93.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "52.4"
+            "percent": "52.5"
           },
           "KillEnemiesRanged": {
             "name": "No Big Deal",
@@ -1980,7 +1980,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/474425970f2aa46cb1da3fb1edd1fb79e89dfc7d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "42.6"
+            "percent": "42.7"
           },
           "TryToLeaveObservationDeck": {
             "name": "No Turning Back Now",
@@ -1998,7 +1998,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/6b33b7d0dfa0f8f7a7ad904e88acffe11b469d38.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "42.2"
+            "percent": "42.3"
           },
           "EndingInWater": {
             "name": "Only Way Out",
