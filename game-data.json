@@ -1,5 +1,5 @@
 {
-  "last_updated": 1771380005,
+  "last_updated": 1771466334,
   "total_games": 4,
   "games": [
     {
@@ -2108,7 +2108,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "49.4"
+            "percent": "49.5"
           },
           "ACH_POP_SHOCK": {
             "name": "Shocked!",
