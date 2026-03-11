@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/134965999d594de3fb44bfb7d702a923ce2c9bd2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.4"
+      "percent": "47.5"
     },
     "PETANK_ALPHA": {
       "name": "Carreau Parfait",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/f8c261b7bbc52967152f205ee5739c5471c57d26.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "10.1"
     },
     "OPTIONAL_CAMP": {
       "name": "Curious",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5181a12e1d240a38e11f4bb9c6e94d13d1fdac84.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.8"
     },
     "ESQUIES_NEST": {
       "name": "Esquie's Nest",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/3c2c617d8c4ddfd9cd9dda260c76efee5a3e18f6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.4"
+      "percent": "67.5"
     },
     "ALL_CHARACTERS": {
       "name": "Expedition 33",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5a6b40fe2bfed7a199a70aeeee6b8b32c86ab0da.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.7"
+      "percent": "52.8"
     },
     "FLYING_WATERS": {
       "name": "Flying Waters",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/79b61676145e4c151eb2926185afd87fe989ea0e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.9"
+      "percent": "59.0"
     },
     "GESTRAL_BEACH": {
       "name": "Gestral Games",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/06b4d42d5de4593ba4d411bf3e426a64ad4a981b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.3"
+      "percent": "31.4"
     },
     "MAELLE_RELATIONSHIP": {
       "name": "Maelle",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/28aefcb508e584aa7720478a18110de2ceb4f186.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.8"
     },
     "SCIEL_FORETELL": {
       "name": "Maximization",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/708e84b0893e2d303f21b73a433fe00ae36675b5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "29.0"
     },
     "GRANDIS_STATION": {
       "name": "Monoco's Station",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/78bcdfc829c30d4bf47a3d90b4f15a82bb010b09.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.7"
+      "percent": "62.8"
     },
     "LEVEL_99": {
       "name": "Survivor",
