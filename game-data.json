@@ -1,5 +1,5 @@
 {
-  "last_updated": 1773453109,
+  "last_updated": 1773540505,
   "total_games": 4,
   "games": [
     {
@@ -34,7 +34,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "48.0"
+            "percent": "47.9"
           },
           "DreamOfElectricSheep": {
             "name": "Do Travelers Dream Of Electric Sheep?",
@@ -196,7 +196,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "82.1"
+            "percent": "82.0"
           },
           "ResourcesAreScarce": {
             "name": "Resources Are Scarce",
@@ -241,7 +241,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "61.4"
+            "percent": "61.3"
           },
           "TemporalDestinationReached": {
             "name": "Temporal Destination Reached",
@@ -304,7 +304,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "22.3"
+            "percent": "22.4"
           },
           "TheCatfinder": {
             "name": "The Catfinder",
@@ -376,7 +376,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "37.4"
+            "percent": "37.5"
           },
           "ToBringThemBack": {
             "name": "To Bring Them Back",
@@ -687,7 +687,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/134965999d594de3fb44bfb7d702a923ce2c9bd2.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "47.5"
+            "percent": "47.4"
           },
           "PETANK_ALPHA": {
             "name": "Carreau Parfait",
@@ -723,7 +723,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/f8c261b7bbc52967152f205ee5739c5471c57d26.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.1"
+            "percent": "10.0"
           },
           "OPTIONAL_CAMP": {
             "name": "Curious",
@@ -741,7 +741,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5181a12e1d240a38e11f4bb9c6e94d13d1fdac84.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "31.8"
+            "percent": "31.7"
           },
           "ESQUIES_NEST": {
             "name": "Esquie's Nest",
@@ -750,7 +750,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/3c2c617d8c4ddfd9cd9dda260c76efee5a3e18f6.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "67.5"
+            "percent": "67.4"
           },
           "ALL_CHARACTERS": {
             "name": "Expedition 33",
@@ -759,7 +759,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/010f6f1c7dcbf1fe29f5a2098f7136446c269132.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "57.9"
+            "percent": "57.8"
           },
           "LEVEL_33": {
             "name": "Expeditioner",
@@ -768,7 +768,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/459eae107d426e55d0ade6ce65e98bec756310c8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "54.7"
+            "percent": "54.6"
           },
           "ALL_MONOCO_SKILLS": {
             "name": "Feet Collection",
@@ -786,7 +786,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5a6b40fe2bfed7a199a70aeeee6b8b32c86ab0da.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "52.8"
+            "percent": "52.7"
           },
           "FLYING_WATERS": {
             "name": "Flying Waters",
@@ -804,7 +804,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/8e4b22996ded83313c0e688b633e001d7ed73fc9.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.2"
+            "percent": "10.1"
           },
           "FORGOTTEN_BATTLEFIELD": {
             "name": "Forgotten Battlefield",
@@ -813,7 +813,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/79b61676145e4c151eb2926185afd87fe989ea0e.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "59.0"
+            "percent": "58.9"
           },
           "GESTRAL_BEACH": {
             "name": "Gestral Games",
@@ -840,7 +840,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5181a12e1d240a38e11f4bb9c6e94d13d1fdac84.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "67.5"
+            "percent": "67.4"
           },
           "LOST_GESTRALS": {
             "name": "Lost Gestrals",
@@ -876,7 +876,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/06b4d42d5de4593ba4d411bf3e426a64ad4a981b.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "31.4"
+            "percent": "31.3"
           },
           "MAELLE_RELATIONSHIP": {
             "name": "Maelle",
@@ -885,7 +885,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/28aefcb508e584aa7720478a18110de2ceb4f186.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "30.8"
+            "percent": "30.7"
           },
           "SCIEL_FORETELL": {
             "name": "Maximization",
@@ -894,7 +894,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d4a970cb0a8d83612b256f0799e8939596a4b2fa.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "35.2"
+            "percent": "35.1"
           },
           "MONOCO_RELATIONSHIP": {
             "name": "Monoco",
@@ -903,7 +903,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/708e84b0893e2d303f21b73a433fe00ae36675b5.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "29.0"
+            "percent": "28.9"
           },
           "GRANDIS_STATION": {
             "name": "Monoco's Station",
@@ -912,7 +912,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d6d7e79ea6cb117920423a2b2578a522c500a5c9.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "57.8"
+            "percent": "57.7"
           },
           "MONOLITH": {
             "name": "Monolith",
@@ -939,7 +939,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/3f95d91bfaa0d5de3efd887f200ad347bca668a6.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "55.5"
+            "percent": "55.4"
           },
           "GUSTAVE_OVERCHARGE": {
             "name": "Overcharge",
@@ -966,7 +966,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/c7e20810e253cd4f15809511f7d5ed64e4e91c5b.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "47.9"
+            "percent": "47.8"
           },
           "SIMON": {
             "name": "Peace At Last",
@@ -1020,7 +1020,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/e311c52896785463fefcc65981f1c4fa45694cff.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "33.1"
+            "percent": "33.0"
           },
           "SECOND_AXON": {
             "name": "Second Axon",
@@ -1029,7 +1029,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/4d8017c91fa592fe5892a08a130d62dd3c95a950.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "51.2"
+            "percent": "51.1"
           },
           "SPRING_MEADOWS": {
             "name": "Spring Meadows",
@@ -1038,7 +1038,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/c0626097955c7bab141a4200177ad33aa988baac.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "81.6"
+            "percent": "81.5"
           },
           "SPRONG": {
             "name": "Sprong",
@@ -1047,7 +1047,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/da2d99002428f819909fdb418c85cc191a931069.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "32.9"
+            "percent": "32.8"
           },
           "STONE_WAVE_CLIFFS": {
             "name": "Stone Wave Cliffs",
@@ -1056,7 +1056,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/78bcdfc829c30d4bf47a3d90b4f15a82bb010b09.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "62.8"
+            "percent": "62.7"
           },
           "LEVEL_99": {
             "name": "Survivor",
@@ -1065,7 +1065,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/9a8bdbce54589b4e2378045a6be70b68b54afbf8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "12.8"
+            "percent": "12.7"
           },
           "MAELLE_STANCES": {
             "name": "Synergy",
@@ -1372,7 +1372,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/919dfdcbb22a6165d6560e6e37928708e67e714a.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "43.8"
+            "percent": "43.7"
           },
           "ReachBrookhavenHospital": {
             "name": "Admitted",
@@ -1390,7 +1390,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/56573c768ad8de1bd1ef417657c5f021b60fcab0.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "13.8"
+            "percent": "13.7"
           },
           "SurvivePyramidHeadChase": {
             "name": "Alone Again",
@@ -1426,7 +1426,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/06b1a4e4049db78bc6ded330df15f4c23265f6ac.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "57.8"
+            "percent": "57.7"
           },
           "EndingRebirth": {
             "name": "Defy Even Death",
@@ -1444,7 +1444,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/cabae33dd6769414ae28e1ab342de29ea404b8e5.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "3.8"
+            "percent": "3.7"
           },
           "ReachSilentHill": {
             "name": "Enjoy Your Stay",
@@ -1471,7 +1471,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/11dbefbcf6c359fb31e01a2d848f55f74270b70e.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "43.7"
+            "percent": "43.6"
           },
           "CompleteNewGamePlus": {
             "name": "I Saw That Town",
@@ -1489,7 +1489,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/e5cdc78471196c3c75cd3ca53e5356908ac496b1.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "44.3"
+            "percent": "44.2"
           },
           "ReachLongStaircaseEnd": {
             "name": "Into the Abyss",
@@ -1498,7 +1498,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/dc253d4e287ad3fe913dc2468e51a44554c1891d.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "48.7"
+            "percent": "48.6"
           },
           "InteractWithBread": {
             "name": "It's Bread",
@@ -1561,7 +1561,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/25c5a183b9b266a07001dbfe086841abb37f2e96.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "24.3"
+            "percent": "24.2"
           },
           "ReachWoodsideApartments": {
             "name": "Nice and Cozy",
@@ -1588,7 +1588,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/474425970f2aa46cb1da3fb1edd1fb79e89dfc7d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "42.8"
+            "percent": "42.7"
           },
           "TryToLeaveObservationDeck": {
             "name": "No Turning Back Now",
@@ -1606,7 +1606,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/6b33b7d0dfa0f8f7a7ad904e88acffe11b469d38.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "42.5"
+            "percent": "42.4"
           },
           "EndingInWater": {
             "name": "Only Way Out",
@@ -1642,7 +1642,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/477b9fc649892a0e84623f3512b096471ea57202.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "58.7"
+            "percent": "58.6"
           },
           "FindPhotos": {
             "name": "Pieces Unarranged",
@@ -1660,7 +1660,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/6133ffc937a330a0bff1840cd19751d2296bfa2f.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "5.0"
+            "percent": "4.9"
           },
           "LongSwimInTolucaLake": {
             "name": "Scourge of Toluca Lake",
@@ -1696,7 +1696,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/4f6fa62eccd078626f5e5b16e5c8981980c34235.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "4.7"
+            "percent": "4.6"
           },
           "EndingUFO": {
             "name": "Tinfoil Hat",
@@ -1732,7 +1732,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/7e87c5a4ef078f100484c538a79cf6072d7bffe4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "45.7"
+            "percent": "45.6"
           },
           "EndingMaria": {
             "name": "Vicious Circle",
@@ -2189,7 +2189,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "51.0"
+            "percent": "50.9"
           },
           "ACH_SAVE_BOTH": {
             "name": "You Both Deserve to Go",
