@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.7"
+      "percent": "65.8"
     },
     "ACH_ART_BUILDING": {
       "name": "Afternoon Activities",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.9"
+      "percent": "49.0"
     },
     "ACH_REMAIN_DRY": {
       "name": "Avoid a Cold",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.8"
+      "percent": "44.9"
     },
     "ACH_NO_KILLS": {
       "name": "Avoid Conflict",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.8"
     },
     "ACH_KILL_STEALTH": {
       "name": "Backlighted",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.9"
+      "percent": "64.0"
     },
     "ACH_FREEZE_AND_PUSH": {
       "name": "Breaking the Ice",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.7"
+      "percent": "18.8"
     },
     "ACH_EXPOSURE_UNDETECTED": {
       "name": "Don't be Exposed",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.0"
+      "percent": "51.1"
     },
     "ACH_REMOVE_BATTERY": {
       "name": "Game Over",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.4"
+      "percent": "58.5"
     },
     "ACH_INHABITANTS": {
       "name": "Helping the Missing Ones",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "20.1"
     },
     "ACH_SAVE_SALLY": {
       "name": "I Just Can't Stay Here",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.2"
     },
     "ACH_KILL_LIGHT": {
       "name": "Let There be Light",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.4"
+      "percent": "69.5"
     },
     "ACH_TIME_TO_PLAY": {
       "name": "No Time to Play",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.7"
     },
     "ACH_DEFEAT_EXPOSURE": {
       "name": "Secrets are private",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.5"
     },
     "ACH_POP_SHOCK": {
       "name": "Shocked!",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.3"
     },
     "ACH_HOOP_CAN": {
       "name": "Take it to the Hoop",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "88.9"
+      "percent": "89.0"
     },
     "ACH_FINAL_MINE": {
       "name": "The Truth Behind the Mask",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.2"
     },
     "ACH_DIARIES": {
       "name": "Those are her Feelings",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.1"
+      "percent": "43.2"
     },
     "ACH_SEE_WEIRDNESS": {
       "name": "What is this place?",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.3"
+      "percent": "56.4"
     },
     "ACH_INTO_THEATER": {
       "name": "Winter Play",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.8"
+      "percent": "51.0"
     },
     "ACH_SAVE_BOTH": {
       "name": "You Both Deserve to Go",
