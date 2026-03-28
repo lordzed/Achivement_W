@@ -1,633 +1,7 @@
 {
-  "last_updated": 1774577256,
+  "last_updated": 1774663123,
   "total_games": 4,
   "games": [
-    {
-      "appid": "2101960",
-      "info": {
-        "appid": "2101960",
-        "name": "Cronos: The New Dawn",
-        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101960/68fa7b72da253c498b70cf74e475b4f5f4ac79eb/header.jpg?t=1773944479",
-        "achievements": {
-          "AFlickerOfHope": {
-            "name": "A Flicker Of Hope",
-            "description": "Spare the Pathfinder's life.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/416d55bbe2174889dd4631c50f7225f29ba6e11b.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "25.3"
-          },
-          "BetterThanOne": {
-            "name": "Better Than One",
-            "description": "Defeat 25 enemies with a headshot.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/60b9227d5ced577c731dde560f6fcede93a9c4f5.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "56.3"
-          },
-          "CounterGravityTraversal": {
-            "name": "Counter-Gravity Traversal",
-            "description": "Execute a Gravity Jump.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/d4c7f999731bdc598980629703f314de85c02859.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "48.0"
-          },
-          "DreamOfElectricSheep": {
-            "name": "Do Travelers Dream Of Electric Sheep?",
-            "description": "Power up a device with the Conductor.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/69a3c96ad481e096725ab4a19716b19239716ac0.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "40.6"
-          },
-          "DontLetThemMerge": {
-            "name": "Don't Let Them Merge",
-            "description": "Burn 25 dead Orphans.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/ed82e08950f99f75a666b967da7452c6063d9fad.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "57.3"
-          },
-          "DownWithTheSickness": {
-            "name": "Down With The Sickness",
-            "description": "Defeat the Unmerged Terror.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/b2d49e000d2dc72034d1f7c3ed7e81d22e606994.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "41.3"
-          },
-          "EfficiencyDiscipline": {
-            "name": "Efficiency Discipline",
-            "description": "Defeat 2 enemies with a single Sword projectile.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/8253acd4e5123bcfa043b8aa5921eadbdc88c0af.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "49.2"
-          },
-          "EssenceAquired": {
-            "name": "Essence Aquired",
-            "description": "Extract Edward.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/2f51c42f17a9f739d2085ce7dca2e19cc97fb45c.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "59.4"
-          },
-          "FireSpreading": {
-            "name": "Fire. Spreading.",
-            "description": "Set 5 enemies on fire with a single burst of the Torch.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/a1aa3df24580306591fb5f243f8dd693da2dcff4.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "26.9"
-          },
-          "FixingThings": {
-            "name": "Fixing Things",
-            "description": "Discover the Warden's secret.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/170c561aa485d364bbbd06d9eca2b9a59275601c.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "37.3"
-          },
-          "ForGoodAndForIll": {
-            "name": "For Good And For Ill",
-            "description": "Extract Dr. Zybert.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/b9841d0fe11871088c4e92f9c8c5602108e9fde5.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "41.3"
-          },
-          "ForgedInFire": {
-            "name": "Forged In Fire",
-            "description": "Fully upgrade the Traveler's Temporal Shell.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/15b308e45f46a2696f3aa096acaafada269f5b46.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "11.1"
-          },
-          "FreeFromAllTheScars": {
-            "name": "Free From All The Scars",
-            "description": "Save both Weronikas.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/6d7e8489f12da3eb1cc86a81adebee07a53789ed.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "5.1"
-          },
-          "HitLikeATrain": {
-            "name": "Hit Like A Train",
-            "description": "Defeat the Terror at the station B.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/efcba75b4b31cfd40c4abb76d92ec84a674a5fca.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "39.8"
-          },
-          "IAmFree": {
-            "name": "I Am Free",
-            "description": "Shoot the Pathfinder.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/fdbff1cbba8aecfc6f5be2e350581b1be1dc79be.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "20.6"
-          },
-          "MayItServeYouFaultFree": {
-            "name": "May It Serve You Fault-Free",
-            "description": "Fully upgrade a single weapon.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/ac8e310c2fa0cee6ef86d7d404bd4247a56bb10c.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "16.7"
-          },
-          "MyBrothersKeeper": {
-            "name": "My Brother's Keeper",
-            "description": "Extract one of the brothers.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/c6e6c3e9263aef3ae59d60f2e62eecb328471b3d.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "47.2"
-          },
-          "PublicTransport": {
-            "name": "Public Transport",
-            "description": "Power up the tram to reach the Steelworks.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/09e97b69503dec4506667c6c9f2f1dd600bff633.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "55.4"
-          },
-          "PunksNotDead": {
-            "name": "Punks Not Dead!",
-            "description": "Finish the game with Edward's Essence.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/2a146001b81194f7e54b95cf6d5dd6c91455106b.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "21.4"
-          },
-          "RagingBull": {
-            "name": "Raging Bull",
-            "description": "Defeat an enemy with a melee attack.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/2898e418cef36237a29da37061c8ad1a9be1a760.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "78.7"
-          },
-          "RapidOxidation": {
-            "name": "Rapid Oxidation",
-            "description": "Burn the Biomass.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/c0a6ff20aa22b285a144cc32497701f090713f42.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "82.1"
-          },
-          "ResourcesAreScarce": {
-            "name": "Resources Are Scarce",
-            "description": "Fabricate an item.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/63236aecb35c04aab2385793c3c31054788688ca.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "92.4"
-          },
-          "ShellNotCompromised": {
-            "name": "Shell Not Compromised",
-            "description": "Finish the game in the Hard Mode.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/4b29fbe18925882de8067846c7b2a61e7742417e.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "4.2"
-          },
-          "SpacetimeOddity": {
-            "name": "Spacetime Oddity",
-            "description": "Activate a Time Oddity.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/74334b20a11e70ec20325c5311b032b0dacedf5a.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "78.7"
-          },
-          "SuchIsOurCalling": {
-            "name": "Such Is Our Calling",
-            "description": "Find the Predecessor.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/9c608f31e6ba2b6ab4a98b1c7640d2616dfbe4e4.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "78.7"
-          },
-          "SuppressedRecomposition": {
-            "name": "Suppressed Recomposition",
-            "description": "Defeat the Unmerged One.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/765ee169288bc0f19c1c100df5cfc6746f21c938.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "61.4"
-          },
-          "TemporalDestinationReached": {
-            "name": "Temporal Destination Reached",
-            "description": "Execute a Dive for the first time.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/6ca45fc634135a869022f75e143f575677a05ebd.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "61.4"
-          },
-          "TheAnnihilator": {
-            "name": "The Annihilator",
-            "description": "Defeat 5 enemies with a single Arbalest round.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/a755bf8e8628940b652dd5b3ca7576b3fc345795.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "13.7"
-          },
-          "TheAnvilOfTheCollective": {
-            "name": "The Anvil Of The Collective",
-            "description": "Defeat 4 enemies with a single Hammer shot.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/d4006d25c83a0a568c0ca7e8282442847a4d4ff8.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "21.1"
-          },
-          "TheArchivist": {
-            "name": "The Archivist",
-            "description": "Find all of the Travelogs.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/a8ad20393046e823c67a9d04e7f89c7f05a1516e.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "8.0"
-          },
-          "TheAscendance": {
-            "name": "The Ascendance",
-            "description": "Execute an Ascendance Sequence for the first time.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/2f176d5ae2b185757ee32f65b00da2e046564f30.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "58.7"
-          },
-          "TheBiggerTheyAre": {
-            "name": "The Bigger They Are",
-            "description": "Defeat the Terror in the Steelworks.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/98ac3ad950883d48cb7b97e27819512d667448c9.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "47.2"
-          },
-          "TheBoonOfTheRelics": {
-            "name": "The Boon Of The Relics",
-            "description": "Find all the weapons.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/e00743da9c3895f4136254907187f8c21998c0d8.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "22.4"
-          },
-          "TheCatfinder": {
-            "name": "The Catfinder",
-            "description": "Pet all the cats.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/e84f36cb96f06a8e6021f96dd0cc4685c7bca610.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "11.7"
-          },
-          "TheContribution": {
-            "name": "The Contribution",
-            "description": "Sell 15 valuable items.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/8cc091cb4bd44140ce1484d0516941a24e9c1994.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "41.8"
-          },
-          "TheOrthodox": {
-            "name": "The Orthodox",
-            "description": "Finish the game only with the Essences appointed by the Collective.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5cce12aafcf57c9721310cd1dea063386b2ff8d4.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "6.4"
-          },
-          "ThePathfinder": {
-            "name": "The Pathfinder",
-            "description": "Get the Pathfinder to the tram.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/2cec1e0033bb6900672ef0afa222bdb6301e4170.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "37.5"
-          },
-          "ThePraetorian": {
-            "name": "The Praetorian",
-            "description": "Fully upgrade all weapons.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/2d19a80750ad22a568c7b52c57fc490341de9e06.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "4.7"
-          },
-          "ThePreserver": {
-            "name": "The Preserver",
-            "description": "Transfer the Essences from all fallen Travelers.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/3f03e409c8153125779cd85bc09f1561e946b1a7.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "8.9"
-          },
-          "ThePyromaniac": {
-            "name": "The Pyromaniac",
-            "description": "Burn Biomass with the Pyre.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/945edc44575ca4a1c3df4dc8955cdc324aec8e5b.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "20.6"
-          },
-          "TheSacrificeOfTheFlesh": {
-            "name": "The Sacrifice Of The Flesh",
-            "description": "Defeat Eliza.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aedeadaaf48ae10fc2aece9cac94931778fe9fc4.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "37.5"
-          },
-          "ToBringThemBack": {
-            "name": "To Bring Them Back",
-            "description": "Transfer an Essence from a fallen Traveler.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/004e931a570f922f3841c8fa5482a1dbdb65498e.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "55.3"
-          },
-          "ToPaveThePath": {
-            "name": "To Pave The Path",
-            "description": "Fabricate all item types.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/8e2626dc41906443124b835e184abd7c91f2069c.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "18.7"
-          },
-          "Togetherness": {
-            "name": "Togetherness",
-            "description": "Gather together the Essences of Lidia, Marcel and Krzysztof.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/2c3b2749e57276bb6c380c57bc37e64edbb236c4.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "10.4"
-          },
-          "UnadulteratedJoy": {
-            "name": "Unadulterated Joy",
-            "description": "Find all of the comic books.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/40269877edca801b6f3860f7ecc8592b95955bf9.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "7.0"
-          },
-          "WelcomeToTheVocation": {
-            "name": "Welcome To The Vocation",
-            "description": "Exit the REV-Capsule.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/8870d7b56e49ccbeee98471dbb5b6039c88077f3.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "97.9"
-          },
-          "YouNeverGiveUp": {
-            "name": "You Never Give Up",
-            "description": "Finish the game in the NG+.",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/898de00cc28e9822da9c36752cd100dfb618c2c9.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "5.4"
-          }
-        },
-        "platform": null,
-        "blacklist": [],
-        "uses_db": false
-      },
-      "achievements": {
-        "AFlickerOfHope": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "BetterThanOne": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "CounterGravityTraversal": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "DontLetThemMerge": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "DownWithTheSickness": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "DreamOfElectricSheep": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "EfficiencyDiscipline": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "EssenceAquired": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "FireSpreading": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "FixingThings": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ForGoodAndForIll": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ForgedInFire": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "FreeFromAllTheScars": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "HitLikeATrain": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "IAmFree": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "MayItServeYouFaultFree": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "MyBrothersKeeper": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "PublicTransport": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "PunksNotDead": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "RagingBull": {
-          "earned": true,
-          "earned_time": 1768287956
-        },
-        "RapidOxidation": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ResourcesAreScarce": {
-          "earned": true,
-          "earned_time": 1768287312
-        },
-        "ShellNotCompromised": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "SpacetimeOddity": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "SuchIsOurCalling": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "SuppressedRecomposition": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "TemporalDestinationReached": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "TheAnnihilator": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "TheAnvilOfTheCollective": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "TheArchivist": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "TheAscendance": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "TheBiggerTheyAre": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "TheBoonOfTheRelics": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "TheCatfinder": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "TheContribution": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "TheOrthodox": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ThePathfinder": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ThePraetorian": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ThePreserver": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ThePyromaniac": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "TheSacrificeOfTheFlesh": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ToBringThemBack": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ToPaveThePath": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Togetherness": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "UnadulteratedJoy": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "WelcomeToTheVocation": {
-          "earned": true,
-          "earned_time": 1768249866
-        },
-        "YouNeverGiveUp": {
-          "earned": false,
-          "earned_time": 0
-        }
-      }
-    },
     {
       "appid": "1903340",
       "info": {
@@ -1359,6 +733,1024 @@
       }
     },
     {
+      "appid": "2206210",
+      "info": {
+        "appid": "2206210",
+        "name": "GYLT",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206210/header.jpg?t=1771943235",
+        "achievements": {
+          "ACH_WAY_AROUND": {
+            "name": "A Way Around",
+            "description": "Get outside of the school courtyard",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/7994a1332ec5929e2f4a608f6cba1d1f40036dad.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "65.6"
+          },
+          "ACH_ART_BUILDING": {
+            "name": "Afternoon Activities",
+            "description": "Access the Art Building",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/d34796db10bcb0b0f417828ac7723e1c4438dc4c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "48.8"
+          },
+          "ACH_REMAIN_DRY": {
+            "name": "Avoid a Cold",
+            "description": "Use the Planks to Remain Dry",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/ac2891c994d3fa94140d8bef19a3daefe9ca3da8.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "44.8"
+          },
+          "ACH_NO_KILLS": {
+            "name": "Avoid Conflict",
+            "description": "End the Game without Killing Anyone (without bosses)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/aa42142a4a2f98a0cc80a9b11ea05ee9d4004d3c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "4.3"
+          },
+          "ACH_AVOID_VIOLENCE": {
+            "name": "Avoid the Violence",
+            "description": "Defeat Violence in the Laboratory Without Being Hit",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/effd24742e22a43abcff8280efc9e0877adb8563.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "11.7"
+          },
+          "ACH_KILL_STEALTH": {
+            "name": "Backlighted",
+            "description": "Kill an enemy with a Stealth Attack",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/81e637fda7ed0d99b19237454cc659c76fc3b1ec.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "63.8"
+          },
+          "ACH_FREEZE_AND_PUSH": {
+            "name": "Breaking the Ice",
+            "description": "Freeze an Enemy and Push Him",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/e8f603736cef0f0a6e77a4e22fbb7ae2fdccd1ae.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "18.7"
+          },
+          "ACH_EXPOSURE_UNDETECTED": {
+            "name": "Don't be Exposed",
+            "description": "Escape from the Arcade without being detected by Exposure",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/ee8f3ea3b58021f4d974bece91b15cbfa9b00e7f.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "11.8"
+          },
+          "ACH_3FLASH": {
+            "name": "Don't Look at the Light",
+            "description": "Blind Three Enemies at the Same Time",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/dbb508607fab70d7e1e433e1164a111b0ae73ef5.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "50.9"
+          },
+          "ACH_REMOVE_BATTERY": {
+            "name": "Game Over",
+            "description": "Remove the battery from the Arcade core",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/f9acff5e7ae08c703eb72f48f1900aaabb5b368c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "58.3"
+          },
+          "ACH_INHABITANTS": {
+            "name": "Helping the Missing Ones",
+            "description": "Free all the Inhabitants",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/36f62f6ff3cf85f17a1b31eedcea6d08edf69031.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "20.0"
+          },
+          "ACH_SAVE_SALLY": {
+            "name": "I Just Can't Stay Here",
+            "description": "Escape with Sally",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/2ebf26f4981f4d5b40c911a3c0a215afef7cfff2.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "16.4"
+          },
+          "ACH_FREEZE_ALL_ENEMIES": {
+            "name": "I Love Snowmen",
+            "description": "Freeze one Enemy of Each Type",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/ed18205931934d9ae30076d9e36cf32209e84e33.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "8.4"
+          },
+          "ACH_SAVE_EMILY": {
+            "name": "I Simply Can't Go Back",
+            "description": "Escape with Emily",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/602b8695cd549099b320bf5198a19a0cab347ae5.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "36.0"
+          },
+          "ACH_KILL_LIGHT": {
+            "name": "Let There be Light",
+            "description": "Defeat an Enemy with the Flashlight Beam",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/51535e84c0b2f2bc4100c3d80d6645e045a9c876.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "69.3"
+          },
+          "ACH_TIME_TO_PLAY": {
+            "name": "No Time to Play",
+            "description": "Try to play another game by Tequila Works",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/11e0d304bf41ff5d19e128c2b19f1388f4b19bbc.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "39.8"
+          },
+          "ACH_HIT_WITH_CAN": {
+            "name": "Oops... Sorry",
+            "description": "Hit an enemy with a can",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/91ad0869f71a4a81252259071ff3ce0987b45cf3.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "22.5"
+          },
+          "ACH_ESCAPE_HELPLESSNESS": {
+            "name": "Overcome the Helplessness",
+            "description": "Escape from Helplessness",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/553ae09d7314e92696890a346f71cec58b4191bd.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "41.5"
+          },
+          "ACH_DEFEAT_EXPOSURE": {
+            "name": "Secrets are private",
+            "description": "Defeat Exposure",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/3b461e1370dd3f1fac57375929b44ca99d54f40a.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "49.2"
+          },
+          "ACH_POP_SHOCK": {
+            "name": "Shocked!",
+            "description": "Shock an Enemy",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/30b73f2a2e1181870571da5cca46cdf5b3518237.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "24.2"
+          },
+          "ACH_BASKETBALL_COURT": {
+            "name": "Sports Prison",
+            "description": "Reach the Basketball Court",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/fe6e02cdfe70bf46e5f7c949b4fec57b70574988.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "45.1"
+          },
+          "ACH_HOOP_CAN": {
+            "name": "Take it to the Hoop",
+            "description": "Hoop a can",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/6f76102fbe51a93a3b523a4c0658efa7d18333cc.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "7.5"
+          },
+          "ACH_ENTER_SCHOOL": {
+            "name": "The Place of Nightmares",
+            "description": "Enter the school looking for Emily",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/f9e98a871c3d7d3b852e78b47f57beda3da614d7.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "88.9"
+          },
+          "ACH_FINAL_MINE": {
+            "name": "The Truth Behind the Mask",
+            "description": "Reach the Final Mine",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/4b1ed5d79a5fb2ac8b3bbaf8fc74835dfa22e41a.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "42.0"
+          },
+          "ACH_DIARIES": {
+            "name": "Those are her Feelings",
+            "description": "Get all the Diaries",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/c78ba5f2bb6336b4bbc0d0e3810a74ad63c1142d.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "19.4"
+          },
+          "ACH_DEFEAT_VIOLENCE": {
+            "name": "Violence is not the Answer",
+            "description": "Defeat Violence",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/954be1b1cc416445dd25abd7b78eaf99d6bd7462.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "43.0"
+          },
+          "ACH_SEE_WEIRDNESS": {
+            "name": "What is this place?",
+            "description": "See the weirdness in the school",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/407a04ead9c35d45648c904de553fa2be662340e.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "56.2"
+          },
+          "ACH_INTO_THEATER": {
+            "name": "Winter Play",
+            "description": "Get into the Theater",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/11e6a854868a08aa4713b5ce44baaf573a153341.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "50.7"
+          },
+          "ACH_SAVE_BOTH": {
+            "name": "You Both Deserve to Go",
+            "description": "Escape with Both Sally and Emily",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5488bcd966bc4fa38ed5f286df94d66000655a4b.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "15.2"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "ACH_3FLASH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_ART_BUILDING": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_AVOID_VIOLENCE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_BASKETBALL_COURT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_DEFEAT_EXPOSURE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_DEFEAT_VIOLENCE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_DIARIES": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_ENTER_SCHOOL": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_ESCAPE_HELPLESSNESS": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_EXPOSURE_UNDETECTED": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_FINAL_MINE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_FREEZE_ALL_ENEMIES": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_FREEZE_AND_PUSH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_HIT_WITH_CAN": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_HOOP_CAN": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_INHABITANTS": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_INTO_THEATER": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_KILL_LIGHT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_KILL_STEALTH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_NO_KILLS": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_POP_SHOCK": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_REMAIN_DRY": {
+          "earned": true,
+          "earned_time": 1767744337
+        },
+        "ACH_REMOVE_BATTERY": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_SAVE_BOTH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_SAVE_EMILY": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_SAVE_SALLY": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_SEE_WEIRDNESS": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_TIME_TO_PLAY": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_WAY_AROUND": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "2101960",
+      "info": {
+        "appid": "2101960",
+        "name": "Cronos: The New Dawn",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101960/68fa7b72da253c498b70cf74e475b4f5f4ac79eb/header.jpg?t=1773944479",
+        "achievements": {
+          "AFlickerOfHope": {
+            "name": "A Flicker Of Hope",
+            "description": "Spare the Pathfinder's life.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/416d55bbe2174889dd4631c50f7225f29ba6e11b.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "25.3"
+          },
+          "BetterThanOne": {
+            "name": "Better Than One",
+            "description": "Defeat 25 enemies with a headshot.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/60b9227d5ced577c731dde560f6fcede93a9c4f5.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "56.3"
+          },
+          "CounterGravityTraversal": {
+            "name": "Counter-Gravity Traversal",
+            "description": "Execute a Gravity Jump.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/d4c7f999731bdc598980629703f314de85c02859.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "48.0"
+          },
+          "DreamOfElectricSheep": {
+            "name": "Do Travelers Dream Of Electric Sheep?",
+            "description": "Power up a device with the Conductor.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/69a3c96ad481e096725ab4a19716b19239716ac0.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "40.6"
+          },
+          "DontLetThemMerge": {
+            "name": "Don't Let Them Merge",
+            "description": "Burn 25 dead Orphans.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/ed82e08950f99f75a666b967da7452c6063d9fad.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "57.3"
+          },
+          "DownWithTheSickness": {
+            "name": "Down With The Sickness",
+            "description": "Defeat the Unmerged Terror.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/b2d49e000d2dc72034d1f7c3ed7e81d22e606994.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "41.3"
+          },
+          "EfficiencyDiscipline": {
+            "name": "Efficiency Discipline",
+            "description": "Defeat 2 enemies with a single Sword projectile.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/8253acd4e5123bcfa043b8aa5921eadbdc88c0af.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "49.2"
+          },
+          "EssenceAquired": {
+            "name": "Essence Aquired",
+            "description": "Extract Edward.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/2f51c42f17a9f739d2085ce7dca2e19cc97fb45c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "59.4"
+          },
+          "FireSpreading": {
+            "name": "Fire. Spreading.",
+            "description": "Set 5 enemies on fire with a single burst of the Torch.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/a1aa3df24580306591fb5f243f8dd693da2dcff4.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "26.9"
+          },
+          "FixingThings": {
+            "name": "Fixing Things",
+            "description": "Discover the Warden's secret.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/170c561aa485d364bbbd06d9eca2b9a59275601c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "37.3"
+          },
+          "ForGoodAndForIll": {
+            "name": "For Good And For Ill",
+            "description": "Extract Dr. Zybert.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/b9841d0fe11871088c4e92f9c8c5602108e9fde5.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "41.3"
+          },
+          "ForgedInFire": {
+            "name": "Forged In Fire",
+            "description": "Fully upgrade the Traveler's Temporal Shell.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/15b308e45f46a2696f3aa096acaafada269f5b46.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "11.1"
+          },
+          "FreeFromAllTheScars": {
+            "name": "Free From All The Scars",
+            "description": "Save both Weronikas.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/6d7e8489f12da3eb1cc86a81adebee07a53789ed.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "5.1"
+          },
+          "HitLikeATrain": {
+            "name": "Hit Like A Train",
+            "description": "Defeat the Terror at the station B.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/efcba75b4b31cfd40c4abb76d92ec84a674a5fca.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "39.8"
+          },
+          "IAmFree": {
+            "name": "I Am Free",
+            "description": "Shoot the Pathfinder.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/fdbff1cbba8aecfc6f5be2e350581b1be1dc79be.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "20.6"
+          },
+          "MayItServeYouFaultFree": {
+            "name": "May It Serve You Fault-Free",
+            "description": "Fully upgrade a single weapon.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/ac8e310c2fa0cee6ef86d7d404bd4247a56bb10c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "16.7"
+          },
+          "MyBrothersKeeper": {
+            "name": "My Brother's Keeper",
+            "description": "Extract one of the brothers.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/c6e6c3e9263aef3ae59d60f2e62eecb328471b3d.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "47.2"
+          },
+          "PublicTransport": {
+            "name": "Public Transport",
+            "description": "Power up the tram to reach the Steelworks.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/09e97b69503dec4506667c6c9f2f1dd600bff633.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "55.4"
+          },
+          "PunksNotDead": {
+            "name": "Punks Not Dead!",
+            "description": "Finish the game with Edward's Essence.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/2a146001b81194f7e54b95cf6d5dd6c91455106b.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "21.4"
+          },
+          "RagingBull": {
+            "name": "Raging Bull",
+            "description": "Defeat an enemy with a melee attack.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/2898e418cef36237a29da37061c8ad1a9be1a760.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "78.7"
+          },
+          "RapidOxidation": {
+            "name": "Rapid Oxidation",
+            "description": "Burn the Biomass.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/c0a6ff20aa22b285a144cc32497701f090713f42.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "82.1"
+          },
+          "ResourcesAreScarce": {
+            "name": "Resources Are Scarce",
+            "description": "Fabricate an item.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/63236aecb35c04aab2385793c3c31054788688ca.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "92.4"
+          },
+          "ShellNotCompromised": {
+            "name": "Shell Not Compromised",
+            "description": "Finish the game in the Hard Mode.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/4b29fbe18925882de8067846c7b2a61e7742417e.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "4.2"
+          },
+          "SpacetimeOddity": {
+            "name": "Spacetime Oddity",
+            "description": "Activate a Time Oddity.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/74334b20a11e70ec20325c5311b032b0dacedf5a.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "78.7"
+          },
+          "SuchIsOurCalling": {
+            "name": "Such Is Our Calling",
+            "description": "Find the Predecessor.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/9c608f31e6ba2b6ab4a98b1c7640d2616dfbe4e4.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "78.7"
+          },
+          "SuppressedRecomposition": {
+            "name": "Suppressed Recomposition",
+            "description": "Defeat the Unmerged One.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/765ee169288bc0f19c1c100df5cfc6746f21c938.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "61.4"
+          },
+          "TemporalDestinationReached": {
+            "name": "Temporal Destination Reached",
+            "description": "Execute a Dive for the first time.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/6ca45fc634135a869022f75e143f575677a05ebd.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "61.4"
+          },
+          "TheAnnihilator": {
+            "name": "The Annihilator",
+            "description": "Defeat 5 enemies with a single Arbalest round.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/a755bf8e8628940b652dd5b3ca7576b3fc345795.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "13.7"
+          },
+          "TheAnvilOfTheCollective": {
+            "name": "The Anvil Of The Collective",
+            "description": "Defeat 4 enemies with a single Hammer shot.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/d4006d25c83a0a568c0ca7e8282442847a4d4ff8.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "21.1"
+          },
+          "TheArchivist": {
+            "name": "The Archivist",
+            "description": "Find all of the Travelogs.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/a8ad20393046e823c67a9d04e7f89c7f05a1516e.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "8.0"
+          },
+          "TheAscendance": {
+            "name": "The Ascendance",
+            "description": "Execute an Ascendance Sequence for the first time.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/2f176d5ae2b185757ee32f65b00da2e046564f30.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "58.7"
+          },
+          "TheBiggerTheyAre": {
+            "name": "The Bigger They Are",
+            "description": "Defeat the Terror in the Steelworks.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/98ac3ad950883d48cb7b97e27819512d667448c9.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "47.2"
+          },
+          "TheBoonOfTheRelics": {
+            "name": "The Boon Of The Relics",
+            "description": "Find all the weapons.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/e00743da9c3895f4136254907187f8c21998c0d8.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "22.4"
+          },
+          "TheCatfinder": {
+            "name": "The Catfinder",
+            "description": "Pet all the cats.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/e84f36cb96f06a8e6021f96dd0cc4685c7bca610.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "11.7"
+          },
+          "TheContribution": {
+            "name": "The Contribution",
+            "description": "Sell 15 valuable items.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/8cc091cb4bd44140ce1484d0516941a24e9c1994.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "41.8"
+          },
+          "TheOrthodox": {
+            "name": "The Orthodox",
+            "description": "Finish the game only with the Essences appointed by the Collective.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5cce12aafcf57c9721310cd1dea063386b2ff8d4.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "6.4"
+          },
+          "ThePathfinder": {
+            "name": "The Pathfinder",
+            "description": "Get the Pathfinder to the tram.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/2cec1e0033bb6900672ef0afa222bdb6301e4170.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "37.5"
+          },
+          "ThePraetorian": {
+            "name": "The Praetorian",
+            "description": "Fully upgrade all weapons.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/2d19a80750ad22a568c7b52c57fc490341de9e06.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "4.7"
+          },
+          "ThePreserver": {
+            "name": "The Preserver",
+            "description": "Transfer the Essences from all fallen Travelers.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/3f03e409c8153125779cd85bc09f1561e946b1a7.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "8.9"
+          },
+          "ThePyromaniac": {
+            "name": "The Pyromaniac",
+            "description": "Burn Biomass with the Pyre.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/945edc44575ca4a1c3df4dc8955cdc324aec8e5b.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "20.6"
+          },
+          "TheSacrificeOfTheFlesh": {
+            "name": "The Sacrifice Of The Flesh",
+            "description": "Defeat Eliza.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aedeadaaf48ae10fc2aece9cac94931778fe9fc4.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "37.5"
+          },
+          "ToBringThemBack": {
+            "name": "To Bring Them Back",
+            "description": "Transfer an Essence from a fallen Traveler.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/004e931a570f922f3841c8fa5482a1dbdb65498e.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "55.3"
+          },
+          "ToPaveThePath": {
+            "name": "To Pave The Path",
+            "description": "Fabricate all item types.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/8e2626dc41906443124b835e184abd7c91f2069c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "18.7"
+          },
+          "Togetherness": {
+            "name": "Togetherness",
+            "description": "Gather together the Essences of Lidia, Marcel and Krzysztof.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/2c3b2749e57276bb6c380c57bc37e64edbb236c4.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "10.4"
+          },
+          "UnadulteratedJoy": {
+            "name": "Unadulterated Joy",
+            "description": "Find all of the comic books.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/40269877edca801b6f3860f7ecc8592b95955bf9.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.0"
+          },
+          "WelcomeToTheVocation": {
+            "name": "Welcome To The Vocation",
+            "description": "Exit the REV-Capsule.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/8870d7b56e49ccbeee98471dbb5b6039c88077f3.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "97.9"
+          },
+          "YouNeverGiveUp": {
+            "name": "You Never Give Up",
+            "description": "Finish the game in the NG+.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/898de00cc28e9822da9c36752cd100dfb618c2c9.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "5.4"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "AFlickerOfHope": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "BetterThanOne": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "CounterGravityTraversal": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "DontLetThemMerge": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "DownWithTheSickness": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "DreamOfElectricSheep": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "EfficiencyDiscipline": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "EssenceAquired": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FireSpreading": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FixingThings": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ForGoodAndForIll": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ForgedInFire": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FreeFromAllTheScars": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HitLikeATrain": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "IAmFree": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "MayItServeYouFaultFree": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "MyBrothersKeeper": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "PublicTransport": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "PunksNotDead": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "RagingBull": {
+          "earned": true,
+          "earned_time": 1768287956
+        },
+        "RapidOxidation": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ResourcesAreScarce": {
+          "earned": true,
+          "earned_time": 1768287312
+        },
+        "ShellNotCompromised": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "SpacetimeOddity": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "SuchIsOurCalling": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "SuppressedRecomposition": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "TemporalDestinationReached": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "TheAnnihilator": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "TheAnvilOfTheCollective": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "TheArchivist": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "TheAscendance": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "TheBiggerTheyAre": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "TheBoonOfTheRelics": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "TheCatfinder": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "TheContribution": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "TheOrthodox": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ThePathfinder": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ThePraetorian": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ThePreserver": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ThePyromaniac": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "TheSacrificeOfTheFlesh": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ToBringThemBack": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ToPaveThePath": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Togetherness": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "UnadulteratedJoy": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "WelcomeToTheVocation": {
+          "earned": true,
+          "earned_time": 1768249866
+        },
+        "YouNeverGiveUp": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
       "appid": "2124490",
       "info": {
         "appid": "2124490",
@@ -1927,398 +2319,6 @@
           "earned_time": 0
         },
         "UseAllWeapons": {
-          "earned": false,
-          "earned_time": 0
-        }
-      }
-    },
-    {
-      "appid": "2206210",
-      "info": {
-        "appid": "2206210",
-        "name": "GYLT",
-        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206210/header.jpg?t=1771943235",
-        "achievements": {
-          "ACH_WAY_AROUND": {
-            "name": "A Way Around",
-            "description": "Get outside of the school courtyard",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/7994a1332ec5929e2f4a608f6cba1d1f40036dad.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "65.6"
-          },
-          "ACH_ART_BUILDING": {
-            "name": "Afternoon Activities",
-            "description": "Access the Art Building",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/d34796db10bcb0b0f417828ac7723e1c4438dc4c.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "48.8"
-          },
-          "ACH_REMAIN_DRY": {
-            "name": "Avoid a Cold",
-            "description": "Use the Planks to Remain Dry",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/ac2891c994d3fa94140d8bef19a3daefe9ca3da8.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "44.8"
-          },
-          "ACH_NO_KILLS": {
-            "name": "Avoid Conflict",
-            "description": "End the Game without Killing Anyone (without bosses)",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/aa42142a4a2f98a0cc80a9b11ea05ee9d4004d3c.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "4.3"
-          },
-          "ACH_AVOID_VIOLENCE": {
-            "name": "Avoid the Violence",
-            "description": "Defeat Violence in the Laboratory Without Being Hit",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/effd24742e22a43abcff8280efc9e0877adb8563.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "11.7"
-          },
-          "ACH_KILL_STEALTH": {
-            "name": "Backlighted",
-            "description": "Kill an enemy with a Stealth Attack",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/81e637fda7ed0d99b19237454cc659c76fc3b1ec.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "63.8"
-          },
-          "ACH_FREEZE_AND_PUSH": {
-            "name": "Breaking the Ice",
-            "description": "Freeze an Enemy and Push Him",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/e8f603736cef0f0a6e77a4e22fbb7ae2fdccd1ae.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "18.7"
-          },
-          "ACH_EXPOSURE_UNDETECTED": {
-            "name": "Don't be Exposed",
-            "description": "Escape from the Arcade without being detected by Exposure",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/ee8f3ea3b58021f4d974bece91b15cbfa9b00e7f.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "11.8"
-          },
-          "ACH_3FLASH": {
-            "name": "Don't Look at the Light",
-            "description": "Blind Three Enemies at the Same Time",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/dbb508607fab70d7e1e433e1164a111b0ae73ef5.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "50.9"
-          },
-          "ACH_REMOVE_BATTERY": {
-            "name": "Game Over",
-            "description": "Remove the battery from the Arcade core",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/f9acff5e7ae08c703eb72f48f1900aaabb5b368c.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "58.3"
-          },
-          "ACH_INHABITANTS": {
-            "name": "Helping the Missing Ones",
-            "description": "Free all the Inhabitants",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/36f62f6ff3cf85f17a1b31eedcea6d08edf69031.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "20.0"
-          },
-          "ACH_SAVE_SALLY": {
-            "name": "I Just Can't Stay Here",
-            "description": "Escape with Sally",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/2ebf26f4981f4d5b40c911a3c0a215afef7cfff2.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "16.4"
-          },
-          "ACH_FREEZE_ALL_ENEMIES": {
-            "name": "I Love Snowmen",
-            "description": "Freeze one Enemy of Each Type",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/ed18205931934d9ae30076d9e36cf32209e84e33.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "8.4"
-          },
-          "ACH_SAVE_EMILY": {
-            "name": "I Simply Can't Go Back",
-            "description": "Escape with Emily",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/602b8695cd549099b320bf5198a19a0cab347ae5.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "36.0"
-          },
-          "ACH_KILL_LIGHT": {
-            "name": "Let There be Light",
-            "description": "Defeat an Enemy with the Flashlight Beam",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/51535e84c0b2f2bc4100c3d80d6645e045a9c876.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "69.3"
-          },
-          "ACH_TIME_TO_PLAY": {
-            "name": "No Time to Play",
-            "description": "Try to play another game by Tequila Works",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/11e0d304bf41ff5d19e128c2b19f1388f4b19bbc.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "39.8"
-          },
-          "ACH_HIT_WITH_CAN": {
-            "name": "Oops... Sorry",
-            "description": "Hit an enemy with a can",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/91ad0869f71a4a81252259071ff3ce0987b45cf3.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "22.5"
-          },
-          "ACH_ESCAPE_HELPLESSNESS": {
-            "name": "Overcome the Helplessness",
-            "description": "Escape from Helplessness",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/553ae09d7314e92696890a346f71cec58b4191bd.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "41.5"
-          },
-          "ACH_DEFEAT_EXPOSURE": {
-            "name": "Secrets are private",
-            "description": "Defeat Exposure",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/3b461e1370dd3f1fac57375929b44ca99d54f40a.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "49.2"
-          },
-          "ACH_POP_SHOCK": {
-            "name": "Shocked!",
-            "description": "Shock an Enemy",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/30b73f2a2e1181870571da5cca46cdf5b3518237.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "24.2"
-          },
-          "ACH_BASKETBALL_COURT": {
-            "name": "Sports Prison",
-            "description": "Reach the Basketball Court",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/fe6e02cdfe70bf46e5f7c949b4fec57b70574988.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "45.1"
-          },
-          "ACH_HOOP_CAN": {
-            "name": "Take it to the Hoop",
-            "description": "Hoop a can",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/6f76102fbe51a93a3b523a4c0658efa7d18333cc.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "7.5"
-          },
-          "ACH_ENTER_SCHOOL": {
-            "name": "The Place of Nightmares",
-            "description": "Enter the school looking for Emily",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/f9e98a871c3d7d3b852e78b47f57beda3da614d7.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "88.9"
-          },
-          "ACH_FINAL_MINE": {
-            "name": "The Truth Behind the Mask",
-            "description": "Reach the Final Mine",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/4b1ed5d79a5fb2ac8b3bbaf8fc74835dfa22e41a.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "42.0"
-          },
-          "ACH_DIARIES": {
-            "name": "Those are her Feelings",
-            "description": "Get all the Diaries",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/c78ba5f2bb6336b4bbc0d0e3810a74ad63c1142d.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "19.4"
-          },
-          "ACH_DEFEAT_VIOLENCE": {
-            "name": "Violence is not the Answer",
-            "description": "Defeat Violence",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/954be1b1cc416445dd25abd7b78eaf99d6bd7462.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "43.0"
-          },
-          "ACH_SEE_WEIRDNESS": {
-            "name": "What is this place?",
-            "description": "See the weirdness in the school",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/407a04ead9c35d45648c904de553fa2be662340e.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "56.2"
-          },
-          "ACH_INTO_THEATER": {
-            "name": "Winter Play",
-            "description": "Get into the Theater",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/11e6a854868a08aa4713b5ce44baaf573a153341.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "50.7"
-          },
-          "ACH_SAVE_BOTH": {
-            "name": "You Both Deserve to Go",
-            "description": "Escape with Both Sally and Emily",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5488bcd966bc4fa38ed5f286df94d66000655a4b.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
-            "hidden": true,
-            "group": "Base Game",
-            "percent": "15.2"
-          }
-        },
-        "platform": null,
-        "blacklist": [],
-        "uses_db": false
-      },
-      "achievements": {
-        "ACH_3FLASH": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_ART_BUILDING": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_AVOID_VIOLENCE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_BASKETBALL_COURT": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_DEFEAT_EXPOSURE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_DEFEAT_VIOLENCE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_DIARIES": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_ENTER_SCHOOL": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_ESCAPE_HELPLESSNESS": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_EXPOSURE_UNDETECTED": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_FINAL_MINE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_FREEZE_ALL_ENEMIES": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_FREEZE_AND_PUSH": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_HIT_WITH_CAN": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_HOOP_CAN": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_INHABITANTS": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_INTO_THEATER": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_KILL_LIGHT": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_KILL_STEALTH": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_NO_KILLS": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_POP_SHOCK": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_REMAIN_DRY": {
-          "earned": true,
-          "earned_time": 1767744337
-        },
-        "ACH_REMOVE_BATTERY": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_SAVE_BOTH": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_SAVE_EMILY": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_SAVE_SALLY": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_SEE_WEIRDNESS": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_TIME_TO_PLAY": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_WAY_AROUND": {
           "earned": false,
           "earned_time": 0
         }
