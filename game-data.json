@@ -1,5 +1,5 @@
 {
-  "last_updated": 1774922890,
+  "last_updated": 1775010290,
   "total_games": 4,
   "games": [
     {
@@ -52,7 +52,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/16243a4bc7fae868263a18ecace79f6b87ee19bc.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "70.9"
+            "percent": "71.0"
           },
           "BACK_TO_LUMIERE": {
             "name": "Back to Lumière",
@@ -142,7 +142,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/459eae107d426e55d0ade6ce65e98bec756310c8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "54.5"
+            "percent": "54.6"
           },
           "ALL_MONOCO_SKILLS": {
             "name": "Feet Collection",
@@ -160,7 +160,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5a6b40fe2bfed7a199a70aeeee6b8b32c86ab0da.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "52.6"
+            "percent": "52.7"
           },
           "FLYING_WATERS": {
             "name": "Flying Waters",
@@ -178,7 +178,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/8e4b22996ded83313c0e688b633e001d7ed73fc9.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.1"
+            "percent": "10.2"
           },
           "FORGOTTEN_BATTLEFIELD": {
             "name": "Forgotten Battlefield",
@@ -286,7 +286,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d6d7e79ea6cb117920423a2b2578a522c500a5c9.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "57.6"
+            "percent": "57.7"
           },
           "MONOLITH": {
             "name": "Monolith",
@@ -295,7 +295,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/10cefd7d61852b3904f6d1fd326411fe82e3f622.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "50.4"
+            "percent": "50.5"
           },
           "PAINTING_WORKSHOP": {
             "name": "Noir et Blanc",
@@ -349,7 +349,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/4d01ce52bd3d66c59b277bc01d970bf3dc322769.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "16.0"
+            "percent": "16.1"
           },
           "LUNE_STAINS": {
             "name": "Perfect Flow",
@@ -385,7 +385,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/148809abf1e8bd9a5db902a1d4623dc7143eb6fb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "51.4"
+            "percent": "51.5"
           },
           "SCIEL_RELATIONSHIP": {
             "name": "Sciel",
@@ -457,7 +457,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d451fa9a94d7fe423e713ccdd7d37cbce6176f90.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "39.1"
+            "percent": "39.2"
           },
           "BREAK": {
             "name": "Time to Spill Some Ink",
@@ -1764,7 +1764,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/919dfdcbb22a6165d6560e6e37928708e67e714a.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "43.6"
+            "percent": "43.5"
           },
           "ReachBrookhavenHospital": {
             "name": "Admitted",
@@ -1773,7 +1773,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/53f6c68898176f9f56b74b78c80ef97560cf3481.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "56.3"
+            "percent": "56.2"
           },
           "SH3Reference": {
             "name": "All Seems in Order",
@@ -1791,7 +1791,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/f81ec7637aa7c9607ca867e5116f4cea820b74f7.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "50.1"
+            "percent": "50.0"
           },
           "Archivist": {
             "name": "Archivist",
@@ -1818,7 +1818,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/06b1a4e4049db78bc6ded330df15f4c23265f6ac.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "57.5"
+            "percent": "57.4"
           },
           "EndingRebirth": {
             "name": "Defy Even Death",
@@ -1881,7 +1881,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/e5cdc78471196c3c75cd3ca53e5356908ac496b1.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "44.1"
+            "percent": "44.0"
           },
           "ReachLongStaircaseEnd": {
             "name": "Into the Abyss",
@@ -1890,7 +1890,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/dc253d4e287ad3fe913dc2468e51a44554c1891d.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "48.5"
+            "percent": "48.4"
           },
           "InteractWithBread": {
             "name": "It's Bread",
@@ -1899,7 +1899,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/0c742ff44e0e34f43aa117a93f44d05a18efa0a7.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "32.5"
+            "percent": "32.4"
           },
           "UseAllWeapons": {
             "name": "James of All Trades",
@@ -1908,7 +1908,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/3ad391bd1f83058d466c31ae7f242d2633f9c2dc.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "42.1"
+            "percent": "42.0"
           },
           "PizzaInBowling": {
             "name": "Leftovers",
@@ -1962,7 +1962,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/b0f03a891ac9baffedf4798f5f098c6517824433.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "75.5"
+            "percent": "75.4"
           },
           "DefeatFleshLip": {
             "name": "Nightmare Fuel",
@@ -1971,7 +1971,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/8fa7a5704fefa57a73fe27f0156a5f22fadb7c93.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "52.2"
+            "percent": "52.1"
           },
           "KillEnemiesRanged": {
             "name": "No Big Deal",
@@ -2016,7 +2016,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/026fdae2617884ad7ec7f62a53febe8713924c69.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "63.0"
+            "percent": "62.9"
           },
           "SeeAllCanonEndings": {
             "name": "Party Like It's 2001",
@@ -2034,7 +2034,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/477b9fc649892a0e84623f3512b096471ea57202.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "58.4"
+            "percent": "58.3"
           },
           "FindPhotos": {
             "name": "Pieces Unarranged",
@@ -2052,7 +2052,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/6133ffc937a330a0bff1840cd19751d2296bfa2f.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "5.0"
+            "percent": "4.9"
           },
           "LongSwimInTolucaLake": {
             "name": "Scourge of Toluca Lake",
@@ -2070,7 +2070,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/832d432ddd398abd433ce3953d9735c9512533f2.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "59.4"
+            "percent": "59.3"
           },
           "DefeatBossMary": {
             "name": "That Part of Me",
@@ -2079,7 +2079,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/6ff86e171c787231d5f3461b133bc54a1764fa11.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "42.3"
+            "percent": "42.2"
           },
           "EndingDog": {
             "name": "The Goodest Boi",
@@ -2106,7 +2106,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/f90ab08613541662c3a67c996d87a4c1135d5be6.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "42.5"
+            "percent": "42.4"
           },
           "MeetMaria": {
             "name": "Uncanny",
