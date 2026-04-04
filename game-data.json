@@ -1,5 +1,5 @@
 {
-  "last_updated": 1775181977,
+  "last_updated": 1775267907,
   "total_games": 4,
   "games": [
     {
@@ -25,7 +25,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/e62c3a1f5a249fc32fe2652beb97364ddbdd7bce.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "25.5"
+            "percent": "25.6"
           },
           "LUMIERE_MIME": {
             "name": "A Peculiar Encounter",
@@ -34,7 +34,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/116758b973e6d42226cdb8d69ef63783b9595759.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "45.1"
+            "percent": "45.2"
           },
           "NEVRON_QUESTS": {
             "name": "Aiding the Enemy",
@@ -52,7 +52,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/16243a4bc7fae868263a18ecace79f6b87ee19bc.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "70.9"
+            "percent": "71.0"
           },
           "BACK_TO_LUMIERE": {
             "name": "Back to Lumière",
@@ -61,7 +61,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/134965999d594de3fb44bfb7d702a923ce2c9bd2.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "47.4"
+            "percent": "47.5"
           },
           "PETANK_ALPHA": {
             "name": "Carreau Parfait",
@@ -97,7 +97,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/f8c261b7bbc52967152f205ee5739c5471c57d26.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.0"
+            "percent": "10.1"
           },
           "OPTIONAL_CAMP": {
             "name": "Curious",
@@ -106,7 +106,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/bf46ac3a8691b02c833b93d124425d4922195dfb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "71.3"
+            "percent": "71.4"
           },
           "ESQUIE_RELATIONSHIP": {
             "name": "Esquie",
@@ -133,7 +133,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/010f6f1c7dcbf1fe29f5a2098f7136446c269132.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "57.7"
+            "percent": "57.8"
           },
           "LEVEL_33": {
             "name": "Expeditioner",
@@ -142,7 +142,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/459eae107d426e55d0ade6ce65e98bec756310c8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "54.5"
+            "percent": "54.6"
           },
           "ALL_MONOCO_SKILLS": {
             "name": "Feet Collection",
@@ -160,7 +160,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5a6b40fe2bfed7a199a70aeeee6b8b32c86ab0da.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "52.6"
+            "percent": "52.7"
           },
           "FLYING_WATERS": {
             "name": "Flying Waters",
@@ -169,7 +169,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/1bd3aa1af1768d52fcbaca6b21ca5761b788c945.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "74.3"
+            "percent": "74.4"
           },
           "JOURNALS": {
             "name": "Follow The Trail",
@@ -178,7 +178,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/8e4b22996ded83313c0e688b633e001d7ed73fc9.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.1"
+            "percent": "10.2"
           },
           "FORGOTTEN_BATTLEFIELD": {
             "name": "Forgotten Battlefield",
@@ -187,7 +187,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/79b61676145e4c151eb2926185afd87fe989ea0e.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "58.8"
+            "percent": "58.9"
           },
           "GESTRAL_BEACH": {
             "name": "Gestral Games",
@@ -205,7 +205,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/75728078954be60bdb48b3f2a894e4ed1481ee48.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "68.6"
+            "percent": "68.7"
           },
           "ESQUIE_UNLOCK": {
             "name": "Legend",
@@ -241,7 +241,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/2fb6f89282c281f4bc2625aeacebe2bd60d99ae8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "71.8"
+            "percent": "71.9"
           },
           "LUNE_RELATIONSHIP": {
             "name": "Lune",
@@ -286,7 +286,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d6d7e79ea6cb117920423a2b2578a522c500a5c9.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "57.6"
+            "percent": "57.7"
           },
           "MONOLITH": {
             "name": "Monolith",
@@ -295,7 +295,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/10cefd7d61852b3904f6d1fd326411fe82e3f622.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "50.4"
+            "percent": "50.5"
           },
           "PAINTING_WORKSHOP": {
             "name": "Noir et Blanc",
@@ -313,7 +313,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/3f95d91bfaa0d5de3efd887f200ad347bca668a6.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "55.3"
+            "percent": "55.4"
           },
           "GUSTAVE_OVERCHARGE": {
             "name": "Overcharge",
@@ -322,7 +322,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/e38e5976d3d913f30401e92a99afa680af8e560a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "81.5"
+            "percent": "81.6"
           },
           "PAINT_CAGE": {
             "name": "Paint Cage",
@@ -331,7 +331,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/f3d069b62c3560aef6ee465477ececd983bb143c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "76.6"
+            "percent": "76.7"
           },
           "PAINTRESS": {
             "name": "Paintress",
@@ -367,7 +367,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/05734ee5e04508e931da911e6d68cc6a27e6d67e.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "56.6"
+            "percent": "56.7"
           },
           "ESQUIE_UPGRADES": {
             "name": "Plane, Train, and Submarine",
@@ -376,7 +376,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/19a606703fa581feaa8fe8581bc6146f5e77cc1a.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "34.4"
+            "percent": "34.5"
           },
           "NO_DAMAGE_BOSS": {
             "name": "Professional",
@@ -385,7 +385,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/148809abf1e8bd9a5db902a1d4623dc7143eb6fb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "51.4"
+            "percent": "51.5"
           },
           "SCIEL_RELATIONSHIP": {
             "name": "Sciel",
@@ -403,7 +403,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/4d8017c91fa592fe5892a08a130d62dd3c95a950.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "51.1"
+            "percent": "51.2"
           },
           "SPRING_MEADOWS": {
             "name": "Spring Meadows",
@@ -412,7 +412,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/c0626097955c7bab141a4200177ad33aa988baac.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "81.4"
+            "percent": "81.5"
           },
           "SPRONG": {
             "name": "Sprong",
@@ -430,7 +430,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/78bcdfc829c30d4bf47a3d90b4f15a82bb010b09.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "62.6"
+            "percent": "62.7"
           },
           "LEVEL_99": {
             "name": "Survivor",
@@ -439,7 +439,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/9a8bdbce54589b4e2378045a6be70b68b54afbf8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "12.7"
+            "percent": "12.8"
           },
           "MAELLE_STANCES": {
             "name": "Synergy",
@@ -448,7 +448,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/26b6bf703dfbf65c102b5d2a48b99522c38e9b75.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "43.9"
+            "percent": "44.0"
           },
           "THE_END": {
             "name": "The End",
@@ -457,7 +457,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d451fa9a94d7fe423e713ccdd7d37cbce6176f90.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "39.1"
+            "percent": "39.2"
           },
           "BREAK": {
             "name": "Time to Spill Some Ink",
@@ -773,7 +773,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "4.3"
+            "percent": "4.4"
           },
           "ACH_AVOID_VIOLENCE": {
             "name": "Avoid the Violence",
@@ -809,7 +809,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "11.8"
+            "percent": "11.9"
           },
           "ACH_3FLASH": {
             "name": "Don't Look at the Light",
@@ -908,7 +908,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "49.2"
+            "percent": "49.3"
           },
           "ACH_POP_SHOCK": {
             "name": "Shocked!",
