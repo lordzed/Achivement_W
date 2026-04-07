@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.5"
     },
     "DownWithTheSickness": {
       "name": "Down With The Sickness",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.6"
     },
     "EfficiencyDiscipline": {
       "name": "Efficiency Discipline",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.6"
     },
     "FireSpreading": {
       "name": "Fire. Spreading.",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.6"
     },
     "ForGoodAndForIll": {
       "name": "For Good And For Ill",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.6"
     },
     "ForgedInFire": {
       "name": "Forged In Fire",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "40.1"
     },
     "IAmFree": {
       "name": "I Am Free",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.6"
     },
     "RagingBull": {
       "name": "Raging Bull",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "78.7"
+      "percent": "78.8"
     },
     "SuppressedRecomposition": {
       "name": "Suppressed Recomposition",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.8"
     },
     "ThePraetorian": {
       "name": "The Praetorian",

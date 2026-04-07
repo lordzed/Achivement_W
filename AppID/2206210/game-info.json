@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.6"
+      "percent": "65.7"
     },
     "ACH_ART_BUILDING": {
       "name": "Afternoon Activities",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.3"
     },
     "ACH_AVOID_VIOLENCE": {
       "name": "Avoid the Violence",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.3"
+      "percent": "58.4"
     },
     "ACH_INHABITANTS": {
       "name": "Helping the Missing Ones",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "19.9"
     },
     "ACH_SAVE_SALLY": {
       "name": "I Just Can't Stay Here",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.8"
     },
     "ACH_SAVE_BOTH": {
       "name": "You Both Deserve to Go",
