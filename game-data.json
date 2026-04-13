@@ -1,5 +1,5 @@
 {
-  "last_updated": 1775960730,
+  "last_updated": 1776047395,
   "total_games": 4,
   "games": [
     {
@@ -773,7 +773,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "4.3"
+            "percent": "4.4"
           },
           "ACH_AVOID_VIOLENCE": {
             "name": "Avoid the Violence",
@@ -836,7 +836,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "19.9"
+            "percent": "20.0"
           },
           "ACH_SAVE_SALLY": {
             "name": "I Just Can't Stay Here",
@@ -845,7 +845,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "16.4"
+            "percent": "16.5"
           },
           "ACH_FREEZE_ALL_ENEMIES": {
             "name": "I Love Snowmen",
@@ -863,7 +863,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "36.0"
+            "percent": "36.1"
           },
           "ACH_KILL_LIGHT": {
             "name": "Let There be Light",
@@ -899,7 +899,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "41.5"
+            "percent": "41.6"
           },
           "ACH_DEFEAT_EXPOSURE": {
             "name": "Secrets are private",
@@ -998,7 +998,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "15.2"
+            "percent": "15.3"
           }
         },
         "platform": null,
@@ -1712,7 +1712,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "25.5"
+            "percent": "25.6"
           },
           "BetterThanOne": {
             "name": "Better Than One",
@@ -1739,7 +1739,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "40.9"
+            "percent": "41.0"
           },
           "DontLetThemMerge": {
             "name": "Don't Let Them Merge",
@@ -1757,7 +1757,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "41.6"
+            "percent": "41.7"
           },
           "EfficiencyDiscipline": {
             "name": "Efficiency Discipline",
@@ -1793,7 +1793,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "37.6"
+            "percent": "37.7"
           },
           "ForGoodAndForIll": {
             "name": "For Good And For Ill",
@@ -1802,7 +1802,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "41.6"
+            "percent": "41.7"
           },
           "ForgedInFire": {
             "name": "Forged In Fire",
@@ -1829,7 +1829,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "40.1"
+            "percent": "40.2"
           },
           "IAmFree": {
             "name": "I Am Free",
@@ -1838,7 +1838,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "20.8"
+            "percent": "20.9"
           },
           "MayItServeYouFaultFree": {
             "name": "May It Serve You Fault-Free",
@@ -1865,7 +1865,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "55.6"
+            "percent": "55.7"
           },
           "PunksNotDead": {
             "name": "Punks Not Dead!",
@@ -1937,7 +1937,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "61.5"
+            "percent": "61.6"
           },
           "TemporalDestinationReached": {
             "name": "Temporal Destination Reached",
@@ -1982,7 +1982,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "58.8"
+            "percent": "58.9"
           },
           "TheBiggerTheyAre": {
             "name": "The Bigger They Are",
@@ -1991,7 +1991,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "47.5"
+            "percent": "47.6"
           },
           "TheBoonOfTheRelics": {
             "name": "The Boon Of The Relics",
@@ -2036,7 +2036,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "37.8"
+            "percent": "37.9"
           },
           "ThePraetorian": {
             "name": "The Praetorian",
@@ -2099,7 +2099,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "10.5"
+            "percent": "10.6"
           },
           "UnadulteratedJoy": {
             "name": "Unadulterated Joy",

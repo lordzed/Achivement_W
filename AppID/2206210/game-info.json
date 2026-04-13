@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "ACH_AVOID_VIOLENCE": {
       "name": "Avoid the Violence",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "ACH_SAVE_SALLY": {
       "name": "I Just Can't Stay Here",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "ACH_FREEZE_ALL_ENEMIES": {
       "name": "I Love Snowmen",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "36.1"
     },
     "ACH_KILL_LIGHT": {
       "name": "Let There be Light",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.6"
     },
     "ACH_DEFEAT_EXPOSURE": {
       "name": "Secrets are private",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.3"
     }
   },
   "platform": null,
