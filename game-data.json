@@ -1,5 +1,5 @@
 {
-  "last_updated": 1776565731,
+  "last_updated": 1776652169,
   "total_games": 4,
   "games": [
     {
@@ -151,7 +151,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/90783dcecfde9c3359113a58688a76bb975734e6.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "15.0"
+            "percent": "15.1"
           },
           "FIRST_AXON": {
             "name": "First Axon",
@@ -160,7 +160,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5a6b40fe2bfed7a199a70aeeee6b8b32c86ab0da.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "52.8"
+            "percent": "52.9"
           },
           "FLYING_WATERS": {
             "name": "Flying Waters",
@@ -746,7 +746,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "65.7"
+            "percent": "65.6"
           },
           "ACH_ART_BUILDING": {
             "name": "Afternoon Activities",
@@ -764,7 +764,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "44.9"
+            "percent": "44.8"
           },
           "ACH_NO_KILLS": {
             "name": "Avoid Conflict",
@@ -845,7 +845,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "16.5"
+            "percent": "16.4"
           },
           "ACH_FREEZE_ALL_ENEMIES": {
             "name": "I Love Snowmen",
@@ -890,7 +890,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "22.6"
+            "percent": "22.5"
           },
           "ACH_ESCAPE_HELPLESSNESS": {
             "name": "Overcome the Helplessness",
@@ -998,7 +998,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "15.3"
+            "percent": "15.2"
           }
         },
         "platform": null,
@@ -1372,7 +1372,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/6b33b7d0dfa0f8f7a7ad904e88acffe11b469d38.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "42.5"
+            "percent": "42.6"
           },
           "EndingInWater": {
             "name": "Only Way Out",
@@ -1721,7 +1721,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "56.6"
+            "percent": "56.5"
           },
           "CounterGravityTraversal": {
             "name": "Counter-Gravity Traversal",
@@ -1856,7 +1856,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "47.6"
+            "percent": "47.5"
           },
           "PublicTransport": {
             "name": "Public Transport",
@@ -2045,7 +2045,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "4.8"
+            "percent": "4.7"
           },
           "ThePreserver": {
             "name": "The Preserver",
@@ -2081,7 +2081,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "55.6"
+            "percent": "55.5"
           },
           "ToPaveThePath": {
             "name": "To Pave The Path",
