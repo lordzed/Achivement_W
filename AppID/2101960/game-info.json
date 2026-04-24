@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.5"
     },
     "BetterThanOne": {
       "name": "Better Than One",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.4"
     },
     "FireSpreading": {
       "name": "Fire. Spreading.",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.1"
+      "percent": "40.0"
     },
     "IAmFree": {
       "name": "I Am Free",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.2"
     },
     "TheArchivist": {
       "name": "The Archivist",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.0"
+      "percent": "41.9"
     },
     "TheOrthodox": {
       "name": "The Orthodox",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.9"
+      "percent": "37.8"
     },
     "ToBringThemBack": {
       "name": "To Bring Them Back",

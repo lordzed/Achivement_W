@@ -1,5 +1,5 @@
 {
-  "last_updated": 1776911222,
+  "last_updated": 1776997659,
   "total_games": 4,
   "games": [
     {
@@ -268,7 +268,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d4a970cb0a8d83612b256f0799e8939596a4b2fa.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "35.3"
+            "percent": "35.2"
           },
           "MONOCO_RELATIONSHIP": {
             "name": "Monoco",
@@ -439,7 +439,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/9a8bdbce54589b4e2378045a6be70b68b54afbf8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "12.9"
+            "percent": "12.8"
           },
           "MAELLE_STANCES": {
             "name": "Synergy",
@@ -457,7 +457,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d451fa9a94d7fe423e713ccdd7d37cbce6176f90.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "39.5"
+            "percent": "39.4"
           },
           "BREAK": {
             "name": "Time to Spill Some Ink",
@@ -484,7 +484,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/b0669aed88896cce28ceb6b67f70c25951e051b7.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "25.8"
+            "percent": "25.7"
           },
           "WEAPON_FIRST_UPGRADE": {
             "name": "Weapon Upgrade",
@@ -845,7 +845,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "16.4"
+            "percent": "16.5"
           },
           "ACH_FREEZE_ALL_ENEMIES": {
             "name": "I Love Snowmen",
@@ -989,7 +989,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "50.7"
+            "percent": "50.8"
           },
           "ACH_SAVE_BOTH": {
             "name": "You Both Deserve to Go",
@@ -1372,7 +1372,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/6b33b7d0dfa0f8f7a7ad904e88acffe11b469d38.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "42.7"
+            "percent": "42.6"
           },
           "EndingInWater": {
             "name": "Only Way Out",
@@ -1399,7 +1399,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2124490/0d3ba777a07cf7831476ca59f4c38186f106c9d2.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "3.6"
+            "percent": "3.5"
           },
           "DefeatPyramidHead": {
             "name": "Passed",
@@ -1712,7 +1712,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "25.6"
+            "percent": "25.5"
           },
           "BetterThanOne": {
             "name": "Better Than One",
@@ -1775,7 +1775,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "59.5"
+            "percent": "59.4"
           },
           "FireSpreading": {
             "name": "Fire. Spreading.",
@@ -1829,7 +1829,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "40.1"
+            "percent": "40.0"
           },
           "IAmFree": {
             "name": "I Am Free",
@@ -1964,7 +1964,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "21.3"
+            "percent": "21.2"
           },
           "TheArchivist": {
             "name": "The Archivist",
@@ -2018,7 +2018,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "42.0"
+            "percent": "41.9"
           },
           "TheOrthodox": {
             "name": "The Orthodox",
@@ -2072,7 +2072,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "37.9"
+            "percent": "37.8"
           },
           "ToBringThemBack": {
             "name": "To Bring Them Back",

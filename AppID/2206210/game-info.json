@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "ACH_FREEZE_ALL_ENEMIES": {
       "name": "I Love Snowmen",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2206210/5f217e094f2f8b8d06fa3b87931517576c49f8b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.8"
     },
     "ACH_SAVE_BOTH": {
       "name": "You Both Deserve to Go",
